@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "talento": "aeromostra",
+        "venue": "centro_colombo_americano",
+        "fecha": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56266665458679,
+          6.249824446049814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "talento": "musica_inmobiliaria",
+        "venue": "centro_colombo_americano",
+        "fecha": "2017-03-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56233406066895,
+          6.250059077560647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "talento": "zdey",
+        "sitio": "centro_colombo_americano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56247353553772,
+          6.249955093154051
+        ]
+      }
+    }
+  ]
+}
