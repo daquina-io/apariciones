@@ -1,0 +1,91 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "selva",
+        "fecha": "2015-05-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6800537109375,
+          3.091150714460597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "rio",
+        "fecha": "2010-05-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7734375,
+          4.1711154548674365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "selva",
+        "fecha": "2015-05-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6800537109375,
+          3.091150714460597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "rio",
+        "fecha": "2010-05-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7734375,
+          4.1711154548674365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#c85959",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nombre ": "dbam",
+        "venue": "valle",
+        "fecha": "2010-05-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.970458984375,
+          8.309341443917644
+        ]
+      }
+    }
+  ]
+}
