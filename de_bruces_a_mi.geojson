@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Carrera 74",
+        "event": "Concierto de la Juventud",
+        "date": "2015-08-07",
+        "capacity": 10000,
+        "ocupation": 50,
+        "price": 0,
+        "funder": "Alcaldía de Medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59207439422607,
+          6.256620718427036
+        ]
+      }
+    }
+  ]
+}
