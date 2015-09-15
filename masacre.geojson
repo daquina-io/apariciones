@@ -97,6 +97,22 @@
           5.572249801113911
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "frikis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.729248046875,
+          6.282538526926375
+        ]
+      }
     }
   ]
 }
