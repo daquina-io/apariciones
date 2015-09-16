@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "origen": "Forgiven"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.581764,6.283424
+        ]
+      }
+    }
+  ]
+}

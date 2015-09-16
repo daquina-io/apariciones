@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "origen": "Dulce Armonía Internacional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5749932,6.2259446
+        ]
+      }
+    }
+  ]
+}

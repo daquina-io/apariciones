@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "origen": "Banda Plena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.625108,6.250918
+        ]
+      }
+    }
+  ]
+}

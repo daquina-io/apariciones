@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "origen": "Rap Del Vientre (RDV)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.551788,6.231838
+        ]
+      }
+    }
+  ]
+}

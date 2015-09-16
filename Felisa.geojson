@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "origen": "Felisa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5620844,6.2096348
+        ]
+      }
+    }
+  ]
+}

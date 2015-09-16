@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "origen": "Grupo Nostalgys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.611548,6.249633
+        ]
+      }
+    }
+  ]
+}

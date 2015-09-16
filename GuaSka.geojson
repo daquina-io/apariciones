@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "origen": "Gua-Ska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.575198,6.301148
+        ]
+      }
+    }
+  ]
+}

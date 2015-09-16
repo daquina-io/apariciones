@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "origen": "Rogs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.573059,6.2298494
+        ]
+      }
+    }
+  ]
+}

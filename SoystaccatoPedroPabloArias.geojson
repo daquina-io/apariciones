@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "origen": "Soystaccato - Pedro Pablo Arias"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.603157,6.257722
+        ]
+      }
+    }
+  ]
+}
