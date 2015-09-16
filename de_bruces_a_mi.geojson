@@ -22,6 +22,40 @@
           6.256620718427036
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "ocasion": "Latin Reggae Showcase 2015",
+        "fecha": "2015-07-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.69993925094604,
+          49.14960834801919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "ocasion": "Victoria Ska Fest",
+        "fecha": "2015-07-04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3699417114258,
+          48.42291759174698
+        ]
+      }
     }
   ]
 }
