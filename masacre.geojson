@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Teatro de Seda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5620551109314,
+          6.2457397078894035
+        ]
+      }
+    }
+  ]
+}
