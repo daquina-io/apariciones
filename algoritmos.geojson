@@ -8,7 +8,12 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "venue": "Teatro Pedregal",
-        "fecha": "2015-08-01"
+        "date": "2015-08-01",
+        "founder": "Medellin Vive La Música",
+        "price": 0,
+        "capacity": 15,
+        "occupation": 0,
+        "event": "Divulgación"
       },
       "geometry": {
         "type": "Point",
@@ -24,12 +29,14 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "sitio": "Transfusión",
-        "ocasion": "El Suiche",
-        "fecha": "2015-08-19",
-        "cartel": "Niño Negro, La Vulva, Sonanbulo",
-        "capacidad": 200,
-        "ocupacion": 20
+        "venue": "Transfusión",
+        "date": "2015-08-19",
+        "event": "El Suiche",
+        "lineup": "Niño Negro, La Vulva, Sonanbulo",
+        "founder": "El Suiche",
+        "price": 0,
+        "occupation": 20,
+        "capacity": 200
       },
       "geometry": {
         "type": "Point",
@@ -45,11 +52,13 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "sitio": "Casa Tres Patios",
-        "ocasion": "Un/Loquer",
-        "fecha": "2015-08-15",
-        "capacidad": 15,
-        "ocupacion": 7
+        "venue": "Casa Tres Patios",
+        "date": "2015-08-15",
+        "event": "Un/Loquer",
+        "founder": "Medellin Vive La Música",
+        "price": 0,
+        "occupation": 7,
+        "capacity": 15
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +80,7 @@
         "capacity": 10,
         "occupation": 100,
         "price": 0,
-        "funder": "Medellin Vive La Música"
+        "founder": "Medellin Vive La Música"
       },
       "geometry": {
         "type": "Point",
@@ -93,7 +102,7 @@
         "capacity": 10,
         "occupation": 10,
         "price": 0,
-        "funder": "Medellin Vive La Música"
+        "founder": "Medellin Vive La Música"
       },
       "geometry": {
         "type": "Point",
@@ -114,7 +123,8 @@
         "capacity": 300,
         "occupation": 30,
         "price": 0,
-        "founder": "Medellin vive La Música"
+        "founder": "Medellin vive La Música",
+        "date": "2014-05-09"
       },
       "geometry": {
         "type": "Point",
