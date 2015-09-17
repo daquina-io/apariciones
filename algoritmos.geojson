@@ -102,6 +102,27 @@
           6.243382703482547
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Planetario de Medellin",
+        "event": "Lanzamiento Medellin Vive La Música",
+        "capacity": 300,
+        "occupation": 30,
+        "price": 0,
+        "founder": "Medellin vive La Música"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56609988212585,
+          6.2688399218335915
+        ]
+      }
     }
   ]
 }
