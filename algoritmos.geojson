@@ -58,6 +58,50 @@
           6.26053740018845
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Casa Morada",
+        "date": "2015-08-22",
+        "event": "semillero de programacion",
+        "capacity": 10,
+        "occupation": 100,
+        "price": 0,
+        "funder": "Medellin Vive La Música"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6155115365982,
+          6.254517056268278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Platohedro",
+        "event": "Visita a la Jaquercool",
+        "date": "2015-08-29",
+        "capacity": 10,
+        "occupation": 10,
+        "price": 0,
+        "funder": "Medellin Vive La Música"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55673897266387,
+          6.243382703482547
+        ]
+      }
     }
   ]
 }
