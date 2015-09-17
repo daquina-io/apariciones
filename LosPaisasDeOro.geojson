@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "origen": "LOS PAISAS DE ORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5533920,6.289559
+        ]
+      }
+    }
+  ]
+}

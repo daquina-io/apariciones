@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "origen": "Jorge el ángel del Vallenato"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.544861,6.279762
+        ]
+      }
+    }
+  ]
+}

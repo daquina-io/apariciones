@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "origen": "La Marula Trío"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.613382,6.242236
+        ]
+      }
+    }
+  ]
+}
