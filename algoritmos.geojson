@@ -133,6 +133,26 @@
           6.2688399218335915
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Esfuerzos de Paz",
+        "date": "2015-09-12",
+        "founder": "",
+        "price": 0,
+        "capacity": 20,
+        "occupation": 18,
+        "event": "Invitación Viviana Ramirez",
+        "lineup": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.53623080253601,
+          6.238156728282424
+        ]
+      }
     }
   ]
 }
