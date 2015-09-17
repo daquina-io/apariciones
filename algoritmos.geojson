@@ -17,6 +17,47 @@
           6.30252323298739
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "sitio": "Transfusión",
+        "ocasion": "El Suiche",
+        "fecha": "2015-08-19",
+        "cartel": "Niño Negro, La Vulva, Sonanbulo",
+        "capacidad": 200,
+        "ocupacion": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57271957397461,
+          6.210692839984488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "sitio": "Casa Tres Patios",
+        "ocasion": "Un/Loquer",
+        "fecha": "2015-08-15",
+        "capacidad": 15,
+        "ocupacion": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56222677230835,
+          6.26053740018845
+        ]
+      }
     }
   ]
 }
