@@ -9,7 +9,101 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.605807,6.262916
+          -75.605807,
+          6.262916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Plaza Mayor",
+        "event": "Festival de letras",
+        "date": "2015-08-27",
+        "capacity": 300,
+        "occupation": 100,
+        "price": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57632982730865,
+          6.241478961409798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Parque Amagá",
+        "event": "Fiestas de Amagá",
+        "date": "2015-08-04",
+        "capacity": 800,
+        "occupation": 100,
+        "price": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70289254188538,
+          6.040486354673519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Tecoc",
+        "event": "Concierto \"La Isla Negra\"",
+        "date": "2015-07-06",
+        "capacity": 90,
+        "occupation": 70,
+        "price": 12000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56111633777618,
+          6.333399902235102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Oficina Central de los Sueños",
+        "event": "Concierto \"La Isla Negra\"",
+        "date": "2015-08-29",
+        "capacity": 40,
+        "occupation": 20,
+        "price": 8000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56249499320984,
+          6.2475581135402996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "capacity": 40,
+        "venue": "La Camerata",
+        "event": "Concierto \"Peregrinaje Virginal\"",
+        "date": "2015-06-26",
+        "occupation": 2,
+        "price": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58032095432281,
+          6.256266109302851
         ]
       }
     }
