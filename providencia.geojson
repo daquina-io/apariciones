@@ -11,7 +11,7 @@
         "event": "Fiestas del ITM",
         "date": "2015-09-25",
         "capacity": 350,
-        "ocupation": "NA",
+        "ocupation": 100,
         "price": 0,
         "founder": "ITM",
         "lineup": "NA"
