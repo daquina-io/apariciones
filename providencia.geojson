@@ -23,6 +23,27 @@
           6.25803648629162
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "",
+        "venue": "LLano Grande",
+        "event": "Festival Super Fresh",
+        "date": "2015-08-29",
+        "capacity": "NA",
+        "ocupation": "NA",
+        "price": "NA",
+        "founder": "NA",
+        "lineup": "NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.42351365089417,
+          6.125001662541643
+        ]
+      }
     }
   ]
 }
