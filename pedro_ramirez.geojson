@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "origen": "Pedro Ramírez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.61304419,6.2544062
+        ]
+      }
+    }
+  ]
+}

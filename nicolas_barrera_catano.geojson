@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "origen": "NICOLAS BARRERA CATAÑO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5651298,6.2527574
+        ]
+      }
+    }
+  ]
+}

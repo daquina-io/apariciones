@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "origen": "Radio Neblina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.516771,6.207024
+        ]
+      }
+    }
+  ]
+}

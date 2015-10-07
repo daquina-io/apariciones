@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "origen": "Amor e Morte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.550379,6.279506
+        ]
+      }
+    }
+  ]
+}

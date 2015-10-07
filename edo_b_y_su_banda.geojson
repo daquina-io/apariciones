@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "origen": "Edo B y su banda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.571985,6.309991
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "origen": "Yenny Saldarriaga Jaramillo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5836095,6.2266117
+        ]
+      }
+    }
+  ]
+}
