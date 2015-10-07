@@ -68,6 +68,28 @@
           4.629789144088869
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Pablo Tobon Uribe",
+        "event": "Aguacero Musical",
+        "date": "2015-12-12",
+        "capacity": 923,
+        "occupation": "NA",
+        "price": 25000,
+        "founder": "Teatro Pablo Tobon Uribe,  Providencia, TARMAC, Zafarrancho, ZATELITE, Käina y Sabor Yembe Orquesta",
+        "lineup": " Providencia, TARMAC, Zafarrancho, ZATELITE, Käina y Sabor Yembe Orquesta",
+        "link": "https://www.facebook.com/tarmac.reggae/photos/pb.61785954090.-2207520000.1444239002./10152577751124091/?type=3&theater",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55927366018295,
+          6.2475474484229325
+        ]
+      }
     }
   ]
 }
