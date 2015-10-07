@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "ITM Robledo",
+        "event": "Fiestas del ITM",
+        "date": "2015-09-25",
+        "capacity": 350,
+        "ocupation": "NA",
+        "price": 0,
+        "founder": "ITM",
+        "lineup": "NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.60144066810608,
+          6.25803648629162
+        ]
+      }
+    }
+  ]
+}
