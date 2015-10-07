@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "12 de Octubre",
+        "event": "Feria de Flores",
+        "date": "2015-08-03",
+        "capacity": "NA",
+        "occupation": "NA",
+        "price": 0,
+        "founder": "Alcaldia de Medellin",
+        "lineup": "NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5784273147583,
+          6.30360029508979
+        ]
+      }
+    }
+  ]
+}
