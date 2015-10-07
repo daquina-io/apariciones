@@ -14,13 +14,34 @@
         "occupation": "NA",
         "price": 0,
         "founder": "Alcaldia de Medellin",
-        "lineup": "NA"
+        "lineup": "Calo, Sentir Flamenco, Tarmac, La Maladanza"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -75.5784273147583,
           6.30360029508979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": "NA",
+        "occupation": "NA",
+        "capacity": "NA",
+        "date": "2015-07-20",
+        "event": "NA",
+        "venue": "El reversadero (El Salado)",
+        "marker-symbol": "",
+        "marker-size": "",
+        "founder": "NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.62580585479736,
+          6.253594535084846
         ]
       }
     }
