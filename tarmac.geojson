@@ -44,6 +44,30 @@
           6.253594535084846
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "capacity": "NA",
+        "date": "2015-01-24",
+        "event": "Car Audio Reggae Fest",
+        "venue": "Corferias",
+        "marker-symbol": "",
+        "marker-size": "",
+        "marker-color": "#000000",
+        "occupation": "NA",
+        "price": "NA",
+        "founder": "NA",
+        "lineup": "SISTER NANCY, DELLY RANX NEIL AMOS, Alerta Kamarada",
+        "link": "https://www.facebook.com/126203610304/photos/a.10153398327715305.1073741826.126203610304/10155105144665305/?type=3&theater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.09025192260742,
+          4.629789144088869
+        ]
+      }
     }
   ]
 }
