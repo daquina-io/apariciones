@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Parque de Artes y Oficios",
+        "event": "Altavoz Antioquia",
+        "date": "2015-10-10",
+        "capacity": 8000,
+        "ocuppation": 50,
+        "price": 0,
+        "founder": "Instituto de Cultura y Patrimonio de Antioquia",
+        "lineup": "Daycore, Estados Alterados, Superlitio, Xol",
+        "link": "https://www.facebook.com/media/set/?set=a.1008266229194304.1073742165.241610989193169&type=3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55132627487183,
+          6.331645777189303
+        ]
+      }
+    }
+  ]
+}
