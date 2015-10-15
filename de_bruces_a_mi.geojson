@@ -13,7 +13,7 @@
         "capacity": 10000,
         "ocupation": 50,
         "price": 0,
-        "funder": "Alcaldía de Medellin"
+        "founder": "Alcaldía de Medellin"
       },
       "geometry": {
         "type": "Point",
@@ -29,8 +29,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "ocasion": "Latin Reggae Showcase 2015",
-        "fecha": "2015-07-10"
+        "event": "Latin Reggae Showcase 2015",
+        "date": "2015-07-10"
       },
       "geometry": {
         "type": "Point",
@@ -46,8 +46,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "ocasion": "Victoria Ska Fest",
-        "fecha": "2015-07-04"
+        "event": "Victoria Ska Fest",
+        "date": "2015-07-04"
       },
       "geometry": {
         "type": "Point",
