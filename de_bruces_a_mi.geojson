@@ -56,6 +56,26 @@
           48.42291759174698
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Teatro Carlos Vieco",
+        "event": "Concierto de la Juventud 2014",
+        "date": "2014-08-09",
+        "capacity": 3800,
+        "occupation": 90
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57941436767578,
+          6.237095528993374
+        ]
+      }
     }
   ]
 }
