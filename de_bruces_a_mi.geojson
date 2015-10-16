@@ -11,7 +11,7 @@
         "event": "Concierto de la Juventud",
         "date": "2015-08-07",
         "capacity": 10000,
-        "ocupation": 50,
+        "occupation": 50,
         "price": 0,
         "founder": "Alcaldía de Medellin"
       },
