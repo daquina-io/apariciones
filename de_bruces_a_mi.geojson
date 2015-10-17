@@ -143,6 +143,26 @@
           6.237087529995612
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Plaza",
+        "event": "XI Festival Internacional de Teatro",
+        "date": "2016-07-29",
+        "capacity": 1000,
+        "price": 0,
+        "founder": "",
+        "lineup": "Mixta Latina, De bruces a Mi",
+        "link": "http://blog.pucp.edu.pe/blog/franco/2006/07/28/29-de-julio-de-bruces-a-mi-en-antioquia/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.33506512641907,
+          6.083460453675269
+        ]
+      }
     }
   ]
 }
