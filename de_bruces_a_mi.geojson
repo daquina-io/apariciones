@@ -122,6 +122,27 @@
           6.270956857081849
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "capacity": 3800,
+        "venue": "Teatro Carlos Vieco",
+        "event": "Altavoz 2006",
+        "date": "2016-07-29",
+        "occupation": 90,
+        "price": 0,
+        "founder": "Alcaldía de Medellin",
+        "lineup": "Magdalena, Tribu Omerta, Senores Usuarios, la Furruska, De Bruces a mi, patas arriba, santeria, Don Kristobal, Rasbarule, Tarmac, Burkina  ",
+        "link": "http://blog.pucp.edu.pe/blog/franco/2006/07/28/29-de-julio-de-bruces-a-mi-en-antioquia/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5793821811676,
+          6.237087529995612
+        ]
+      }
     }
   ]
 }
