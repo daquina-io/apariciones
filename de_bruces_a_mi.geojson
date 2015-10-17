@@ -86,15 +86,39 @@
         "venue": "Orquideorama",
         "event": "Damian Marley",
         "date": "2015-03-12",
-        "cappacity": 3000,
         "occupation": 100,
         "price": "100000, 130000, 150000",
-        "founder": "Casa Babylon"
+        "founder": "Casa Babylon",
+        "capacity": 3000
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -75.56420087814331,
+          6.270956857081849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Orquideorama",
+        "event": "Barrington Levy",
+        "date": "2012-10-12",
+        "capacity": 3000,
+        "occupation": "",
+        "price": 60000,
+        "founder": "",
+        "lineup": "Barrington Levy, Gondwana, De bruces a Mi, Kiño",
+        "link": "https://www.facebook.com/events/337203946371449/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56410431861877,
           6.270956857081849
         ]
       }
