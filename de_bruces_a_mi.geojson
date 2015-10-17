@@ -76,6 +76,28 @@
           6.237095528993374
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Orquideorama",
+        "event": "Damian Marley",
+        "date": "2015-03-12",
+        "cappacity": 3000,
+        "occupation": 100,
+        "price": "100000, 130000, 150000",
+        "founder": "Casa Babylon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56420087814331,
+          6.270956857081849
+        ]
+      }
     }
   ]
 }
