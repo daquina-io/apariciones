@@ -6,7 +6,9 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": "venue | Teatro Carantoña"
+        "marker-symbol": "",
+        "venue": "Teatro Carantoña",
+        "date": "2012 -04 -27"
       },
       "geometry": {
         "type": "Point",
