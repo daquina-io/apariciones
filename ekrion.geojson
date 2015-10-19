@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Aeropuerto Olaya Herrera",
+        "date": "1989-05-31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58695673942566,
+          6.2195507673813815
+        ]
+      }
+    }
+  ]
+}
