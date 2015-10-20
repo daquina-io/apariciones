@@ -163,6 +163,28 @@
           6.083460453675269
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Plaza de Riosucio",
+        "date": "2013-01-04",
+        "event": "Carnaval de Riosucio",
+        "capacity": 1000,
+        "occupation": 100,
+        "price": 0,
+        "founder": "Alcaldía de Riosucio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70335388183594,
+          5.420878552404836
+        ]
+      }
     }
   ]
 }
