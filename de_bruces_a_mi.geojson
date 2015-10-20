@@ -207,6 +207,28 @@
           4.658448022477691
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Autopista Norte #222",
+        "date": "2013-06-02",
+        "event": "Jamming Festival",
+        "capacity": 10000,
+        "occupation": 50,
+        "price": "130000,150000",
+        "founder": "Casa Babylon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0418004989624,
+          4.796229462104832
+        ]
+      }
     }
   ]
 }
