@@ -51,6 +51,23 @@
           6.255098297102838
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Antigua Biblioteca Itagui",
+        "date": "2012-09-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.60775995254517,
+          6.1792862616055695
+        ]
+      }
     }
   ]
 }
