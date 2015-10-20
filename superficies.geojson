@@ -102,6 +102,23 @@
           6.179246262225646
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Parque Débora Arango",
+        "date": "2013-07-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5908727645874,
+          6.172000991355211
+        ]
+      }
     }
   ]
 }
