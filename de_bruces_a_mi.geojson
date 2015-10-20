@@ -185,6 +185,28 @@
           5.420878552404836
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Parque Simon Bolivar",
+        "date": "2011-07-03",
+        "event": "Rock al Parque",
+        "capacity": 10000,
+        "occupation": 80,
+        "price": 0,
+        "founder": "Alcaldía de Bogota"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.09075617790222,
+          4.658448022477691
+        ]
+      }
     }
   ]
 }
