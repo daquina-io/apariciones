@@ -136,6 +136,23 @@
           6.259497576035221
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Parque Biblioteca San Javier",
+        "date": "2014-10-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.61308681964874,
+          6.255311596329552
+        ]
+      }
     }
   ]
 }
