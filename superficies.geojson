@@ -119,6 +119,23 @@
           6.172000991355211
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Casa de Cultura Alcázares",
+        "date": "2014-09-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6064161658287,
+          6.259497576035221
+        ]
+      }
     }
   ]
 }
