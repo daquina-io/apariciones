@@ -68,6 +68,23 @@
           6.1792862616055695
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Escuela Débora Arango",
+        "date": "2013-05-03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58621376752853,
+          6.167120977579049
+        ]
+      }
     }
   ]
 }
