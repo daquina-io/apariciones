@@ -85,6 +85,23 @@
           6.167120977579049
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Casa Museo Otraparte",
+        "date": "2013-06-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58388024568558,
+          6.179246262225646
+        ]
+      }
     }
   ]
 }
