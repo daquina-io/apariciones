@@ -17,6 +17,23 @@
           6.226163451540129
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Centro Cultural El Poblado",
+        "date": "2011-07-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57787477970123,
+          6.190955284868868
+        ]
+      }
     }
   ]
 }
