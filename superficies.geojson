@@ -34,6 +34,23 @@
           6.190955284868868
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Corporación Subterrákeo",
+        "Date": "2011-07-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57997226715088,
+          6.255098297102838
+        ]
+      }
     }
   ]
 }
