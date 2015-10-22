@@ -17,6 +17,142 @@
           6.226163451540129
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Centro Cultural El Poblado",
+        "date": "2011-07-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57787477970123,
+          6.190955284868868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Corporación Subterrákeo",
+        "Date": "2011-07-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57997226715088,
+          6.255098297102838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Antigua Biblioteca Itagui",
+        "date": "2012-09-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.60775995254517,
+          6.1792862616055695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Escuela Débora Arango",
+        "date": "2013-05-03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58621376752853,
+          6.167120977579049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Casa Museo Otraparte",
+        "date": "2013-06-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58388024568558,
+          6.179246262225646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Parque Débora Arango",
+        "date": "2013-07-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5908727645874,
+          6.172000991355211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Casa de Cultura Alcázares",
+        "date": "2014-09-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6064161658287,
+          6.259497576035221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Parque Biblioteca San Javier",
+        "date": "2014-10-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.61308681964874,
+          6.255311596329552
+        ]
+      }
     }
   ]
 }

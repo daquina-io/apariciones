@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Venue": "Escuela Débora Arango",
+        "date": "2013-05-03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58607161045074,
+          6.167251645199924
+        ]
+      }
+    }
+  ]
+}
