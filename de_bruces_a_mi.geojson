@@ -229,6 +229,30 @@
           4.796229462104832
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Palmahia",
+        "event": "Green Moon Festival",
+        "date": "2014-02-21",
+        "capacity": 2000,
+        "occupation": "NA",
+        "price": "NA",
+        "founder": "NA",
+        "lineup": "De Bruces A Mi Don Cristobal y the Warriors",
+        "link": "https://www.facebook.com/dbammedellin/photos/pb.280241628041.-2207520000.1445532871./10152013990708042/?type=3&theater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59099078178406,
+          6.1823795378284405
+        ]
+      }
     }
   ]
 }
