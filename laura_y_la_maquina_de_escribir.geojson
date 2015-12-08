@@ -157,6 +157,28 @@
           6.247510120510448
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Casa 9-69 -Cra 9 # 69-07-",
+        "event": "Concierto",
+        "date": "5/7/2015",
+        "capacity": 200,
+        "occupation": 90,
+        "price": "0",
+        "linueup": "Ninguno",
+        "link": "https://www.facebook.com/events/696079467181248/",
+        "added_by": "Beatriz Tenorio ",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05893445014954,
+          4.652801887857282
+        ]
+      }
     }
   ]
 }
