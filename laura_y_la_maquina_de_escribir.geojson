@@ -24,6 +24,29 @@
           4.696317654277748
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Smoking Molly en La Macarena, Bogotá Calle 29 Bis # 5-74",
+        "marker-symbol": "",
+        "event": "Lanzamiento Video Aviador",
+        "date": "9/28/2013",
+        "capacity": 200,
+        "occupation": 65,
+        "price": "15000",
+        "linueup": "Ninguno",
+        "link": "https://www.facebook.com/SmokingMolly/info/?tab=page_info",
+        "added_by": "Beatriz Tenorio ",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06697034835815,
+          4.6156571089059275
+        ]
+      }
     }
   ]
 }
