@@ -201,6 +201,28 @@
           4.601177228959293
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Plaza de los Artesanos Bogotá",
+        "event": "Festival Navideño",
+        "date": "2014-12-21",
+        "capacity": 2000,
+        "occupation": 10,
+        "price": "0",
+        "linueup": "Ninguno",
+        "link": "https://www.facebook.com/lauraylamaquinadeescribir/?fref=ts",
+        "added_by": "Beatriz Tenorio ",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.085853099823,
+          4.664436297532009
+        ]
+      }
     }
   ]
 }
