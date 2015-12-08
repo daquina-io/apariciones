@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Cinema Paraiso",
+        "event": "Lanzamiento CD Laberinto",
+        "date": "2013-04-24",
+        "capacity": 100,
+        "occupation": 100,
+        "price": 0,
+        "lineup": "",
+        "link": "https://www.facebook.com/events/161295437365366/",
+        "addedBy": "Beatriz Tenorio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.028400182724,
+          4.696317654277748
+        ]
+      }
+    }
+  ]
+}
