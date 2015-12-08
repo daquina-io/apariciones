@@ -163,7 +163,7 @@
       "properties": {
         "venue": "Casa 9-69 -Cra 9 # 69-07-",
         "event": "Concierto",
-        "date": "5/7/2015",
+        "date": "2015-07-05",
         "capacity": 200,
         "occupation": 90,
         "price": "0",
@@ -177,6 +177,28 @@
         "coordinates": [
           -74.05893445014954,
           4.652801887857282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Universidad de los Andes-Plazoleta Lleras",
+        "event": "Concierto",
+        "date": "2015-04-05",
+        "capacity": 300,
+        "occupation": 50,
+        "price": "0",
+        "linueup": "Ninguno",
+        "link": "",
+        "added_by": "Beatriz Tenorio ",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06493723392487,
+          4.601177228959293
         ]
       }
     }
