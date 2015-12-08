@@ -113,6 +113,28 @@
           4.668227063118249
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Cine Tonalá Bogotá Cra 6 # 35-37",
+        "event": "Festival Canción Canción",
+        "date": "12/2/2015",
+        "capacity": 100,
+        "occupation": 100,
+        "price": "25000",
+        "linueup": "Pedrina y Rio\nOh la ville",
+        "link": "https://www.facebook.com/events/703441486459499/",
+        "added_by": "Beatriz Tenorio ",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06585991382599,
+          4.62214301551166
+        ]
+      }
     }
   ]
 }
