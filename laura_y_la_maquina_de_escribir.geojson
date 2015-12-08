@@ -47,6 +47,28 @@
           4.6156571089059275
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Cine Tonalá Bogotá Cra 6 # 35-37",
+        "event": "Lanzamiento Video Aviador",
+        "date": "11/8/2014",
+        "capacity": 70,
+        "occupation": 100,
+        "price": "15000",
+        "linueup": "Laura estuvo acompañada de Juan Galeano -Diamante Eléctrico- y Rodrigo Mancera -Morfonia-",
+        "link": "https://www.facebook.com/events/343841235796312/",
+        "added_by": "Beatriz Tenorio ",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06571507453918,
+          4.622124301109696
+        ]
+      }
     }
   ]
 }
