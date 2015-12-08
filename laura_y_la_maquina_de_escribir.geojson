@@ -91,6 +91,28 @@
           4.667703093918081
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "RPM Records-Carrera 14 # 83-04 ",
+        "event": "Concierto",
+        "date": "2/28/2014",
+        "capacity": 50,
+        "occupation": 80,
+        "price": "0",
+        "linueup": "Ninguno",
+        "link": "https://www.facebook.com/events/1591696107734239/",
+        "added_by": "Beatriz Tenorio ",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05485212802887,
+          4.668227063118249
+        ]
+      }
     }
   ]
 }
