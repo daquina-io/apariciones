@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Palacio de los Deportes",
+        "event": "Gira Conexión",
+        "date": "2015-12-03",
+        "capacity": 5000,
+        "occupation": 100,
+        "price": 15900,
+        "lineup": "",
+        "link": "",
+        "added_by": "son0p",
+        "founder": "Proyecto Nash - Exito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08414721488953,
+          4.655154449455328
+        ]
+      }
+    }
+  ]
+}
