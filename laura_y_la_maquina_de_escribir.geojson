@@ -135,6 +135,28 @@
           4.62214301551166
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Pablo Tobón Uribe",
+        "event": "Alimentarte",
+        "date": "5/14/2015",
+        "capacity": 883,
+        "occupation": 50,
+        "price": "30000, 25000",
+        "linueup": "Ninguno",
+        "link": "http://www.teatropablotobon.com/Programaci%C3%B3n/2015/Mayo2015/laura-y-la-maquina-de-escribir.aspx#.VmYVaHYvfct",
+        "added_by": "Beatriz Tenorio ",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55919051170349,
+          6.247510120510448
+        ]
+      }
     }
   ]
 }
