@@ -69,6 +69,28 @@
           4.622124301109696
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "La Ventana de la T-Carrera 12a # 83-61, 571 Bogotá",
+        "event": "Concierto",
+        "date": "9/3/2015",
+        "capacity": 200,
+        "occupation": 10,
+        "price": "15000",
+        "linueup": "CocóNonó",
+        "link": "https://www.facebook.com/events/560701400751447/",
+        "added_by": "Beatriz Tenorio ",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05376315116882,
+          4.667703093918081
+        ]
+      }
     }
   ]
 }
