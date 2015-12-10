@@ -216,6 +216,33 @@
           3.447517572452089
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Porto Do Molle",
+        "event": "Festival Portamérica",
+        "date": "7/18/2015",
+        "capacity": 3000,
+        "occupation": "80%",
+        "price": "102000",
+        "lineup": "The Divine Comedy\nSupersubmarina\nXoel López\nIs Tropical\nArizona Baby\nMi Capitan\nThe Soul Jacket\nJenny and The Mexicats\nAgoraphobia\nGato TV\n",
+        "link": "https://www.facebook.com/events/901278043264106/\nhttp://portamerica.es/cartel/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Galicia España",
+        "start": "9:00:00 PM",
+        "end": "10:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.877830266952514,
+          42.35339843570063
+        ]
+      }
     }
   ]
 }
