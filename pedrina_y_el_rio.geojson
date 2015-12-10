@@ -108,6 +108,33 @@
           4.676214871633306
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Auditorio C.Vilar El Retiro",
+        "event": "Converse Rubber Tracks Live",
+        "date": "2013-09-06",
+        "capacity": "NA",
+        "occupation": "NA",
+        "price": "0",
+        "lineup": "Minus the Bear (Seattle)",
+        "link": "https://www.facebook.com/events/1717285505164077/",
+        "added_by": "Beatriz Tenorio",
+        "address": "Centro Comercial El Retiro-Calle 82 No. 11-75",
+        "start": "8:00:00 PM",
+        "end": "9:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05384898185729,
+          4.666008211274941
+        ]
+      }
     }
   ]
 }
