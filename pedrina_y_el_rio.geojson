@@ -189,6 +189,33 @@
           6.172064991237351
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "La Central",
+        "event": "Feria de Cali",
+        "date": "2014-12-27",
+        "capacity": null,
+        "occupation": "",
+        "price": "2,000,015,000",
+        "lineup": "DJ Alex Jaramillo\nDJ Julio Garces",
+        "link": "https://www.facebook.com/events/764923260248624/",
+        "added_by": "Beatriz Tenorio",
+        "address": "Cra 9 # 10-04  Cali",
+        "start": "10:00:00 PM",
+        "end": "12:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.53262317180634,
+          3.447517572452089
+        ]
+      }
     }
   ]
 }
