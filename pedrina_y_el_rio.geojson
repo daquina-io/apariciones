@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "La Ventana de la T",
+        "event": "Feria de Diseño La Madame",
+        "date": "2014-08-02",
+        "capacity": 250,
+        "occupation": "50",
+        "price": "0",
+        "lineup": "- Radio Matuna\n- Varo - Live - Looping\n- La Pau Dj set\n- Always Black Dj set\n- LCN Dj Set (Lucien)",
+        "link": "https://www.facebook.com/events/799949280025210/",
+        "added_by": "Beatriz Tenorio",
+        "address": "Carrera 12a # 83-61",
+        "start": "4:00:00 PM",
+        "end": "5:00:00 PM",
+        "other_events": "Concierto Ambiental 2014. Parque de los Novios.",
+        "news": "NA",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05373632907867,
+          4.6678902258202015
+        ]
+      }
+    }
+  ]
+}
