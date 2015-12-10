@@ -27,6 +27,33 @@
           4.6678902258202015
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Fundación Gilberto Alzate Avendaño",
+        "event": "Concierto",
+        "date": "10/7/2014",
+        "capacity": 430,
+        "occupation": "",
+        "price": "0",
+        "lineup": "NA",
+        "link": "http://www.fgaa.gov.co/pedrina-y-rio-en-concierto#.VmhjBtLhC1s",
+        "added_by": "Beatriz Tenorio",
+        "address": "Calle 10 #3- 16",
+        "start": "6:00:00 PM",
+        "end": "7:00:00 PM",
+        "other_events": "NA",
+        "news": "NA",
+        "founder": "NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.07252252101898,
+          4.595412999767093
+        ]
+      }
     }
   ]
 }
