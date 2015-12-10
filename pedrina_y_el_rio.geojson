@@ -81,6 +81,33 @@
           4.6011611875698835
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "La Monferrina 93",
+        "event": "Desconectados \"Hecho a Mano\"-Revista Metrónomo & Cromatic",
+        "date": "2013-12-06",
+        "capacity": "NA",
+        "occupation": "NA",
+        "price": "NA",
+        "lineup": "Oh la Ville\nLa Ramona\nJuan Galeano\nDanikattack CK\nJuan Pablo Vega",
+        "link": "https://www.facebook.com/events/632587773450906/",
+        "added_by": "Beatriz Tenorio",
+        "address": "Cll 93#13a-44",
+        "start": "9:00:00 PM",
+        "end": "10:00:00 PM",
+        "other_events": "NA",
+        "news": "NA",
+        "founder": "NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05081272125244,
+          4.676214871633306
+        ]
+      }
     }
   ]
 }
