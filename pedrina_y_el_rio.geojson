@@ -54,6 +54,33 @@
           4.595412999767093
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Stage",
+        "event": "Festival Hermoso Ruido",
+        "date": "2013-08-32",
+        "capacity": "NA",
+        "occupation": "NA",
+        "price": "10000",
+        "lineup": "Andrés Correa (Colombia)\nMarley Muerto (Ecuador)",
+        "link": "https://www.facebook.com/events/574681175911060/",
+        "added_by": "Beatriz Tenorio",
+        "address": "Cra 4A No. 26A-37 La Macarena",
+        "start": "6:30:00 PM",
+        "end": "7:30:00 PM",
+        "other_events": "NA",
+        "news": "NA",
+        "founder": "NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06978666782379,
+          4.6011611875698835
+        ]
+      }
     }
   ]
 }
