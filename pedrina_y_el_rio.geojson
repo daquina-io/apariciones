@@ -162,6 +162,33 @@
           6.247414134437539
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Biblioteca Pública y Parque Cultural Débora Arango",
+        "event": " Festival de Nuevos Sonidos Colombianos Envigado 2014 de Secretaría de Educación y Cultura de Envigado en asocio con Comfenalco Antioquia",
+        "date": "2014-10-11",
+        "capacity": null,
+        "occupation": "",
+        "price": "0",
+        "lineup": "Calavera y la Popular Independiente\nSereno y Pangao\nAguasalá\nVelo de Oza",
+        "link": "https://www.facebook.com/events/350880231746735/",
+        "added_by": "Beatriz Tenorio",
+        "address": " Calle 37 sur # 45b-27",
+        "start": "9:00:00 PM",
+        "end": "12:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59056162834167,
+          6.172064991237351
+        ]
+      }
     }
   ]
 }
