@@ -108,6 +108,33 @@
           20.678826
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Mayor Julio Mario Santodomingo",
+        "event": "Lanzamiento Caótica Belleza",
+        "date": "2015-09-23",
+        "capacity": 1320,
+        "occupation": 70,
+        "price": "60000, 50000, 40000, 30000",
+        "lineup": "",
+        "link": "http://www.teatromayor.org/evento/musica/esteman-colombia",
+        "added_by": "Beatriz Tenorio ",
+        "address": "-74.06239986419678, 4.7565637105484795",
+        "start": "8:00:00 PM",
+        "end": "9:30:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06239986419678,
+          4.7565637105484795
+        ]
+      }
     }
   ]
 }
