@@ -354,6 +354,33 @@
           4.65252385733072
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Cine Tonalá Bogotá ",
+        "event": "Festival Canción Canción",
+        "date": "12/2/2015",
+        "capacity": 100,
+        "occupation": "100%",
+        "price": "25000",
+        "lineup": "Laura y la Máquina de Escribir\nOh la Ville",
+        "link": "https://www.facebook.com/events/933500860057350/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Cra 6 # 35-37",
+        "start": "7:00:00 PM",
+        "end": "11:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06568825244904,
+          4.622175097342459
+        ]
+      }
     }
   ]
 }
