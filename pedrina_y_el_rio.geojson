@@ -270,6 +270,33 @@
           40.31485117762335
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Armando Records",
+        "event": "Lanzamiento Disco Canciones sin Ropa",
+        "date": "6/6/2015",
+        "capacity": 439,
+        "occupation": "100%",
+        "price": "3,700,022,000",
+        "lineup": "NA",
+        "link": "https://www.facebook.com/events/1673179006238985/",
+        "added_by": "Beatriz Tenorio",
+        "address": "Calle 85 # 14-46",
+        "start": "7:30:00 PM",
+        "end": "8:30:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05487895011902,
+          4.668713605596646
+        ]
+      }
     }
   ]
 }
