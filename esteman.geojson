@@ -243,6 +243,33 @@
           4.68392724422666
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Libre de Chapinero",
+        "event": "Presentación disco Adelante",
+        "date": "2014-08-10",
+        "capacity": 654,
+        "occupation": 90,
+        "price": "27500, 50000",
+        "lineup": "",
+        "link": "https://www.facebook.com/events/1450327935237719/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "-74.06217992305756, 4.6480646604263605",
+        "start": "6:00:00 PM",
+        "end": "7:30:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06217992305756,
+          4.6480646604263605
+        ]
+      }
     }
   ]
 }
