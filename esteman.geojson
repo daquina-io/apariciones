@@ -162,6 +162,33 @@
           6.246854215328026
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Dedalo Galeria de Arte",
+        "event": "Festival Patio Itinerante",
+        "date": "2015-03-20",
+        "capacity": 300,
+        "occupation": 70,
+        "price": "40000",
+        "lineup": "Micaela Salaverry\nPamela Rodriguez\nAlejandro y Maria Laura",
+        "link": "https://www.facebook.com/events/926939634023743/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Saenz Peña 295, Barranco, Perú",
+        "start": "9:00:00 PM",
+        "end": "10:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.023995,
+          -12.143276
+        ]
+      }
     }
   ]
 }
