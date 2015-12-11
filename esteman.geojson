@@ -27,6 +27,33 @@
           19.049459
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Foro Indie",
+        "event": "Concierto Gira",
+        "date": "2015-10-02",
+        "capacity": 600,
+        "occupation": 90,
+        "price": "5,400,065,000",
+        "lineup": "Pedrina y Rio",
+        "link": "https://www.facebook.com/events/683025345131875/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Calle Zacatecas 39, Cuauhtémoc, Roma Nte., 06700 Ciudad de México, D.F., México",
+        "start": "9:00:00 PM",
+        "end": "11:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.15621,
+          19.417033
+        ]
+      }
     }
   ]
 }
