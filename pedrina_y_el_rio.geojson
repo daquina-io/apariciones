@@ -222,7 +222,7 @@
       "properties": {
         "venue": "Porto Do Molle",
         "event": "Festival Portamérica",
-        "date": "7/18/2015",
+        "date": "2015-07-18",
         "capacity": 3000,
         "occupation": "80%",
         "price": "102000",
@@ -249,7 +249,7 @@
       "properties": {
         "venue": "Plaza de Toros de Getafe",
         "event": "Festival Charco",
-        "date": "7/24/2015",
+        "date": "2015-07-25",
         "capacity": 5000,
         "occupation": "80%",
         "price": "68000",
