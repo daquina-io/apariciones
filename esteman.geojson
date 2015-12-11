@@ -189,6 +189,33 @@
           -12.143276
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Niceto Club",
+        "event": "Concierto Gira",
+        "date": "2015-03-12",
+        "capacity": 1118,
+        "occupation": 60,
+        "price": "68000",
+        "lineup": "Juan Ingaramo",
+        "link": "https://www.facebook.com/events/896372780393883/\n",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Niceto Vega 5510, C1414BFD Buenos Aires",
+        "start": "9:00:00 PM",
+        "end": "10:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.438548,
+          -34.587011
+        ]
+      }
     }
   ]
 }
