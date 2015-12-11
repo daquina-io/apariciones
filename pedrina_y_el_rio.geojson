@@ -324,6 +324,36 @@
           50.34458402503957
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Royal Center",
+        "event": "Evento de Navidad 40 Principales",
+        "date": "12/8/2015",
+        "capacity": 2800,
+        "occupation": "90%",
+        "price": "30000",
+        "lineup": "Esteman\nAterciopelados\nManuel Medrano\nMacaco\nBomba Estereo\nMonsieur Perine\nLos PetitFellas",
+        "link": "https://www.facebook.com/events/581140492034318/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "-74.06293630599976, 4.65252385733072",
+        "start": "4:00:00 PM",
+        "end": "10:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06293630599976,
+          4.65252385733072
+        ]
+      }
     }
   ]
 }
