@@ -135,6 +135,33 @@
           4.7565637105484795
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Pablo Tobón Uribe",
+        "event": "Lanzamiento Caótica Belleza",
+        "date": "2015-09-12",
+        "capacity": 883,
+        "occupation": 70,
+        "price": "30000",
+        "lineup": "",
+        "link": "https://www.facebook.com/events/709408055859557/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "-75.55864334106445, 6.246854215328026",
+        "start": "8:00:00 PM",
+        "end": "9:30:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55864334106445,
+          6.246854215328026
+        ]
+      }
     }
   ]
 }
