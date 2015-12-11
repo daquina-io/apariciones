@@ -381,6 +381,33 @@
           4.622175097342459
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Down Town Majestic",
+        "event": "Despedida de Semestra U. Distrital",
+        "date": "11/26/2015",
+        "capacity": 3200,
+        "occupation": "80%",
+        "price": "0",
+        "lineup": "Burning Caravan\nVade Retro \nLatin Groove\nGrupo Muisical UD\nDJ Doktor\nChiflamicas",
+        "link": "https://www.facebook.com/events/540776806075421/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "-74.06962037086485, 4.608508106078302",
+        "start": "2:00:00 PM",
+        "end": "8:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06962037086485,
+          4.608508106078302
+        ]
+      }
     }
   ]
 }
