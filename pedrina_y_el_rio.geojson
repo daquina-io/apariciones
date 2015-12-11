@@ -408,6 +408,33 @@
           4.608508106078302
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Museo del Chicó",
+        "event": "Concierto",
+        "date": "11/7/2015",
+        "capacity": 200,
+        "occupation": "60%",
+        "price": "35000",
+        "lineup": "Pernett\nUnichampeta",
+        "link": "https://www.facebook.com/events/506787722814216/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "-74.04364585876465, 4.671643546573142",
+        "start": "12:00:00 AM",
+        "end": "4:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.04364585876465,
+          4.671643546573142
+        ]
+      }
     }
   ]
 }
