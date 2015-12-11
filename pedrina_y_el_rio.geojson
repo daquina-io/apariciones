@@ -276,7 +276,7 @@
       "properties": {
         "venue": "Armando Records",
         "event": "Lanzamiento Disco Canciones sin Ropa",
-        "date": "6/6/2015",
+        "date": "2015-06-06",
         "capacity": 439,
         "occupation": "100%",
         "price": "3,700,022,000",
@@ -303,7 +303,7 @@
       "properties": {
         "venue": "Koblenz, Alemania",
         "event": "Horizonte Festival",
-        "date": "7/17/2015",
+        "date": "2015-07-17",
         "capacity": 1500,
         "occupation": "50%",
         "price": "",
@@ -333,7 +333,7 @@
         "marker-symbol": "",
         "venue": "Royal Center",
         "event": "Evento de Navidad 40 Principales",
-        "date": "12/8/2015",
+        "date": "2015-12-08",
         "capacity": 2800,
         "occupation": "90%",
         "price": "30000",
@@ -360,7 +360,7 @@
       "properties": {
         "venue": "Cine Tonalá Bogotá ",
         "event": "Festival Canción Canción",
-        "date": "12/2/2015",
+        "date": "2015-12-02",
         "capacity": 100,
         "occupation": "100%",
         "price": "25000",
@@ -387,7 +387,7 @@
       "properties": {
         "venue": "Down Town Majestic",
         "event": "Despedida de Semestra U. Distrital",
-        "date": "11/26/2015",
+        "date": "2015-11-26",
         "capacity": 3200,
         "occupation": "80%",
         "price": "0",
@@ -414,7 +414,7 @@
       "properties": {
         "venue": "Museo del Chicó",
         "event": "Concierto",
-        "date": "11/7/2015",
+        "date": "2015-11-07",
         "capacity": 200,
         "occupation": "60%",
         "price": "35000",
