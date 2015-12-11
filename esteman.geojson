@@ -54,6 +54,33 @@
           19.417033
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Cactux Bar",
+        "event": "Concierto Gira",
+        "date": "2015-10-01",
+        "capacity": 150,
+        "occupation": null,
+        "price": "14400, 21600",
+        "lineup": "Pedrina y Rio",
+        "link": "https://www.facebook.com/events/884997758247932/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Héroes de Nacozari 191 (1 De Mayo), 58000 Morelia, Michoacan",
+        "start": "9:00:00 PM",
+        "end": "11:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.189138,
+          19.707403
+        ]
+      }
     }
   ]
 }
