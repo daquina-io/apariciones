@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Sala Forum",
+        "event": "Concierto Gira",
+        "date": "2015-10-03",
+        "capacity": 312,
+        "occupation": null,
+        "price": "15000",
+        "lineup": "Pedrina y Rio",
+        "link": "https://www.facebook.com/events/121644454853500/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Av Avila Camacho 1224 San Andres Cholula Puebla-Mexico",
+        "start": "9:00:00 PM",
+        "end": "11:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.293605,
+          19.049459
+        ]
+      }
+    }
+  ]
+}
