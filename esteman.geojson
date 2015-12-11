@@ -216,6 +216,33 @@
           -34.587011
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Nacional La Castellana",
+        "event": "Se cierra el telón",
+        "date": "2014-12-17",
+        "capacity": 711,
+        "occupation": 90,
+        "price": "45000, 30000",
+        "lineup": "Cata García de Monsieur Periné\nJuan Pablo Vega \nNicolas de LosPetitFellas",
+        "link": "https://www.facebook.com/events/564668577011259/",
+        "added_by": "Beatriz Tenorio ",
+        "address": " -74.0597552061081, 4.68392724422666",
+        "start": "8:00:00 PM",
+        "end": "9:30:00 AM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0597552061081,
+          4.68392724422666
+        ]
+      }
     }
   ]
 }
