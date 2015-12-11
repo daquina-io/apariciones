@@ -81,6 +81,33 @@
           19.707403
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Vivian Blumenthal ",
+        "event": "Concierto Gira",
+        "date": "2015-09-30",
+        "capacity": 230,
+        "occupation": 90,
+        "price": "18000, 28000",
+        "lineup": "Pedrina y Rio",
+        "link": "https://www.facebook.com/events/702599889871001/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Tomas V. Gomez #125, Col. Ladrón de Guevara,  Guadalajara,  JAL  44600",
+        "start": "8:00:00 PM",
+        "end": "10:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.383051,
+          20.678826
+        ]
+      }
     }
   ]
 }
