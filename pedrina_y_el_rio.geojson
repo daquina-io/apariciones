@@ -297,6 +297,33 @@
           4.668713605596646
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Koblenz, Alemania",
+        "event": "Horizonte Festival",
+        "date": "7/17/2015",
+        "capacity": 1500,
+        "occupation": "50%",
+        "price": "",
+        "lineup": "",
+        "link": "https://www.facebook.com/events/901278043264106/",
+        "added_by": "Beatriz Tenorio",
+        "address": "",
+        "start": "7:00 PM",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5908660888671875,
+          50.34458402503957
+        ]
+      }
     }
   ]
 }
