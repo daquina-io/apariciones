@@ -3,12 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "venue": "A puerta Cerrada",
+        "event": "Frente a Frente",
+        "date": "2015-02-05",
+        "capacity": 150,
+        "occupation": null,
+        "price": "20000",
+        "lineup": "",
+        "link": "https://www.facebook.com/events/388835017961754/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "-74.05000269412994, 4.681005374419559",
+        "start": "9:30:00 PM",
+        "end": "11:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.6640625,
-          3.513421045640057
+          -74.05000269412994,
+          4.681005374419559
         ]
       }
     }
