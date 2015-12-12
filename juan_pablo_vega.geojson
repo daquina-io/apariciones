@@ -216,6 +216,33 @@
           4.65252385733072
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Universidad del Rosario",
+        "event": "UR Festival",
+        "date": "2015-09-17",
+        "capacity": 1500,
+        "occupation": 50,
+        "price": "0",
+        "lineup": "Manuel Medrano\nThe Mills\nBianco\nEstereotrópico\nDel trueno",
+        "link": "https://www.facebook.com/URFestival-2015-744898625655691/",
+        "added_by": "Beatriz Tenorio ",
+        "address": " -74.07260298728943, 4.60087778963051",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.07260298728943,
+          4.60087778963051
+        ]
+      }
     }
   ]
 }
