@@ -108,6 +108,33 @@
           19.413098
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Metropolitan",
+        "event": "Opening Act cierre gira Siddhartha",
+        "date": "2015-12-05",
+        "capacity": 3165,
+        "occupation": 100,
+        "price": "45000, 100000",
+        "lineup": "Siddhartha",
+        "link": "https://www.facebook.com/events/1451153725215314/\nhttps://www.facebook.com/siddharthaDF/photos/a.1016602051696433.1073741829.293646950658617/1016602081696430/?type=3&theater",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Av. Independencia 90, Cuauhtémoc, Centro, 06050 Ciudad de México, D.F., México",
+        "start": "8:00:00 PM",
+        "end": "10:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.146644,
+          19.43387
+        ]
+      }
     }
   ]
 }
