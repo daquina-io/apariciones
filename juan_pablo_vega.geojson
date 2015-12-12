@@ -27,6 +27,44 @@
           4.681005374419559
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Orquideorama",
+        "event": "Primavera Fest",
+        "date": "2015-05-30",
+        "capacity": 3000,
+        "occupation": 90,
+        "price": "30000",
+        "lineup": "El planeta agradece\nThe Music Company\nMullathaz\nBanda Infantil y juvenil Necocli\nElkin Robinson\nLosPetitFellas\nPuerto Candelaria\n",
+        "link": "https://www.facebook.com/ElPrimaveraFest/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Calle 73 No. 51D – 14, Medellín, Colombia",
+        "start": "10:00:00 PM",
+        "end": "12:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.09375,
+          -8.754794702435605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56427597999573,
+          6.269997038638681
+        ]
+      }
     }
   ]
 }
