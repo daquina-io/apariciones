@@ -189,6 +189,33 @@
           19.43387
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Royal Center",
+        "event": "Opening Act Natalia Lafourcade",
+        "date": "2015-10-01",
+        "capacity": 2800,
+        "occupation": 100,
+        "price": "180000, 92000",
+        "lineup": "Natalia Lafourcade",
+        "link": "http://www.colombia.com/musica/noticias/sdi/123183/juan-pablo-vega-abrira-concierto-de-natalia-lafourcade-en-bogota/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "-74.06293630599976, 4.65252385733072",
+        "start": "8:00:00 PM",
+        "end": "11:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06293630599976,
+          4.65252385733072
+        ]
+      }
     }
   ]
 }
