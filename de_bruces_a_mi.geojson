@@ -147,7 +147,10 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "Plaza",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Plaza el Carmen",
         "event": "XI Festival Internacional de Teatro",
         "date": "2016-07-29",
         "capacity": 1000,
