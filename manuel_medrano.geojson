@@ -140,6 +140,34 @@
           4.68392724422666
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "A puerta Cerrada",
+        "event": "Concierto",
+        "date": "2015-02-12",
+        "capacity": 150,
+        "occupation": 100,
+        "price": "25000",
+        "lineup": "",
+        "headliner": "",
+        "link": "https://www.facebook.com/events/911399305559148/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "-74.05000269412994, 4.681005374419559",
+        "start": "9:00:00 PM",
+        "end": "10:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05000269412994,
+          4.681005374419559
+        ]
+      }
     }
   ]
 }
