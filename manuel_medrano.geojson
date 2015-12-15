@@ -3,12 +3,57 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "venue": "Discoteca La Tribu Ibague",
+        "event": "Lanzamiento Nuevo Disco",
+        "date": "2015-12-05",
+        "capacity": 1500,
+        "occupation": 70,
+        "price": "60,000,100,000",
+        "lineup": "",
+        "headliner": "https://www.facebook.com/events/601642953310450/",
+        "link": "Beatriz Tenorio ",
+        "added_by": "Km 1 via al Totumo Ibagué ",
+        "address": "5:00:00 PM",
+        "start": "7:00:00 PM",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.796875,
-          -2.108898659243126
+          -75.180402,
+          4.405359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Corfescu",
+        "event": "Lanzamiento Nuevo Disco",
+        "date": "2015-12-04",
+        "capacity": 700,
+        "occupation": 80,
+        "price": "169000, 100000, 75000, 65000, 55000",
+        "lineup": "Tavo Botero\nAndres Arias",
+        "headliner": "",
+        "link": "https://www.facebook.com/events/1639915622929441/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Cl. 34 #26 - 46, Bucaramanga, Santander",
+        "start": "7:00:00 PM",
+        "end": "9:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.117719,
+          7.122904
         ]
       }
     }
