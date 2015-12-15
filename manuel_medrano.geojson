@@ -56,6 +56,34 @@
           7.122904
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Universidad de Medellin",
+        "event": "Lanzamiento Nuevo Disco",
+        "date": "2015-11-12",
+        "capacity": 1702,
+        "occupation": 90,
+        "price": "66000, 60000, 49000, 39000",
+        "lineup": "Juan Pablo Vega",
+        "headliner": "",
+        "link": "https://www.facebook.com/events/521732381333381/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Carrera 87 N° 30 - 65 Medellín - Colombia",
+        "start": "8:00:00 PM",
+        "end": "10:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.61022758483887,
+          6.232754721601618
+        ]
+      }
     }
   ]
 }
