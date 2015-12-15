@@ -243,6 +243,34 @@
           4.60087778963051
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Andres Carne de Res",
+        "event": "Oktober Fest Club Colombia",
+        "date": "2015-09-05",
+        "capacity": 800,
+        "occupation": 70,
+        "price": "30000",
+        "lineup": "Pedrina y Rio\nThe Beat machine\nLa 33\nDJ Uribe",
+        "headliner": "",
+        "link": "https://www.facebook.com/JPVegaOficial/photos/a.479889988714776.96827.472934716076970/894113517292419/?type=3&theater",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Calle 3 N°11ª-56 Chia Colombia",
+        "start": "9:00:00 AM",
+        "end": "11:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.064538,
+          4.854189
+        ]
+      }
     }
   ]
 }
