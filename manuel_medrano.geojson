@@ -112,6 +112,34 @@
           4.7565637105484795
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Nacional La Castellana",
+        "event": "Experiencia Sónica",
+        "date": "2015-05-12",
+        "capacity": 711,
+        "occupation": 100,
+        "price": "45000, 30000",
+        "lineup": "Juan Pablo Vega",
+        "headliner": "",
+        "link": "https://www.facebook.com/events/103006173363879/",
+        "added_by": "Beatriz Tenorio ",
+        "address": " -74.0597552061081, 4.68392724422666",
+        "start": "8:00:00 PM",
+        "end": "10:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0597552061081,
+          4.68392724422666
+        ]
+      }
     }
   ]
 }
