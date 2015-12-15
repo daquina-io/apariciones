@@ -259,7 +259,7 @@
         "venue": "Mateo Pub",
         "event": "Concierto Gira",
         "date": "2014-11-29",
-        "capacity": 50,
+        "capacity": 250,
         "occupation": 80,
         "price": "20000",
         "lineup": "",
