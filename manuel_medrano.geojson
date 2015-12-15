@@ -168,6 +168,34 @@
           4.681005374419559
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Now Hotel",
+        "event": "Concierto",
+        "date": "2015-02-07",
+        "capacity": 300,
+        "occupation": 90,
+        "price": "20000",
+        "lineup": "",
+        "headliner": "",
+        "link": "https://www.facebook.com/events/1518745558413355/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Avenida 9AN No. 10N-74, Cali",
+        "start": "9:00:00 PM",
+        "end": "11:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.535218,
+          3.45956
+        ]
+      }
     }
   ]
 }
