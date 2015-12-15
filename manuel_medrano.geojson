@@ -224,6 +224,62 @@
           4.674862190248317
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Auditorio CVilar",
+        "event": "Opening Act Jarabe de Palo",
+        "date": "2014-11-07",
+        "capacity": 2000,
+        "occupation": 90,
+        "price": "198000, 132000, 90000",
+        "lineup": "Jarabe de Palo",
+        "headliner": "Jarabe de Palo",
+        "link": "https://www.facebook.com/manuelmedranoband/posts/783649351701356",
+        "added_by": "Beatriz Tenorio ",
+        "address": "-74.05403673648834,4.665879891917662",
+        "start": "8:30:00 PM",
+        "end": "10:30:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05403673648834,
+          4.665879891917662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Mateo Pub",
+        "event": "Concierto Gira",
+        "date": "2014-11-29",
+        "capacity": 50,
+        "occupation": 80,
+        "price": "20000",
+        "lineup": "",
+        "headliner": "",
+        "link": "https://www.facebook.com/events/718751721550041/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Av 42 # 30-25 Villavicencio",
+        "start": "10:00:00 PM",
+        "end": "11:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.64019870758057,
+          4.1398910153635535
+        ]
+      }
     }
   ]
 }
