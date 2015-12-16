@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "venue": "Palacio de los Deportes",
-        "event": "Gira Conexión",
+        "event": "Gira ConexiÃ³n",
         "date": "2015-12-03",
         "capacity": 5000,
         "occupation": 100,
@@ -27,7 +27,7 @@
       "type": "Feature",
       "properties": {
         "venue": "Palacio de los Deportes",
-        "event": "Gira Conexión",
+        "event": "Gira ConexiÃ³n",
         "date": "2015-12-04",
         "capacity": 5000,
         "occupation": 100,
@@ -49,7 +49,7 @@
       "type": "Feature",
       "properties": {
         "venue": "Palacio de los Deportes",
-        "event": "Gira Conexión",
+        "event": "Gira ConexiÃ³n",
         "date": "2015-12-05",
         "capacity": 5000,
         "occupation": 100,
@@ -64,6 +64,34 @@
         "coordinates": [
           -74.08409893512726,
           4.655239997001625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Plaza de Toros",
+        "event": "Gira Conexión",
+        "date": "2015-12-12",
+        "capacity": 12000,
+        "occupation": 100,
+        "price": "16000",
+        "lineup": "",
+        "headliner": "Fonseca",
+        "link": "son0p ",
+        "added_by": " ",
+        "address": "",
+        "start": "8:00:00 PM",
+        "end": "10:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.548445,
+          3.409971
         ]
       }
     }
