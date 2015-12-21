@@ -186,6 +186,7 @@
       "type": "Feature",
       "properties": {
         "venue": "Expofuturo",
+        "city": "Pereira",
         "event": "Gira Conexión",
         "date": "2015-12-10",
         "capacity": 7000,
