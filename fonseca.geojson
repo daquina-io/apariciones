@@ -312,7 +312,7 @@
         "date": "2015-11-11",
         "capacity": 900,
         "occupation": 90,
-        "price": "",
+        "price": "NA",
         "lineup": " ",
         "headliner": "Fonseca",
         "link": " ",
@@ -330,6 +330,36 @@
         "coordinates": [
           -90.523715,
           14.609231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "American Airlines Arena",
+        "city": "Miami",
+        "event": "i Heart Radio ",
+        "date": "2015-11-07",
+        "capacity": 15000,
+        "occupation": 90,
+        "price": "",
+        "lineup": " ",
+        "headliner": "Jennifer Lopez, Pitbull",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "8:10:00 PM",
+        "end": "9:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": "i Heart Radio",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.52343749999999,
+          -5.353521355337321
         ]
       }
     }
