@@ -362,6 +362,36 @@
           25.781353379993114
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Figaly Convention Center",
+        "city": "Panama",
+        "event": " ",
+        "date": "2015-09-25",
+        "capacity": 7000,
+        "occupation": 90,
+        "price": "",
+        "lineup": "Juanes, Fonseca ",
+        "headliner": "Juanes",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "8:10:00 PM",
+        "end": "9:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.546457,
+          8.939934
+        ]
+      }
     }
   ]
 }
