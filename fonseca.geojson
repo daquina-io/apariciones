@@ -85,7 +85,8 @@
         "end": "10:00:00 PM",
         "other_events": "",
         "news": "",
-        "founder": ""
+        "founder": "",
+        "twitter_followers": "3560942"
       },
       "geometry": {
         "type": "Point",
@@ -100,7 +101,7 @@
       "properties": {
         "venue": "Pabellón Amarillo",
         "event": "Fiesa fin de año Exito",
-        "date": "2015-12-05",
+        "date": "2015-12-17",
         "capacity": 3000,
         "occupation": 60,
         "price": "NA",
@@ -114,7 +115,7 @@
         "other_events": "",
         "news": "",
         "founder": "",
-        "twitter_followers": "3564620"
+        "twitter_followers": "3564609"
       },
       "geometry": {
         "type": "Point",
@@ -172,7 +173,7 @@
         "other_events": "",
         "news": "",
         "founder": "",
-        "twitter_followers": "3567617"
+        "twitter_followers": "3565828"
       },
       "geometry": {
         "type": "Point",
