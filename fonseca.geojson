@@ -452,6 +452,66 @@
           6.209514260441382
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Corferias",
+        "city": "Bogota",
+        "event": "Expovinos ",
+        "date": "2015-07-28",
+        "capacity": 10000,
+        "occupation": 100,
+        "price": "",
+        "lineup": "Fonseca ",
+        "headliner": "Fonseca",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08982276916504,
+          4.6306018745781525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Gimnasio Moderno",
+        "city": "Bogota",
+        "event": "Venta gira Conexión Exito ",
+        "date": "2015-07-29",
+        "capacity": 50,
+        "occupation": 100,
+        "price": "NA",
+        "lineup": "Fonseca",
+        "headliner": "Fonseca",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05544221401215,
+          4.65848544935522
+        ]
+      }
     }
   ]
 }
