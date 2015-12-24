@@ -43,6 +43,66 @@
           6.210404861516136
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Casa Teatro",
+        "city": "Medellin",
+        "event": " ",
+        "date": "2015-11-06",
+        "capacity": 200,
+        "occupation": 90,
+        "price": "",
+        "lineup": "Estebangira",
+        "headliner": "Estebangira",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "private",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58066964149475,
+          6.1883100444040995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Acción Impro",
+        "city": "Medellin",
+        "event": " ",
+        "date": "2012-06-14",
+        "capacity": 200,
+        "occupation": "",
+        "price": "",
+        "lineup": "Estebangira",
+        "headliner": "Estebangira",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "private",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57199001312256,
+          6.210378196835193
+        ]
+      }
     }
   ]
 }
