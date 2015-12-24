@@ -103,6 +103,36 @@
           6.210378196835193
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Lido",
+        "city": "Medellin",
+        "event": " ",
+        "date": "2012-10-14",
+        "capacity": 600,
+        "occupation": "",
+        "price": "",
+        "lineup": "Estebangira",
+        "headliner": "Estebangira",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "private",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56438863277435,
+          6.252424050662582
+        ]
+      }
     }
   ]
 }
