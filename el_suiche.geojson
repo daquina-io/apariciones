@@ -43,8 +43,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "talento": "zdey",
-        "sitio": "centro_colombo_americano"
+        "headliner": "zdey",
+        "venue": "centro_colombo_americano"
       },
       "geometry": {
         "type": "Point",
@@ -69,8 +69,8 @@
         "link": " ",
         "added_by": "son0p  ",
         "address": "",
-        "start": "8:10:00 PM",
-        "end": "9:40:00 PM",
+        "start": "",
+        "end": "",
         "other_events": "",
         "news": "",
         "founder": "",
@@ -81,6 +81,36 @@
         "coordinates": [
           -75.56817054748535,
           6.24485983191977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Centro Colombo Americano",
+        "city": "Medellin",
+        "event": "El Suiche ",
+        "date": "2006-12-13",
+        "capacity": 232,
+        "occupation": 90,
+        "price": "0",
+        "lineup": "Trópico Esmeralda ",
+        "headliner": "Trópico Esmeralda",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "9:00:00 PM",
+        "end": "10:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56236624717712,
+          6.249840443656167
         ]
       }
     }
