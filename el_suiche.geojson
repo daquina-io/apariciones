@@ -203,6 +203,36 @@
           6.209876900581769
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Calle 9+1",
+        "city": "Medellin",
+        "event": "El Suiche ",
+        "date": "2014-05-14",
+        "capacity": 150,
+        "occupation": "",
+        "price": "0",
+        "lineup": "Miguel Isaza",
+        "headliner": "Miguel Isaza",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "8:00:00 PM",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56815445423126,
+          6.209786240570084
+        ]
+      }
     }
   ]
 }
