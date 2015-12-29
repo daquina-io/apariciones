@@ -572,6 +572,36 @@
           3.528524
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Plaza Centro Convenciones Cartagena",
+        "city": "Cartagena",
+        "event": "Gira Conexión",
+        "date": "2015-12-29",
+        "capacity": 5000,
+        "occupation": 95,
+        "price": "16000 + 16mil puntos exito",
+        "lineup": "Fonseca",
+        "headliner": "Fonseca",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "8:50:00 PM",
+        "end": "10:50:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": "Proyecto Nash - Exito",
+        "twitter_followers": "3564609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.54838120937347,
+          10.421674686574944
+        ]
+      }
     }
   ]
 }
