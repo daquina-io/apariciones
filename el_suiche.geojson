@@ -323,6 +323,36 @@
           6.249403175573131
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Auditorio Camara de Comercio",
+        "city": "Medellin",
+        "event": "El Suiche ",
+        "date": "2013-03-12",
+        "capacity": 150,
+        "occupation": "",
+        "price": "0",
+        "lineup": "Opus Dei",
+        "headliner": "Opus Dei",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "8:00:00 PM",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56397557258606,
+          6.2493605152527785
+        ]
+      }
     }
   ]
 }
