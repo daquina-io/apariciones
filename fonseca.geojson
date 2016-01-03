@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "venue": "Palacio de los Deportes",
-        "event": "Gira ConexiÃÂÃÂ³n",
+        "event": "Gira ConexiÃÂÃÂÃÂÃÂ³n",
         "date": "2015-12-03",
         "capacity": 5000,
         "occupation": 100,
@@ -27,7 +27,7 @@
       "type": "Feature",
       "properties": {
         "venue": "Palacio de los Deportes",
-        "event": "Gira ConexiÃÂÃÂ³n",
+        "event": "Gira ConexiÃÂÃÂÃÂÃÂ³n",
         "date": "2015-12-04",
         "capacity": 5000,
         "occupation": 100,
@@ -49,7 +49,7 @@
       "type": "Feature",
       "properties": {
         "venue": "Palacio de los Deportes",
-        "event": "Gira ConexiÃÂÃÂ³n",
+        "event": "Gira ConexiÃÂÃÂÃÂÃÂ³n",
         "date": "2015-12-05",
         "capacity": 5000,
         "occupation": 100,
@@ -71,7 +71,7 @@
       "type": "Feature",
       "properties": {
         "venue": "Plaza de Toros Cali",
-        "event": "Gira ConexiÃÂ³n",
+        "event": "Gira ConexiÃÂÃÂ³n",
         "date": "2015-12-12",
         "capacity": 12000,
         "occupation": 100,
@@ -99,8 +99,8 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "PabellÃ³n Amarillo",
-        "event": "Fiesa fin de aÃ±o Exito",
+        "venue": "PabellÃÂ³n Amarillo",
+        "event": "Fiesa fin de aÃÂ±o Exito",
         "date": "2015-12-17",
         "capacity": 3000,
         "occupation": 60,
@@ -128,8 +128,8 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "PÃ³rtico",
-        "event": "Fiesa fin de aÃ±o Caracol",
+        "venue": "PÃÂ³rtico",
+        "event": "Fiesa fin de aÃÂ±o Caracol",
         "date": "2015-12-17",
         "capacity": 400,
         "occupation": 90,
@@ -158,7 +158,7 @@
       "type": "Feature",
       "properties": {
         "venue": "Plaza de Toros La macarena",
-        "event": "Gira ConexiÃ³n",
+        "event": "Gira ConexiÃÂ³n",
         "date": "2015-12-19",
         "capacity": 12000,
         "occupation": 100,
@@ -188,7 +188,7 @@
       "properties": {
         "venue": "Expofuturo",
         "city": "Pereira",
-        "event": "Gira ConexiÃ³n",
+        "event": "Gira ConexiÃÂ³n",
         "date": "2015-12-10",
         "capacity": 7000,
         "occupation": 90,
@@ -218,7 +218,7 @@
       "properties": {
         "venue": "Coliceo Bicentenario",
         "city": "Bucaramanga",
-        "event": "Gira ConexiÃ³n",
+        "event": "Gira ConexiÃÂ³n",
         "date": "2015-12-18",
         "capacity": 7000,
         "occupation": 95,
@@ -248,7 +248,7 @@
       "properties": {
         "venue": "Parque Las Malocas",
         "city": "Villavicencio",
-        "event": "Gira ConexiÃ³n",
+        "event": "Gira ConexiÃÂ³n",
         "date": "2015-12-17",
         "capacity": 7000,
         "occupation": 95,
@@ -396,7 +396,7 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "Anfiteatro Parque de la ExposiciÃ³n",
+        "venue": "Anfiteatro Parque de la ExposiciÃÂ³n",
         "city": "Lima",
         "event": "Festival Claro 2015 ",
         "date": "2015-09-26",
@@ -488,7 +488,7 @@
       "properties": {
         "venue": "Gimnasio Moderno",
         "city": "Bogota",
-        "event": "Venta gira ConexiÃ³n Exito ",
+        "event": "Venta gira ConexiÃÂ³n Exito ",
         "date": "2015-07-29",
         "capacity": 50,
         "occupation": 100,
@@ -516,7 +516,7 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "MuseÃ© Naval de la Citadelle",
+        "venue": "MuseÃÂ© Naval de la Citadelle",
         "city": "Saint Tropez",
         "event": "Privado Matrimonio ",
         "date": "2015-07-05",
@@ -548,13 +548,13 @@
       "properties": {
         "venue": "Centro De Eventos Valle Del Pacifico",
         "city": "Cali",
-        "event": "Fonseca SinfÃ³nico ",
+        "event": "Fonseca SinfÃÂ³nico ",
         "date": "2015-05-22",
         "capacity": 8000,
         "occupation": 100,
         "price": "NA",
         "lineup": "Fonseca sinfonico",
-        "headliner": "Fonseca SinfÃ³nico",
+        "headliner": "Fonseca SinfÃÂ³nico",
         "link": " ",
         "added_by": "son0p  ",
         "address": "",
@@ -578,7 +578,7 @@
       "properties": {
         "venue": "Plaza Centro Convenciones Cartagena",
         "city": "Cartagena",
-        "event": "Gira ConexiÃ³n",
+        "event": "Gira ConexiÃÂ³n",
         "date": "2015-12-29",
         "capacity": 5000,
         "occupation": 95,
@@ -630,6 +630,36 @@
         "coordinates": [
           121.490257,
           31.182367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Music Hall de Expo Shanghai",
+        "city": "Shanghai",
+        "event": "",
+        "date": "2015-12-31",
+        "capacity": 30,
+        "occupation": 100,
+        "price": "",
+        "lineup": "Fonseca",
+        "headliner": "Fonseca",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.547034740448,
+          10.429361609803022
         ]
       }
     }
