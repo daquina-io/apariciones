@@ -30,6 +30,36 @@
           2.923096
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Ship Point (Inner Harbour) Tampa Fl USA",
+        "city": "Tampa",
+        "event": "Harbour Pass - Victoria's 16th Annual Ska & Reggae Festival featuring ",
+        "date": "2015-07-03",
+        "capacity": 1200,
+        "occupation": "",
+        "price": "",
+        "lineup": " ",
+        "headliner": "",
+        "link": " ",
+        "added_by": "Elvis, son0p  ",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.450949,
+          27.935653
+        ]
+      }
     }
   ]
 }
