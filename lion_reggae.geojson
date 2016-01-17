@@ -3,12 +3,31 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "venue": "Estadio Urdaneta Arbelaez Neiva",
+        "city": "Neiva",
+        "event": "Lion Reggae en NEIVA!!!! ",
+        "date": "2015-08-24",
+        "capacity": 3000,
+        "occupation": "",
+        "price": "",
+        "lineup": " ",
+        "headliner": "",
+        "link": " ",
+        "added_by": "Elvis, son0p  ",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.36669921875,
-          4.718777551249867
+          -75.285003,
+          2.923096
         ]
       }
     }
