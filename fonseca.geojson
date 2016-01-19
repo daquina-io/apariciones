@@ -27,7 +27,7 @@
       "type": "Feature",
       "properties": {
         "venue": "Palacio de los Deportes",
-        "event": "Gira ConexiÃÂÃÂÃÂÃÂ³n",
+        "event": "Gira Conexión",
         "date": "2015-12-04",
         "capacity": 5000,
         "occupation": 100,
@@ -49,7 +49,7 @@
       "type": "Feature",
       "properties": {
         "venue": "Palacio de los Deportes",
-        "event": "Gira ConexiÃÂÃÂÃÂÃÂ³n",
+        "event": "Gira Conexión",
         "date": "2015-12-05",
         "capacity": 5000,
         "occupation": 100,
@@ -71,7 +71,7 @@
       "type": "Feature",
       "properties": {
         "venue": "Plaza de Toros Cali",
-        "event": "Gira ConexiÃÂÃÂ³n",
+        "event": "Gira Conexión",
         "date": "2015-12-12",
         "capacity": 12000,
         "occupation": 100,
@@ -99,8 +99,8 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "PabellÃÂ³n Amarillo",
-        "event": "Fiesa fin de aÃÂ±o Exito",
+        "venue": "Pabellón Amarillo",
+        "event": "Fiesa fin de año Exito",
         "date": "2015-12-17",
         "capacity": 3000,
         "occupation": 60,
@@ -128,8 +128,8 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "PÃÂ³rtico",
-        "event": "Fiesa fin de aÃÂ±o Caracol",
+        "venue": "Pórtico",
+        "event": "Fiesa fin de año Caracol",
         "date": "2015-12-17",
         "capacity": 400,
         "occupation": 90,
