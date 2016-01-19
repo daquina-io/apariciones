@@ -93,6 +93,29 @@
           6.299383
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "",
+        "venue": "AeroParque Juan Pablo II",
+        "event": "Medellin summer bike",
+        "date": "2015-07-12",
+        "capacity": 3000,
+        "ocupation": "NA",
+        "price": "NA",
+        "founder": "NA",
+        "lineup": "NA",
+        "city": "Medellin",
+        "occupation": "NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.590858,
+          6.228123
+        ]
+      }
     }
   ]
 }
