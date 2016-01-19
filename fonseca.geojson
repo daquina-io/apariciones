@@ -158,7 +158,7 @@
       "type": "Feature",
       "properties": {
         "venue": "Plaza de Toros La macarena",
-        "event": "Gira ConexiÃÂ³n",
+        "event": "Gira Conexión",
         "date": "2015-12-19",
         "capacity": 12000,
         "occupation": 100,
@@ -188,7 +188,7 @@
       "properties": {
         "venue": "Expofuturo",
         "city": "Pereira",
-        "event": "Gira ConexiÃÂ³n",
+        "event": "Gira Conexión",
         "date": "2015-12-10",
         "capacity": 7000,
         "occupation": 90,
@@ -218,7 +218,7 @@
       "properties": {
         "venue": "Coliceo Bicentenario",
         "city": "Bucaramanga",
-        "event": "Gira ConexiÃÂ³n",
+        "event": "Gira Conexión",
         "date": "2015-12-18",
         "capacity": 7000,
         "occupation": 95,
@@ -248,7 +248,7 @@
       "properties": {
         "venue": "Parque Las Malocas",
         "city": "Villavicencio",
-        "event": "Gira ConexiÃÂ³n",
+        "event": "Gira Conexión",
         "date": "2015-12-17",
         "capacity": 7000,
         "occupation": 95,
@@ -488,7 +488,7 @@
       "properties": {
         "venue": "Gimnasio Moderno",
         "city": "Bogota",
-        "event": "Venta gira ConexiÃÂ³n Exito ",
+        "event": "Venta gira Gira Conexiónn Exito ",
         "date": "2015-07-29",
         "capacity": 50,
         "occupation": 100,
@@ -548,7 +548,7 @@
       "properties": {
         "venue": "Centro De Eventos Valle Del Pacifico",
         "city": "Cali",
-        "event": "Fonseca SinfÃÂ³nico ",
+        "event": "Fonseca Sinfónico",
         "date": "2015-05-22",
         "capacity": 8000,
         "occupation": 100,
