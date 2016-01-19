@@ -748,6 +748,138 @@
           4.660346097326611
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Cámara de Ganaderos de San Carlos",
+        "event": "Expo San Carlos",
+        "date": "2015-05-03",
+        "capacity": 5000,
+        "occupation": 100,
+        "price": "",
+        "lineup": "Fonseca, DJ",
+        "link": "",
+        "added_by": "son0p",
+        "founder": "Expo San Carlos",
+        "headliner": "Fonseca",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "San Carlos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.466935,
+          10.441337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Ballroom Hotel la Concha",
+        "event": "",
+        "date": "2015-04-25",
+        "capacity": 200,
+        "occupation": 100,
+        "price": "",
+        "lineup": "Fonseca, Gran Combo Puerto Rico",
+        "link": "",
+        "added_by": "son0p",
+        "founder": "",
+        "headliner": "Fonseca",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "San Juan",
+        "marker-color": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.07416,
+          18.457535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Country Club ",
+        "event": "Matrimonio",
+        "date": "2014-04-18",
+        "capacity": 200,
+        "occupation": 100,
+        "price": "",
+        "lineup": "Fonseca, ",
+        "link": "",
+        "added_by": "son0p",
+        "founder": "privado",
+        "headliner": "Fonseca",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Barranquilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.804298,
+          11.005524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Estadio Olimpico ",
+        "event": "Fiestas Rio Bamba",
+        "date": "2015-04-17",
+        "capacity": 20000,
+        "occupation": 100,
+        "price": "",
+        "lineup": "Fonseca, Los Crucetas, Jhonny Galarza  ",
+        "link": "",
+        "added_by": "",
+        "founder": "Municipio Rio Bamba",
+        "headliner": "Fonseca",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Rio Bamba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.660082,
+          -1.6665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.538108,
+          15.801059
+        ]
+      }
     }
   ]
 }
