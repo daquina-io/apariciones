@@ -739,7 +739,8 @@
         "occupation": 100,
         "price": "NA",
         "lineup": "Fonseca, Choc Quib Town, Efecto Pasillo, Manuel Medrano, Julieta Venegas, Noel Schajris, Mojito Lite,Sebastián Yatra, Mike Bahía, Gusi, Pedrina y Río, Maria Bestar, Jorge Villamizar",
-        "city": "Bogota"
+        "city": "Bogota",
+        "added_by": "son0p"
       },
       "geometry": {
         "type": "Point",
@@ -851,7 +852,7 @@
         "price": "",
         "lineup": "Fonseca, Los Crucetas, Jhonny Galarza  ",
         "link": "",
-        "added_by": "",
+        "added_by": "son0p",
         "founder": "Municipio Rio Bamba",
         "headliner": "Fonseca",
         "address": "",
@@ -872,12 +873,63 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "venue": "Indura Beach",
+        "event": "Privado",
+        "date": "2015-04-01",
+        "capacity": 100,
+        "occupation": 100,
+        "price": "",
+        "lineup": "Fonseca",
+        "link": "",
+        "added_by": "son0p",
+        "founder": "privado",
+        "headliner": "Fonseca",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Tela",
+        "marker-color": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -87.538108,
           15.801059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Club Hípico La Molina",
+        "event": "corporativo",
+        "date": "2015-03-05",
+        "capacity": 800,
+        "occupation": 100,
+        "price": "",
+        "lineup": "",
+        "link": "",
+        "added_by": "",
+        "founder": "",
+        "headliner": "Fonseca",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Lima",
+        "marker-color": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.929087,
+          -12.081006
         ]
       }
     }
