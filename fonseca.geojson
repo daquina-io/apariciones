@@ -728,6 +728,26 @@
           7.071394
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Parque Simón Bolivar",
+        "event": "Radio Fest",
+        "date": "2015-05-09",
+        "capacity": 50000,
+        "occupation": 100,
+        "price": "NA",
+        "lineup": "Fonseca, Choc Quib Town, Efecto Pasillo, Manuel Medrano, Julieta Venegas, Noel Schajris, Mojito Lite,Sebastián Yatra, Mike Bahía, Gusi, Pedrina y Río, Maria Bestar, Jorge Villamizar",
+        "city": "Bogota"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.09070253372192,
+          4.660346097326611
+        ]
+      }
     }
   ]
 }
