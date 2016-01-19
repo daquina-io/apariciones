@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Discoteca La Tribu Ibague",
+        "event": "Lanzamiento Nuevo Disco",
+        "date": "2015-12-05",
+        "capacity": 1500,
+        "occupation": 70,
+        "price": "60,000,100,000",
+        "lineup": "",
+        "headliner": "",
+        "link": "https://www.facebook.com/events/601642953310450/ ",
+        "added_by": "Beatriz Tenorio  ",
+        "address": "Km 1 via al Totumo IbaguÃ©",
+        "start": "5:00:00 PM",
+        "end": "7:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.180402,
+          4.405359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Corfescu",
+        "event": "Lanzamiento Nuevo Disco",
+        "date": "2015-12-04",
+        "capacity": 700,
+        "occupation": 80,
+        "price": "169000, 100000, 75000, 65000, 55000",
+        "lineup": "Tavo Botero\nAndres Arias",
+        "headliner": "",
+        "link": "https://www.facebook.com/events/1639915622929441/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Cl. 34 #26 - 46, Bucaramanga, Santander",
+        "start": "7:00:00 PM",
+        "end": "9:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.117719,
+          7.122904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Universidad de Medellin",
+        "event": "Lanzamiento Nuevo Disco",
+        "date": "2015-11-12",
+        "capacity": 1702,
+        "occupation": 90,
+        "price": "66000, 60000, 49000, 39000",
+        "lineup": "Juan Pablo Vega",
+        "headliner": "",
+        "link": "https://www.facebook.com/events/521732381333381/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Carrera 87 NÂ° 30 - 65 MedellÃ­n - Colombia",
+        "start": "8:00:00 PM",
+        "end": "10:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.61022758483887,
+          6.232754721601618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Mayor Julio Mario Santodomingo",
+        "event": "Lanzamiento Nuevo Disco",
+        "date": "2015-10-28",
+        "capacity": 1320,
+        "occupation": 100,
+        "price": "40000, 50000, 60000",
+        "lineup": "",
+        "headliner": "",
+        "link": "https://www.facebook.com/events/1659871807558680/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "-74.06239986419678, 4.7565637105484795",
+        "start": "8:00:00 PM",
+        "end": "9:30:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06239986419678,
+          4.7565637105484795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Nacional La Castellana",
+        "event": "Experiencia SÃ³nica",
+        "date": "2015-05-12",
+        "capacity": 711,
+        "occupation": 100,
+        "price": "45000, 30000",
+        "lineup": "Juan Pablo Vega",
+        "headliner": "",
+        "link": "https://www.facebook.com/events/103006173363879/",
+        "added_by": "Beatriz Tenorio ",
+        "address": " -74.0597552061081, 4.68392724422666",
+        "start": "8:00:00 PM",
+        "end": "10:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0597552061081,
+          4.68392724422666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "A puerta Cerrada",
+        "event": "Concierto",
+        "date": "2015-02-12",
+        "capacity": 150,
+        "occupation": 100,
+        "price": "25000",
+        "lineup": "",
+        "headliner": "",
+        "link": "https://www.facebook.com/events/911399305559148/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "-74.05000269412994, 4.681005374419559",
+        "start": "9:00:00 PM",
+        "end": "10:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05000269412994,
+          4.681005374419559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Now Hotel",
+        "event": "Concierto",
+        "date": "2015-02-07",
+        "capacity": 300,
+        "occupation": 90,
+        "price": "20000",
+        "lineup": "",
+        "headliner": "",
+        "link": "https://www.facebook.com/events/1518745558413355/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Avenida 9AN No. 10N-74, Cali",
+        "start": "9:00:00 PM",
+        "end": "11:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.535218,
+          3.45956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "El Sitio",
+        "event": "Lanzamiento Sencillo Afuera del Planeta",
+        "date": "2014-09-16",
+        "capacity": 600,
+        "occupation": 90,
+        "price": "15000",
+        "lineup": "",
+        "headliner": "",
+        "link": "https://www.facebook.com/manuelmedranoband/photos/gm.1527394174163857/759926087407016/?type=3&theater",
+        "added_by": "Beatriz Tenorio ",
+        "address": "-74.04835045337677, 4.674862190248317",
+        "start": "8:00:00 PM",
+        "end": "9:30:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.04835045337677,
+          4.674862190248317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Auditorio CVilar",
+        "event": "Opening Act Jarabe de Palo",
+        "date": "2014-11-07",
+        "capacity": 2000,
+        "occupation": 90,
+        "price": "198000, 132000, 90000",
+        "lineup": "Jarabe de Palo",
+        "headliner": "Jarabe de Palo",
+        "link": "https://www.facebook.com/manuelmedranoband/posts/783649351701356",
+        "added_by": "Beatriz Tenorio ",
+        "address": "-74.05403673648834,4.665879891917662",
+        "start": "8:30:00 PM",
+        "end": "10:30:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05403673648834,
+          4.665879891917662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Mateo Pub",
+        "event": "Concierto Gira",
+        "date": "2014-11-29",
+        "capacity": 250,
+        "occupation": 80,
+        "price": "20000",
+        "lineup": "",
+        "headliner": "",
+        "link": "https://www.facebook.com/events/718751721550041/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Av 42 # 30-25 Villavicencio",
+        "start": "10:00:00 PM",
+        "end": "11:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.64019870758057,
+          4.1398910153635535
+        ]
+      }
+    }
+  ]
+}

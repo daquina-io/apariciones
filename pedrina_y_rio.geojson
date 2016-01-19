@@ -1,0 +1,467 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "La Ventana de la T",
+        "event": "Feria de Diseño La Madame",
+        "date": "2014-08-02",
+        "capacity": 250,
+        "occupation": "50",
+        "price": "0",
+        "lineup": "- Radio Matuna\n- Varo - Live - Looping\n- La Pau Dj set\n- Always Black Dj set\n- LCN Dj Set (Lucien)",
+        "link": "https://www.facebook.com/events/799949280025210/",
+        "added_by": "Beatriz Tenorio",
+        "address": "Carrera 12a # 83-61",
+        "start": "4:00:00 PM",
+        "end": "5:00:00 PM",
+        "other_events": "Concierto Ambiental 2014. Parque de los Novios.",
+        "news": "NA",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05373632907867,
+          4.6678902258202015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Fundación Gilberto Alzate Avendaño",
+        "event": "Concierto",
+        "date": "2014-10-07",
+        "capacity": 430,
+        "occupation": "",
+        "price": "0",
+        "lineup": "NA",
+        "link": "http://www.fgaa.gov.co/pedrina-y-rio-en-concierto#.VmhjBtLhC1s",
+        "added_by": "Beatriz Tenorio",
+        "address": "Calle 10 #3- 16",
+        "start": "6:00:00 PM",
+        "end": "7:00:00 PM",
+        "other_events": "NA",
+        "news": "NA",
+        "founder": "NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.07252252101898,
+          4.595412999767093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Stage",
+        "event": "Festival Hermoso Ruido",
+        "date": "2013-08-32",
+        "capacity": 200,
+        "occupation": "NA",
+        "price": "10000",
+        "lineup": "Andrés Correa (Colombia)\nMarley Muerto (Ecuador)",
+        "link": "https://www.facebook.com/events/574681175911060/",
+        "added_by": "Beatriz Tenorio",
+        "address": "Cra 4A No. 26A-37 La Macarena",
+        "start": "6:30:00 PM",
+        "end": "7:30:00 PM",
+        "other_events": "NA",
+        "news": "NA",
+        "founder": "NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06978666782379,
+          4.6011611875698835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "La Monferrina 93",
+        "event": "Desconectados \"Hecho a Mano\"-Revista Metrónomo & Cromatic",
+        "date": "2013-12-06",
+        "capacity": "150",
+        "occupation": "NA",
+        "price": "NA",
+        "lineup": "Oh la Ville\nLa Ramona\nJuan Galeano\nDanikattack CK\nJuan Pablo Vega",
+        "link": "https://www.facebook.com/events/632587773450906/",
+        "added_by": "Beatriz Tenorio",
+        "address": "Cll 93#13a-44",
+        "start": "9:00:00 PM",
+        "end": "10:00:00 PM",
+        "other_events": "NA",
+        "news": "NA",
+        "founder": "NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05081272125244,
+          4.676214871633306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Auditorio C.Vilar El Retiro",
+        "event": "Converse Rubber Tracks Live",
+        "date": "2013-09-06",
+        "capacity": "2000",
+        "occupation": "NA",
+        "price": "0",
+        "lineup": "Minus the Bear (Seattle)",
+        "link": "https://www.facebook.com/events/1717285505164077/",
+        "added_by": "Beatriz Tenorio",
+        "address": "Centro Comercial El Retiro-Calle 82 No. 11-75",
+        "start": "8:00:00 PM",
+        "end": "9:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05384898185729,
+          4.666008211274941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Pablo Tobón Uribe",
+        "event": " Show Case Circulart",
+        "date": "2014-10-11",
+        "capacity": 883,
+        "occupation": "",
+        "price": "0",
+        "lineup": "",
+        "link": "https://www.facebook.com/events/1546845585529692/",
+        "added_by": "Beatriz Tenorio",
+        "address": "Carrera 40 № 51 - 24 Medellín Colombia",
+        "start": "4:00:00 PM",
+        "end": "4:30:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55919051170349,
+          6.247414134437539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Biblioteca Pública y Parque Cultural Débora Arango",
+        "event": " Festival de Nuevos Sonidos Colombianos Envigado 2014 de Secretaría de Educación y Cultura de Envigado en asocio con Comfenalco Antioquia",
+        "date": "2014-10-11",
+        "capacity": 500,
+        "occupation": "",
+        "price": "0",
+        "lineup": "Calavera y la Popular Independiente\nSereno y Pangao\nAguasalá\nVelo de Oza",
+        "link": "https://www.facebook.com/events/350880231746735/",
+        "added_by": "Beatriz Tenorio",
+        "address": " Calle 37 sur # 45b-27",
+        "start": "9:00:00 PM",
+        "end": "12:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59056162834167,
+          6.172064991237351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "La Central",
+        "event": "Feria de Cali",
+        "date": "2014-12-27",
+        "capacity": 1042,
+        "occupation": "",
+        "price": "2,000,015,000",
+        "lineup": "DJ Alex Jaramillo\nDJ Julio Garces",
+        "link": "https://www.facebook.com/events/764923260248624/",
+        "added_by": "Beatriz Tenorio",
+        "address": "Cra 9 # 10-04  Cali",
+        "start": "10:00:00 PM",
+        "end": "12:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.53262317180634,
+          3.447517572452089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Porto Do Molle",
+        "event": "Festival Portamérica",
+        "date": "2015-07-18",
+        "capacity": 3000,
+        "occupation": "80%",
+        "price": "102000",
+        "lineup": "The Divine Comedy\nSupersubmarina\nXoel López\nIs Tropical\nArizona Baby\nMi Capitan\nThe Soul Jacket\nJenny and The Mexicats\nAgoraphobia\nGato TV\n",
+        "link": "https://www.facebook.com/events/901278043264106/\nhttp://portamerica.es/cartel/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Galicia España",
+        "start": "9:00:00 PM",
+        "end": "10:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.877830266952514,
+          42.35339843570063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Plaza de Toros de Getafe",
+        "event": "Festival Charco",
+        "date": "2015-07-25",
+        "capacity": 5000,
+        "occupation": "80%",
+        "price": "68000",
+        "lineup": "Nacho Vegas\nGepe\nCamila Moreno\nLittle Jesus\n",
+        "link": "https://www.facebook.com/events/901278043264106/\nhttp://www.charco.biz/nace-el-festival-charco-en-cultura-inquieta-el-24-de-julio-en-la-plaza-de-toros-de-getafe/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "C/ Averroes 8, 28903 Getafe-Madrid España",
+        "start": "5:00:00 PM",
+        "end": "6:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7120485305786133,
+          40.31485117762335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Armando Records",
+        "event": "Lanzamiento Disco Canciones sin Ropa",
+        "date": "2015-06-06",
+        "capacity": 439,
+        "occupation": "100%",
+        "price": "3,700,022,000",
+        "lineup": "NA",
+        "link": "https://www.facebook.com/events/1673179006238985/",
+        "added_by": "Beatriz Tenorio",
+        "address": "Calle 85 # 14-46",
+        "start": "7:30:00 PM",
+        "end": "8:30:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05487895011902,
+          4.668713605596646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Koblenz, Alemania",
+        "event": "Horizonte Festival",
+        "date": "2015-07-17",
+        "capacity": 1500,
+        "occupation": "50%",
+        "price": "",
+        "lineup": "",
+        "link": "https://www.facebook.com/events/901278043264106/",
+        "added_by": "Beatriz Tenorio",
+        "address": "",
+        "start": "7:00 PM",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5908660888671875,
+          50.34458402503957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Royal Center",
+        "event": "Evento de Navidad 40 Principales",
+        "date": "2015-12-08",
+        "capacity": 2800,
+        "occupation": "90%",
+        "price": "30000",
+        "lineup": "Esteman\nAterciopelados\nManuel Medrano\nMacaco\nBomba Estereo\nMonsieur Perine\nLos PetitFellas",
+        "link": "https://www.facebook.com/events/581140492034318/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "-74.06293630599976, 4.65252385733072",
+        "start": "4:00:00 PM",
+        "end": "10:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06293630599976,
+          4.65252385733072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Cine Tonalá Bogotá ",
+        "event": "Festival Canción Canción",
+        "date": "2015-12-02",
+        "capacity": 100,
+        "occupation": "100%",
+        "price": "25000",
+        "lineup": "Laura y la Máquina de Escribir\nOh la Ville",
+        "link": "https://www.facebook.com/events/933500860057350/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Cra 6 # 35-37",
+        "start": "7:00:00 PM",
+        "end": "11:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06568825244904,
+          4.622175097342459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Down Town Majestic",
+        "event": "Despedida de Semestra U. Distrital",
+        "date": "2015-11-26",
+        "capacity": 3200,
+        "occupation": "80%",
+        "price": "0",
+        "lineup": "Burning Caravan\nVade Retro \nLatin Groove\nGrupo Muisical UD\nDJ Doktor\nChiflamicas",
+        "link": "https://www.facebook.com/events/540776806075421/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "-74.06962037086485, 4.608508106078302",
+        "start": "2:00:00 PM",
+        "end": "8:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06962037086485,
+          4.608508106078302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Museo del Chicó",
+        "event": "Concierto",
+        "date": "2015-11-07",
+        "capacity": 200,
+        "occupation": "60%",
+        "price": "35000",
+        "lineup": "Pernett\nUnichampeta",
+        "link": "https://www.facebook.com/events/506787722814216/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "-74.04364585876465, 4.671643546573142",
+        "start": "12:00:00 AM",
+        "end": "4:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.04364585876465,
+          4.671643546573142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Aeroparque Juan Pablo II",
+        "event": "Festival Altavoz",
+        "date": "2015-11-02",
+        "capacity": 8000,
+        "occupation": "",
+        "price": "0",
+        "lineup": "Sonicals\nBraille\nLa Fidel\nPerros de Reserva\nNo Señal\nCalibre 38\nCatfish\nLosPetifellas\nTucuprá\nGogol Bordello",
+        "link": "https://www.facebook.com/events/1515511375426649/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Carrera 70 N° 16 - 04 Medellín - Colombia",
+        "start": "2:45:00 PM",
+        "end": "3:50:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59196174144745,
+          6.2209853002865705
+        ]
+      }
+    }
+  ]
+}

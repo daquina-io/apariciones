@@ -1,0 +1,275 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Sala Forum",
+        "event": "Concierto Gira",
+        "date": "2015-10-03",
+        "capacity": 312,
+        "occupation": null,
+        "price": "15000",
+        "lineup": "Pedrina y Rio",
+        "link": "https://www.facebook.com/events/121644454853500/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Av Avila Camacho 1224 San Andres Cholula Puebla-Mexico",
+        "start": "9:00:00 PM",
+        "end": "11:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.293605,
+          19.049459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Foro Indie",
+        "event": "Concierto Gira",
+        "date": "2015-10-02",
+        "capacity": 600,
+        "occupation": 90,
+        "price": "5,400,065,000",
+        "lineup": "Pedrina y Rio",
+        "link": "https://www.facebook.com/events/683025345131875/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Calle Zacatecas 39, Cuauhtémoc, Roma Nte., 06700 Ciudad de México, D.F., México",
+        "start": "9:00:00 PM",
+        "end": "11:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.15621,
+          19.417033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Cactux Bar",
+        "event": "Concierto Gira",
+        "date": "2015-10-01",
+        "capacity": 150,
+        "occupation": null,
+        "price": "14400, 21600",
+        "lineup": "Pedrina y Rio",
+        "link": "https://www.facebook.com/events/884997758247932/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Héroes de Nacozari 191 (1 De Mayo), 58000 Morelia, Michoacan",
+        "start": "9:00:00 PM",
+        "end": "11:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.189138,
+          19.707403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Vivian Blumenthal ",
+        "event": "Concierto Gira",
+        "date": "2015-09-30",
+        "capacity": 230,
+        "occupation": 90,
+        "price": "18000, 28000",
+        "lineup": "Pedrina y Rio",
+        "link": "https://www.facebook.com/events/702599889871001/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Tomas V. Gomez #125, Col. Ladrón de Guevara,  Guadalajara,  JAL  44600",
+        "start": "8:00:00 PM",
+        "end": "10:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.383051,
+          20.678826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Mayor Julio Mario Santodomingo",
+        "event": "Lanzamiento Caótica Belleza",
+        "date": "2015-09-23",
+        "capacity": 1320,
+        "occupation": 70,
+        "price": "60000, 50000, 40000, 30000",
+        "lineup": "",
+        "link": "http://www.teatromayor.org/evento/musica/esteman-colombia",
+        "added_by": "Beatriz Tenorio ",
+        "address": "-74.06239986419678, 4.7565637105484795",
+        "start": "8:00:00 PM",
+        "end": "9:30:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06239986419678,
+          4.7565637105484795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Pablo Tobón Uribe",
+        "event": "Lanzamiento Caótica Belleza",
+        "date": "2015-09-12",
+        "capacity": 883,
+        "occupation": 70,
+        "price": "30000",
+        "lineup": "",
+        "link": "https://www.facebook.com/events/709408055859557/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "-75.55864334106445, 6.246854215328026",
+        "start": "8:00:00 PM",
+        "end": "9:30:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55864334106445,
+          6.246854215328026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Dedalo Galeria de Arte",
+        "event": "Festival Patio Itinerante",
+        "date": "2015-03-20",
+        "capacity": 300,
+        "occupation": 70,
+        "price": "40000",
+        "lineup": "Micaela Salaverry\nPamela Rodriguez\nAlejandro y Maria Laura",
+        "link": "https://www.facebook.com/events/926939634023743/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Saenz Peña 295, Barranco, Perú",
+        "start": "9:00:00 PM",
+        "end": "10:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.023995,
+          -12.143276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Niceto Club",
+        "event": "Concierto Gira",
+        "date": "2015-03-12",
+        "capacity": 1118,
+        "occupation": 60,
+        "price": "68000",
+        "lineup": "Juan Ingaramo",
+        "link": "https://www.facebook.com/events/896372780393883/\n",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Niceto Vega 5510, C1414BFD Buenos Aires",
+        "start": "9:00:00 PM",
+        "end": "10:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.438548,
+          -34.587011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Nacional La Castellana",
+        "event": "Se cierra el telón",
+        "date": "2014-12-17",
+        "capacity": 711,
+        "occupation": 90,
+        "price": "45000, 30000",
+        "lineup": "Cata García de Monsieur Periné\nJuan Pablo Vega \nNicolas de LosPetitFellas",
+        "link": "https://www.facebook.com/events/564668577011259/",
+        "added_by": "Beatriz Tenorio ",
+        "address": " -74.0597552061081, 4.68392724422666",
+        "start": "8:00:00 PM",
+        "end": "9:30:00 AM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0597552061081,
+          4.68392724422666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Libre de Chapinero",
+        "event": "Presentación disco Adelante",
+        "date": "2014-08-10",
+        "capacity": 654,
+        "occupation": 90,
+        "price": "27500, 50000",
+        "lineup": "",
+        "link": "https://www.facebook.com/events/1450327935237719/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "-74.06217992305756, 4.6480646604263605",
+        "start": "6:00:00 PM",
+        "end": "7:30:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06217992305756,
+          4.6480646604263605
+        ]
+      }
+    }
+  ]
+}

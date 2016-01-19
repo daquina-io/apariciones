@@ -43,14 +43,374 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "talento": "zdey",
-        "sitio": "centro_colombo_americano"
+        "headliner": "zdey",
+        "venue": "centro_colombo_americano"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -75.56257277727127,
           6.249821779782047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Alianza Colombo Francesa",
+        "city": "Medellin",
+        "event": "El Suiche ",
+        "date": "2008-05-14",
+        "capacity": 232,
+        "occupation": 90,
+        "price": "0",
+        "lineup": "GC Solo ",
+        "headliner": "GC Solo",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56817054748535,
+          6.24485983191977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Centro Colombo Americano",
+        "city": "Medellin",
+        "event": "El Suiche ",
+        "date": "2006-12-13",
+        "capacity": 232,
+        "occupation": 90,
+        "price": "0",
+        "lineup": "TrÃ³pico Esmeralda ",
+        "headliner": "TrÃ³pico Esmeralda",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "9:00:00 PM",
+        "end": "10:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56236624717712,
+          6.249840443656167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Calle 9+1",
+        "city": "Medellin",
+        "event": "El Suiche ",
+        "date": "2015-04-25",
+        "capacity": 150,
+        "occupation": "",
+        "price": "0",
+        "lineup": "Lady Vudu ",
+        "headliner": "Lady Vudu",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "8:00:00 PM",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5681785941124,
+          6.209796906454614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Calle 9+1",
+        "city": "Medellin",
+        "event": "El Suiche ",
+        "date": "2015-02-11",
+        "capacity": 150,
+        "occupation": "",
+        "price": "0",
+        "lineup": "Esteban Gartner",
+        "headliner": "Esteban Gartner",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "8:00:00 PM",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56824028491972,
+          6.209820904694043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Calle 9+1",
+        "city": "Medellin",
+        "event": "El Suiche ",
+        "date": "2014-09-09",
+        "capacity": 150,
+        "occupation": "",
+        "price": "0",
+        "lineup": "Reaccion Cadena, Ruidocracia y Ficción",
+        "headliner": "",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "8:00:00 PM",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56819200515747,
+          6.209876900581769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Calle 9+1",
+        "city": "Medellin",
+        "event": "El Suiche ",
+        "date": "2014-05-14",
+        "capacity": 150,
+        "occupation": "",
+        "price": "0",
+        "lineup": "Miguel Isaza",
+        "headliner": "Miguel Isaza",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "8:00:00 PM",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56815445423126,
+          6.209786240570084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Calle 9+1",
+        "city": "Medellin",
+        "event": "El Suiche ",
+        "date": "2014-04-16",
+        "capacity": 150,
+        "occupation": "",
+        "price": "0",
+        "lineup": "Rosellon",
+        "headliner": "Rosellon",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "8:00:00 PM",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56813567876816,
+          6.209876900581769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Auditorio Camara de Comercio",
+        "city": "Medellin",
+        "event": "El Suiche ",
+        "date": "2013-05-14",
+        "capacity": 150,
+        "occupation": "",
+        "price": "0",
+        "lineup": "Zygomatik",
+        "headliner": "Zygomatik",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "8:00:00 PM",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56412041187286,
+          6.2494405033505815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Auditorio Camara de Comercio",
+        "city": "Medellin",
+        "event": "El Suiche ",
+        "date": "2013-04-16",
+        "capacity": 150,
+        "occupation": "",
+        "price": "0",
+        "lineup": "Radiotorture",
+        "headliner": "Radiotorture",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "8:00:00 PM",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56406140327454,
+          6.249403175573131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Auditorio Camara de Comercio",
+        "city": "Medellin",
+        "event": "El Suiche ",
+        "date": "2013-03-12",
+        "capacity": 150,
+        "occupation": "",
+        "price": "0",
+        "lineup": "Opus Dei",
+        "headliner": "Opus Dei",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "8:00:00 PM",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56397557258606,
+          6.2493605152527785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Auditorio Camara de Comercio",
+        "city": "Medellin",
+        "event": "El Suiche ",
+        "date": "2013-03-12",
+        "capacity": 150,
+        "occupation": "",
+        "price": "0",
+        "lineup": "Sell The Elephant",
+        "headliner": "Sell The Elephant",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "8:00:00 PM",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56417942047119,
+          6.2494085081129285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Auditorio Camara de Comercio",
+        "city": "Medellin",
+        "event": "El Suiche ",
+        "date": "2012-11-13",
+        "capacity": 150,
+        "occupation": "",
+        "price": "0",
+        "lineup": "Booiamrudolf",
+        "headliner": "Booiamrudolf",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "8:00:00 PM",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5638736486435,
+          6.249376512873316
         ]
       }
     }

@@ -1,0 +1,228 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Cinema Paraiso",
+        "event": "Lanzamiento CD Laberinto",
+        "date": "2013-04-24",
+        "capacity": 100,
+        "occupation": 100,
+        "price": 0,
+        "lineup": "",
+        "link": "https://www.facebook.com/events/161295437365366/",
+        "addedBy": "Beatriz Tenorio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.028400182724,
+          4.696317654277748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Smoking Molly en La Macarena, Bogotá Calle 29 Bis # 5-74",
+        "marker-symbol": "",
+        "event": "Lanzamiento Video Aviador",
+        "date": "2013-09-28",
+        "capacity": 200,
+        "occupation": 65,
+        "price": "15000",
+        "lineup": "Ninguno",
+        "link": "https://www.facebook.com/SmokingMolly/info/?tab=page_info",
+        "added_by": "Beatriz Tenorio ",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06697034835815,
+          4.6156571089059275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Cine Tonalá Bogotá Cra 6 # 35-37",
+        "event": "Lanzamiento Video Aviador",
+        "date": "2014-08-11",
+        "capacity": 70,
+        "occupation": 100,
+        "price": "15000",
+        "lineup": "Laura estuvo acompañada de Juan Galeano -Diamante Eléctrico- y Rodrigo Mancera -Morfonia-",
+        "link": "https://www.facebook.com/events/343841235796312/",
+        "added_by": "Beatriz Tenorio ",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06571507453918,
+          4.622124301109696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "La Ventana de la T-Carrera 12a # 83-61, 571 Bogotá",
+        "event": "Concierto",
+        "date": "2015-09-03",
+        "capacity": 200,
+        "occupation": 10,
+        "price": "15000",
+        "lineup": "CocóNonó",
+        "link": "https://www.facebook.com/events/560701400751447/",
+        "added_by": "Beatriz Tenorio ",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05376315116882,
+          4.667703093918081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "RPM Records-Carrera 14 # 83-04 ",
+        "event": "Concierto",
+        "date": "2014-02-28",
+        "capacity": 50,
+        "occupation": 80,
+        "price": "0",
+        "lineup": "Ninguno",
+        "link": "https://www.facebook.com/events/1591696107734239/",
+        "added_by": "Beatriz Tenorio ",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05485212802887,
+          4.668227063118249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Cine Tonalá Bogotá Cra 6 # 35-37",
+        "event": "Festival Canción Canción",
+        "date": "2015-12-02",
+        "capacity": 100,
+        "occupation": 100,
+        "price": "25000",
+        "lineup": "Pedrina y Rio\nOh la ville",
+        "link": "https://www.facebook.com/events/703441486459499/",
+        "added_by": "Beatriz Tenorio ",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06585991382599,
+          4.62214301551166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Pablo Tobón Uribe",
+        "event": "Alimentarte",
+        "date": "2015-05-14",
+        "capacity": 883,
+        "occupation": 50,
+        "price": "30000, 25000",
+        "lineup": "Ninguno",
+        "link": "http://www.teatropablotobon.com/Programaci%C3%B3n/2015/Mayo2015/laura-y-la-maquina-de-escribir.aspx#.VmYVaHYvfct",
+        "added_by": "Beatriz Tenorio ",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55919051170349,
+          6.247510120510448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Casa 9-69 -Cra 9 # 69-07-",
+        "event": "Concierto",
+        "date": "2015-07-05",
+        "capacity": 200,
+        "occupation": 90,
+        "price": "0",
+        "lineup": "Ninguno",
+        "link": "https://www.facebook.com/events/696079467181248/",
+        "added_by": "Beatriz Tenorio ",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05893445014954,
+          4.652801887857282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Universidad de los Andes-Plazoleta Lleras",
+        "event": "Concierto",
+        "date": "2015-04-05",
+        "capacity": 300,
+        "occupation": 50,
+        "price": "0",
+        "lineup": "Ninguno",
+        "link": "",
+        "added_by": "Beatriz Tenorio ",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06493723392487,
+          4.601177228959293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Plaza de los Artesanos Bogotá",
+        "event": "Festival Navideño",
+        "date": "2014-12-21",
+        "capacity": 2000,
+        "occupation": 10,
+        "price": "0",
+        "lineup": "Ninguno",
+        "link": "https://www.facebook.com/lauraylamaquinadeescribir/?fref=ts",
+        "added_by": "Beatriz Tenorio ",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.085853099823,
+          4.664436297532009
+        ]
+      }
+    }
+  ]
+}

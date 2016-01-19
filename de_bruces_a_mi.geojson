@@ -129,7 +129,7 @@
         "capacity": 3800,
         "venue": "Teatro Carlos Vieco",
         "event": "Altavoz 2006",
-        "date": "2016-07-29",
+        "date": "2006-07-29",
         "occupation": 90,
         "price": 0,
         "founder": "Alcaldía de Medellin",
@@ -147,9 +147,12 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "Plaza",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Plaza el Carmen",
         "event": "XI Festival Internacional de Teatro",
-        "date": "2016-07-29",
+        "date": "2006-07-29",
         "capacity": 1000,
         "price": 0,
         "founder": "",
@@ -161,6 +164,120 @@
         "coordinates": [
           -75.33506512641907,
           6.083460453675269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Plaza de Riosucio",
+        "date": "2013-01-04",
+        "event": "Carnaval de Riosucio",
+        "capacity": 1000,
+        "occupation": 100,
+        "price": 0,
+        "founder": "Alcaldía de Riosucio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70335388183594,
+          5.420878552404836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Parque Simon Bolivar",
+        "date": "2011-07-03",
+        "event": "Rock al Parque",
+        "capacity": 10000,
+        "occupation": 80,
+        "price": 0,
+        "founder": "Alcaldía de Bogota"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.09075617790222,
+          4.658448022477691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Autopista Norte #222",
+        "date": "2013-06-02",
+        "event": "Jamming Festival",
+        "capacity": 10000,
+        "occupation": 50,
+        "price": "130000,150000",
+        "founder": "Casa Babylon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0418004989624,
+          4.796229462104832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Palmahia",
+        "event": "Green Moon Festival",
+        "date": "2014-02-21",
+        "capacity": 2000,
+        "occupation": "NA",
+        "price": "NA",
+        "founder": "NA",
+        "lineup": "De Bruces A MiDon Cristobal,  the Warriors",
+        "link": "https://www.facebook.com/dbammedellin/photos/pb.280241628041.-2207520000.1445532871./10152013990708042/?type=3&theater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59099078178406,
+          6.1823795378284405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Bulevar Universidad Pontificia Bolivariana",
+        "event": "Parches Saludables",
+        "date": "2014-02-27",
+        "capacity": 200,
+        "occupation": 100,
+        "price": 0,
+        "founder": "Universidad Pontificia Bolivariana",
+        "lineup": "De Bruces A Mi",
+        "link": "https://www.facebook.com/dbammedellin/photos/pb.280241628041.-2207520000.1445532871./10152028836563042/?type=3&theater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58987498283385,
+          6.242518821382662
         ]
       }
     }

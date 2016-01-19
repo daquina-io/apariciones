@@ -1,0 +1,989 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Palacio de los Deportes",
+        "event": "Gira Conexión",
+        "date": "2015-12-03",
+        "capacity": 5000,
+        "occupation": 100,
+        "price": 15900,
+        "lineup": "",
+        "link": "",
+        "added_by": "son0p",
+        "founder": "Proyecto Nash - Exito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08414721488953,
+          4.655154449455328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Palacio de los Deportes",
+        "event": "Gira Conexión",
+        "date": "2015-12-04",
+        "capacity": 5000,
+        "occupation": 100,
+        "price": 15900,
+        "lineup": "",
+        "link": "",
+        "added_by": "son0p",
+        "founder": "Proyecto Nash - Exito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08423572778702,
+          4.655237323640966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Palacio de los Deportes",
+        "event": "Gira Conexión",
+        "date": "2015-12-05",
+        "capacity": 5000,
+        "occupation": 100,
+        "price": "16000 + 16000 puntos exito",
+        "lineup": "",
+        "link": "",
+        "added_by": "son0p",
+        "founder": "Proyecto Nash - Exito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08409893512726,
+          4.655239997001625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Plaza de Toros Cali",
+        "event": "Gira Conexión",
+        "date": "2015-12-12",
+        "capacity": 12000,
+        "occupation": 100,
+        "price": "16000",
+        "lineup": "",
+        "headliner": "Fonseca",
+        "link": "son0p ",
+        "added_by": " ",
+        "address": "",
+        "start": "8:00:00 PM",
+        "end": "10:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": "Proyecto Nash - Exito",
+        "twitter_followers": "3560942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.548445,
+          3.409971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Pabellón Amarillo",
+        "event": "Fiesa fin de año Exito",
+        "date": "2015-12-17",
+        "capacity": 3000,
+        "occupation": 60,
+        "price": "NA",
+        "lineup": "Fonseca, Canela",
+        "headliner": "Fonseca",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "9:00:00 PM",
+        "end": "11:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": "Proyecto Nash - Exito",
+        "twitter_followers": "3564609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57600259780884,
+          6.241308317524786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Pórtico",
+        "event": "Fiesa fin de año Caracol",
+        "date": "2015-12-17",
+        "capacity": 400,
+        "occupation": 90,
+        "price": "NA",
+        "lineup": "Fonseca, Gusi",
+        "headliner": "Fonseca",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "2:00:00 PM",
+        "end": "4:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": "Proyecto Nash - Exito",
+        "twitter_followers": "3564609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.02847528457642,
+          4.840564705007738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Plaza de Toros La macarena",
+        "event": "Gira Conexión",
+        "date": "2015-12-19",
+        "capacity": 12000,
+        "occupation": 100,
+        "price": "16000 + 16mil puntos exito",
+        "lineup": "Fonseca",
+        "headliner": "Fonseca",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "8:40:00 PM",
+        "end": "10:20:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": "Proyecto Nash - Exito",
+        "twitter_followers": "3565828"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5804979801178,
+          6.249488496203403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Expofuturo",
+        "city": "Pereira",
+        "event": "Gira Conexión",
+        "date": "2015-12-10",
+        "capacity": 7000,
+        "occupation": 90,
+        "price": "16000 + 16mil puntos exito",
+        "lineup": "Fonseca",
+        "headliner": "Fonseca",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "8:10:00 PM",
+        "end": "10:20:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": "Proyecto Nash - Exito",
+        "twitter_followers": "3559531"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.755778,
+          4.80638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Coliceo Bicentenario",
+        "city": "Bucaramanga",
+        "event": "Gira Conexión",
+        "date": "2015-12-18",
+        "capacity": 7000,
+        "occupation": 95,
+        "price": "16000 + 16mil puntos exito",
+        "lineup": "Fonseca",
+        "headliner": "Fonseca",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "8:10:00 PM",
+        "end": "10:20:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": "Proyecto Nash - Exito",
+        "twitter_followers": "3565283"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.11605,
+          7.137853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Parque Las Malocas",
+        "city": "Villavicencio",
+        "event": "Gira Conexión",
+        "date": "2015-12-17",
+        "capacity": 7000,
+        "occupation": 95,
+        "price": "16000 + 16mil puntos exito",
+        "lineup": "Fonseca",
+        "headliner": "Fonseca",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "8:10:00 PM",
+        "end": "10:20:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": "Proyecto Nash - Exito",
+        "twitter_followers": "3564609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57665,
+          4.122293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Parque Metropolitano",
+        "city": "Guadalajara",
+        "event": "Festival Sun and Sound ",
+        "date": "2015-11-21",
+        "capacity": 10000,
+        "occupation": 10,
+        "price": "",
+        "lineup": " Alesso, Fonseca, Belinda, Moderatto, Marcelo CIC",
+        "headliner": "Alesso",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "8:10:00 PM",
+        "end": "9:40:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.440929,
+          20.669102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Parque de la Industria",
+        "city": "Guatemala",
+        "event": "Fashion Show ",
+        "date": "2015-11-11",
+        "capacity": 900,
+        "occupation": 90,
+        "price": "NA",
+        "lineup": " ",
+        "headliner": "Fonseca",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "8:10:00 PM",
+        "end": "9:40:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.523715,
+          14.609231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "American Airlines Arena",
+        "city": "Miami",
+        "event": "i Heart Radio ",
+        "date": "2015-11-07",
+        "capacity": 15000,
+        "occupation": 90,
+        "price": "",
+        "lineup": " ",
+        "headliner": "Jennifer Lopez, Pitbull",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "8:10:00 PM",
+        "end": "9:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": "i Heart Radio",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18790006637572,
+          25.781353379993114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Figaly Convention Center",
+        "city": "Panama",
+        "event": " Juanes y Fonseca",
+        "date": "2015-09-25",
+        "capacity": 7000,
+        "occupation": 90,
+        "price": "",
+        "lineup": "Juanes, Fonseca ",
+        "headliner": "Juanes",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "8:10:00 PM",
+        "end": "9:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.546457,
+          8.939934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Anfiteatro Parque de la ExposiciÃÂ³n",
+        "city": "Lima",
+        "event": "Festival Claro 2015 ",
+        "date": "2015-09-26",
+        "capacity": 7000,
+        "occupation": 50,
+        "price": "",
+        "lineup": "Fonseca, concursantes ",
+        "headliner": "Fonseca",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "8:10:00 PM",
+        "end": "9:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.035507,
+          -12.06214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Club El Rodeo",
+        "city": "Medellin",
+        "event": "ETV ",
+        "date": "2015-09-10",
+        "capacity": 600,
+        "occupation": 90,
+        "price": "",
+        "lineup": "Fonseca, Canecas Boy's ",
+        "headliner": "Fonseca",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59673607349396,
+          6.209514260441382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Corferias",
+        "city": "Bogota",
+        "event": "Expovinos ",
+        "date": "2015-07-28",
+        "capacity": 10000,
+        "occupation": 100,
+        "price": "",
+        "lineup": "Fonseca ",
+        "headliner": "Fonseca",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08982276916504,
+          4.6306018745781525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Gimnasio Moderno",
+        "city": "Bogota",
+        "event": "Venta gira Gira Conexiónn Exito ",
+        "date": "2015-07-29",
+        "capacity": 50,
+        "occupation": 100,
+        "price": "NA",
+        "lineup": "Fonseca",
+        "headliner": "Fonseca",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05544221401215,
+          4.65848544935522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "MuseÃÂ© Naval de la Citadelle",
+        "city": "Saint Tropez",
+        "event": "Privado Matrimonio ",
+        "date": "2015-07-05",
+        "capacity": 300,
+        "occupation": 100,
+        "price": "NA",
+        "lineup": "Fonseca, jazz NY, DJ",
+        "headliner": "DJ",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "private",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.64501,
+          43.27239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Centro De Eventos Valle Del Pacifico",
+        "city": "Cali",
+        "event": "Fonseca Sinfónico",
+        "date": "2015-05-22",
+        "capacity": 8000,
+        "occupation": 100,
+        "price": "NA",
+        "lineup": "Fonseca sinfonico",
+        "headliner": "Fonseca Sinfónico",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "private",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.496655,
+          3.528524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Plaza Centro Convenciones Cartagena",
+        "city": "Cartagena",
+        "event": "Gira Conexión",
+        "date": "2015-12-29",
+        "capacity": 5000,
+        "occupation": 95,
+        "price": "16000 + 16mil puntos exito",
+        "lineup": "Fonseca",
+        "headliner": "Fonseca",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "8:50:00 PM",
+        "end": "10:50:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": "Proyecto Nash - Exito",
+        "twitter_followers": 3564609
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.54838120937347,
+          10.421674686574944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Music Hall de Expo Shanghai",
+        "city": "Shanghai",
+        "event": "",
+        "date": "2010-07-20",
+        "capacity": 5000,
+        "occupation": 30,
+        "price": "",
+        "lineup": "Fonseca",
+        "headliner": "Fonseca",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.490257,
+          31.182367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Privado",
+        "city": "Cartagena",
+        "event": "Fin de año",
+        "date": "2015-12-31",
+        "capacity": 30,
+        "occupation": 100,
+        "price": "",
+        "lineup": "Fonseca",
+        "headliner": "Fonseca",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.547034740448,
+          10.429361609803022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Plaza de Bolivar",
+        "event": "Gira Conexión",
+        "date": "2016-01-03",
+        "capacity": 8000,
+        "occupation": 100,
+        "price": "NA",
+        "lineup": "Fonseca",
+        "link": "",
+        "added_by": "son0p",
+        "founder": "Proyecto Nash - Exito",
+        "headliner": "Fonseca",
+        "address": "",
+        "start": "8:00:00 PM",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Manizales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51734805107117,
+          5.06827768445273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Parque Caracolí",
+        "event": "Celebración Segundo Aniversario",
+        "date": "2015-06-11",
+        "capacity": 800,
+        "occupation": 100,
+        "price": "NA",
+        "lineup": "Fonseca",
+        "link": "",
+        "added_by": "son0p",
+        "founder": "Parque Caracolí",
+        "headliner": "Fonseca",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Bucaramanga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.105083,
+          7.071394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Parque Simón Bolivar",
+        "event": "Radio Fest",
+        "date": "2015-05-09",
+        "capacity": 50000,
+        "occupation": 100,
+        "price": "NA",
+        "lineup": "Fonseca, Choc Quib Town, Efecto Pasillo, Manuel Medrano, Julieta Venegas, Noel Schajris, Mojito Lite,Sebastián Yatra, Mike Bahía, Gusi, Pedrina y Río, Maria Bestar, Jorge Villamizar",
+        "city": "Bogota",
+        "added_by": "son0p"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.09070253372192,
+          4.660346097326611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Cámara de Ganaderos de San Carlos",
+        "event": "Expo San Carlos",
+        "date": "2015-05-03",
+        "capacity": 5000,
+        "occupation": 100,
+        "price": "",
+        "lineup": "Fonseca, DJ",
+        "link": "",
+        "added_by": "son0p",
+        "founder": "Expo San Carlos",
+        "headliner": "Fonseca",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "San Carlos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.466935,
+          10.441337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Ballroom Hotel la Concha",
+        "event": "",
+        "date": "2015-04-25",
+        "capacity": 200,
+        "occupation": 100,
+        "price": "",
+        "lineup": "Fonseca, Gran Combo Puerto Rico",
+        "link": "",
+        "added_by": "son0p",
+        "founder": "",
+        "headliner": "Fonseca",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "San Juan",
+        "marker-color": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.07416,
+          18.457535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Country Club ",
+        "event": "Matrimonio",
+        "date": "2015-04-185",
+        "capacity": 200,
+        "occupation": 100,
+        "price": "",
+        "lineup": "Fonseca, ",
+        "link": "",
+        "added_by": "son0p",
+        "founder": "privado",
+        "headliner": "Fonseca",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Barranquilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.804298,
+          11.005524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Estadio Olimpico ",
+        "event": "Fiestas Rio Bamba",
+        "date": "2015-04-17",
+        "capacity": 20000,
+        "occupation": 100,
+        "price": "",
+        "lineup": "Fonseca, Los Crucetas, Jhonny Galarza  ",
+        "link": "",
+        "added_by": "son0p",
+        "founder": "Municipio Rio Bamba",
+        "headliner": "Fonseca",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Rio Bamba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.660082,
+          -1.6665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Indura Beach",
+        "event": "Privado",
+        "date": "2015-04-01",
+        "capacity": 100,
+        "occupation": 100,
+        "price": "",
+        "lineup": "Fonseca",
+        "link": "",
+        "added_by": "son0p",
+        "founder": "privado",
+        "headliner": "Fonseca",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Tela",
+        "marker-color": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.538108,
+          15.801059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Club Hípico La Molina",
+        "event": "corporativo",
+        "date": "2015-03-05",
+        "capacity": 800,
+        "occupation": 100,
+        "price": "",
+        "lineup": "Fonseca",
+        "link": "",
+        "added_by": "son0p",
+        "founder": "corporativo",
+        "headliner": "Fonseca",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Lima",
+        "marker-color": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.929087,
+          -12.081006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Toptee",
+        "event": "Amor y Amistad Mi ticket",
+        "date": "2015-02-21",
+        "capacity": 2000,
+        "occupation": 80,
+        "lineup": "Fonseca, Jose Cañas",
+        "link": "",
+        "added_by": "son0p",
+        "founder": "Mi ticket",
+        "headliner": "Fonseca",
+        "city": "Ciudad de Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.482733,
+          14.608195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Centro de Eventos Crown Plaza",
+        "event": "",
+        "date": "2015-02-07",
+        "capacity": 500,
+        "occupation": 100,
+        "lineup": "Fonseca",
+        "link": "",
+        "added_by": "son0p",
+        "founder": "",
+        "headliner": "Fonseca",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Managua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.274064,
+          12.143384
+        ]
+      }
+    }
+  ]
+}

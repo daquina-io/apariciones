@@ -1,0 +1,276 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "A puerta Cerrada",
+        "event": "Frente a Frente",
+        "date": "2015-02-05",
+        "capacity": 150,
+        "occupation": null,
+        "price": "20000",
+        "lineup": "",
+        "link": "https://www.facebook.com/events/388835017961754/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "-74.05000269412994, 4.681005374419559",
+        "start": "9:30:00 PM",
+        "end": "11:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05000269412994,
+          4.681005374419559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Orquideorama",
+        "event": "Primavera Fest",
+        "date": "2015-05-30",
+        "capacity": 3000,
+        "occupation": 90,
+        "price": "30000",
+        "lineup": "El planeta agradece\nThe Music Company\nMullathaz\nBanda Infantil y juvenil Necocli\nElkin Robinson\nLosPetitFellas\nPuerto Candelaria\n",
+        "link": "https://www.facebook.com/ElPrimaveraFest/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Calle 73 No. 51D – 14, Medellín, Colombia",
+        "start": "10:00:00 PM",
+        "end": "12:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5640184879303,
+          6.271703381316111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Nacional La Castellana",
+        "event": "Experiencia Sónica",
+        "date": "2015-05-12",
+        "capacity": 711,
+        "occupation": 100,
+        "price": "45000, 30000",
+        "lineup": "Manuel Medrano",
+        "link": "https://www.facebook.com/events/695176983927908/permalink/703219546456985/",
+        "added_by": "Beatriz Tenorio ",
+        "address": " -74.0597552061081, 4.68392724422666",
+        "start": "8:00:00 PM",
+        "end": "10:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0597552061081,
+          4.68392724422666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Sala de Conciertos Caradura",
+        "event": "Concierto Gira",
+        "date": "2015-12-08",
+        "capacity": 300,
+        "occupation": 80,
+        "price": "18000, 27000",
+        "lineup": "Paulino Monrroy",
+        "link": "https://www.facebook.com/events/1494817334153711/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Nuevo León 73. Colonia Condesa., 06100 México, D. F.",
+        "start": "9:00:00 PM",
+        "end": "11:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.17195,
+          19.413098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Metropolitan",
+        "event": "Opening Act cierre gira Siddhartha",
+        "date": "2015-12-05",
+        "capacity": 3165,
+        "occupation": 100,
+        "price": "45000, 100000",
+        "lineup": "Siddhartha",
+        "link": "https://www.facebook.com/events/1451153725215314/\nhttps://www.facebook.com/siddharthaDF/photos/a.1016602051696433.1073741829.293646950658617/1016602081696430/?type=3&theater",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Av. Independencia 90, Cuauhtémoc, Centro, 06050 Ciudad de México, D.F., México",
+        "start": "8:00:00 PM",
+        "end": "10:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.146644,
+          19.43387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Metropolitan",
+        "event": "Opening Act cierre gira Siddhartha",
+        "date": "2015-12-05",
+        "capacity": 3165,
+        "occupation": 100,
+        "price": "45000, 100000",
+        "lineup": "Siddhartha",
+        "link": "https://www.facebook.com/events/1451153725215314/\nhttps://www.facebook.com/siddharthaDF/photos/a.1016602051696433.1073741829.293646950658617/1016602081696430/?type=3&theater",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Av. Independencia 90, Cuauhtémoc, Centro, 06050 Ciudad de México, D.F., México",
+        "start": "8:00:00 PM",
+        "end": "10:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.146644,
+          19.43387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Metropolitan",
+        "event": "Opening Act gira Ximena Sariñana",
+        "date": "2015-12-04",
+        "capacity": 3165,
+        "occupation": 70,
+        "price": "135000, 108000, 90000, 72000, 63000, 54000, 36000",
+        "lineup": "Ximena Sariñana",
+        "link": "https://www.facebook.com/JPVegaOficial/photos/a.479889988714776.96827.472934716076970/933350933368677/?type=3&theater",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Av. Independencia 90, Cuauhtémoc, Centro, 06050 Ciudad de México, D.F., México",
+        "start": "8:30:00 PM",
+        "end": "11:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.146644,
+          19.43387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Royal Center",
+        "event": "Opening Act Natalia Lafourcade",
+        "date": "2015-10-01",
+        "capacity": 2800,
+        "occupation": 100,
+        "price": "180000, 92000",
+        "lineup": "Natalia Lafourcade",
+        "link": "http://www.colombia.com/musica/noticias/sdi/123183/juan-pablo-vega-abrira-concierto-de-natalia-lafourcade-en-bogota/",
+        "added_by": "Beatriz Tenorio ",
+        "address": "-74.06293630599976, 4.65252385733072",
+        "start": "8:00:00 PM",
+        "end": "11:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06293630599976,
+          4.65252385733072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Universidad del Rosario",
+        "event": "UR Festival",
+        "date": "2015-09-17",
+        "capacity": 1500,
+        "occupation": 50,
+        "price": "0",
+        "lineup": "Manuel Medrano\nThe Mills\nBianco\nEstereotrópico\nDel trueno",
+        "link": "https://www.facebook.com/URFestival-2015-744898625655691/",
+        "added_by": "Beatriz Tenorio ",
+        "address": " -74.07260298728943, 4.60087778963051",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.07260298728943,
+          4.60087778963051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Andres Carne de Res",
+        "event": "Oktober Fest Club Colombia",
+        "date": "2015-09-05",
+        "capacity": 800,
+        "occupation": 70,
+        "price": "30000",
+        "lineup": "Pedrina y Rio\nThe Beat machine\nLa 33\nDJ Uribe",
+        "headliner": "",
+        "link": "https://www.facebook.com/JPVegaOficial/photos/a.479889988714776.96827.472934716076970/894113517292419/?type=3&theater",
+        "added_by": "Beatriz Tenorio ",
+        "address": "Calle 3 N°11ª-56 Chia Colombia",
+        "start": "9:00:00 AM",
+        "end": "11:00:00 PM",
+        "other_events": "",
+        "news": "",
+        "founder": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.064538,
+          4.854189
+        ]
+      }
+    }
+  ]
+}

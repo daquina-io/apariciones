@@ -1,0 +1,98 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Aeropuerto Olaya Herrera",
+        "date": "1989-05-31",
+        "city": "Medellin",
+        "event": "",
+        "capacity": 400,
+        "occupation": 95,
+        "price": "",
+        "lineup": "Ekrion, Masacre",
+        "headliner": "Masacre",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58695673942566,
+          6.2195507673813815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Polideportivo de Envigado",
+        "date": "",
+        "city": "Medellin",
+        "event": "",
+        "capacity": 8000,
+        "occupation": 50,
+        "price": "",
+        "lineup": "Ekrion, Darkness, Amen,Ekhymosis",
+        "headliner": "",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.60045897960663,
+          6.164110280009867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Taller de carros",
+        "date": "",
+        "city": "Medellin",
+        "event": "",
+        "capacity": 40,
+        "occupation": 100,
+        "price": "",
+        "lineup": "Ekrion",
+        "headliner": "Ekrion",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56885719299316,
+          6.242214862527189
+        ]
+      }
+    }
+  ]
+}
