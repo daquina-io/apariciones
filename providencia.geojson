@@ -14,7 +14,8 @@
         "ocupation": 100,
         "price": 0,
         "founder": "ITM",
-        "lineup": "NA"
+        "lineup": "NA",
+        "city": "Medellin"
       },
       "geometry": {
         "type": "Point",
@@ -35,7 +36,8 @@
         "ocupation": "NA",
         "price": "NA",
         "founder": "NA",
-        "lineup": "NA"
+        "lineup": "NA",
+        "city": "Medellin"
       },
       "geometry": {
         "type": "Point",
@@ -54,16 +56,41 @@
         "capacity": 923,
         "occupation": "NA",
         "price": 25000,
-        "founder": "Teatro Pablo Tobon Uribe,  Providencia, TARMAC, Zafarrancho, ZATELITE, Käina y Sabor Yembe Orquesta",
-        "lineup": " Providencia, TARMAC, Zafarrancho, ZATELITE, Käina y Sabor Yembe Orquesta",
+        "founder": "Teatro Pablo Tobon Uribe,  Providencia, TARMAC, Zafarrancho, ZATELITE, KÃ¤ina y Sabor Yembe Orquesta",
+        "lineup": " Providencia, TARMAC, Zafarrancho, ZATELITE, KÃ¤ina y Sabor Yembe Orquesta",
         "link": "https://www.facebook.com/tarmac.reggae/photos/pb.61785954090.-2207520000.1444239002./10152577751124091/?type=3&theater",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "city": "Medellin"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -75.55927366018295,
           6.2475474484229325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Carabobo Norte",
+        "event": "IX Festival Internacional del Tango medellin",
+        "date": "2015-06-27",
+        "capacity": 20000,
+        "ocupation": 100,
+        "price": 0,
+        "founder": "Municipio de Medellin",
+        "lineup": "Providencia, La Toma",
+        "occupation": 100,
+        "link": "",
+        "marker-size": "",
+        "city": "Medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.557741,
+          6.299383
         ]
       }
     }
