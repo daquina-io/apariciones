@@ -816,7 +816,7 @@
       "properties": {
         "venue": "Country Club ",
         "event": "Matrimonio",
-        "date": "2014-04-18",
+        "date": "2015-04-185",
         "capacity": 200,
         "occupation": 100,
         "price": "",
@@ -911,10 +911,10 @@
         "capacity": 800,
         "occupation": 100,
         "price": "",
-        "lineup": "",
+        "lineup": "Fonseca",
         "link": "",
-        "added_by": "",
-        "founder": "",
+        "added_by": "son0p",
+        "founder": "corporativo",
         "headliner": "Fonseca",
         "address": "",
         "start": "",
@@ -930,6 +930,29 @@
         "coordinates": [
           -76.929087,
           -12.081006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Toptee",
+        "event": "Amor y Amistad Mi ticket",
+        "date": "2015-02-21",
+        "capacity": 2000,
+        "occupation": 100,
+        "lineup": "Fonseca, Jose Cañas",
+        "link": "",
+        "added_by": "son0p",
+        "founder": "Mi ticket",
+        "headliner": "Fonseca",
+        "city": "Ciudad de Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.482733,
+          14.608195
         ]
       }
     }
