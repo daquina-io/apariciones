@@ -698,6 +698,36 @@
           5.06827768445273
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Parque Caracolí",
+        "event": "Celebración Segundo Aniversario",
+        "date": "2015-06-11",
+        "capacity": 800,
+        "occupation": 100,
+        "price": "NA",
+        "lineup": "Fonseca",
+        "link": "",
+        "added_by": "son0p",
+        "founder": "Parque Caracolí",
+        "headliner": "Fonseca",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Bucaramanga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.105083,
+          7.071394
+        ]
+      }
     }
   ]
 }
