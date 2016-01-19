@@ -576,9 +576,12 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "venue": "Plaza Centro Convenciones Cartagena",
         "city": "Cartagena",
-        "event": "Gira ConexiÃÂ³n",
+        "event": "Gira Conexión",
         "date": "2015-12-29",
         "capacity": 5000,
         "occupation": 95,
@@ -593,7 +596,7 @@
         "other_events": "",
         "news": "",
         "founder": "Proyecto Nash - Exito",
-        "twitter_followers": "3564609"
+        "twitter_followers": 3564609
       },
       "geometry": {
         "type": "Point",
@@ -636,9 +639,12 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "Music Hall de Expo Shanghai",
-        "city": "Shanghai",
-        "event": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Privado",
+        "city": "Cartagena",
+        "event": "Fin de año",
         "date": "2015-12-31",
         "capacity": 30,
         "occupation": 100,
@@ -660,6 +666,36 @@
         "coordinates": [
           -75.547034740448,
           10.429361609803022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Plaza de Bolivar",
+        "event": "Gira Conexión",
+        "date": "2016-01-03",
+        "capacity": 8000,
+        "occupation": 100,
+        "price": "NA",
+        "lineup": "Fonseca",
+        "link": "",
+        "added_by": "son0p",
+        "founder": "Proyecto Nash - Exito",
+        "headliner": "Fonseca",
+        "address": "",
+        "start": "8:00:00 PM",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Manizales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51734805107117,
+          5.06827768445273
         ]
       }
     }
