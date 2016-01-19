@@ -940,7 +940,7 @@
         "event": "Amor y Amistad Mi ticket",
         "date": "2015-02-21",
         "capacity": 2000,
-        "occupation": 100,
+        "occupation": 80,
         "lineup": "Fonseca, Jose Cañas",
         "link": "",
         "added_by": "son0p",
@@ -953,6 +953,35 @@
         "coordinates": [
           -90.482733,
           14.608195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Centro de Eventos Crown Plaza",
+        "event": "",
+        "date": "2015-02-07",
+        "capacity": 500,
+        "occupation": 100,
+        "lineup": "Fonseca",
+        "link": "",
+        "added_by": "son0p",
+        "founder": "",
+        "headliner": "Fonseca",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Managua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.274064,
+          12.143384
         ]
       }
     }
