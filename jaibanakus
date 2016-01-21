@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Palacio de la Cultura Rafael Uribe Uribe",
+        "event": "Concierto Sonidos Emergentes",
+        "date": "2015-12-09",
+        "capacity": 100,
+        "ocupation": 40,
+        "price": 0,
+        "founder": "Instituto de Cultura y Patrimonio de Antioquia",
+        "lineup": "ADN, Felpa, Jaibanakus",
+        "headliner": "Jaibanakus",
+        "city": "Medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.567854,
+          6.25219
+        ]
+      }
+    }
+  ]
+}
