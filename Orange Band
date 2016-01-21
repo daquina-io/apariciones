@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Teatro al Aire Libre Quintas del Carretero",
+        "event": "Solsticio cultural de invierno",
+        "date": "2015-12-20",
+        "capacity": 200,
+        "ocupation": 50,
+        "price": 0,
+        "founder": "Corporación Akará",
+        "lineup": "Orange Band, Mar es, Hojarasca",
+        "headliner": "Orange Band",
+        "city": "Rionegro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.381919,
+          6.151436
+        ]
+      }
+    }
+  ]
+}
