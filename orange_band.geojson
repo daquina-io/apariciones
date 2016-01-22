@@ -39,7 +39,8 @@
         "founder": "NA",
         "lineup": "Orange Band, Lobo estepario, CarolShadows, Goja",
         "headliner": "Orange Band",
-        "city": "Vrd. Guamito Carmen de Viboral,"
+        "city": "Vrd. Guamito Carmen de Viboral,",
+        "marker-size": ""
       },
       "geometry": {
         "type": "Point",
