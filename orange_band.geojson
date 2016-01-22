@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Teatro al Aire Libre Quintas del Carretero",
+        "event": "Solsticio cultural de invierno",
+        "date": "2015-12-20",
+        "capacity": 200,
+        "ocupation": 50,
+        "price": 0,
+        "founder": "Corporación Akará",
+        "lineup": "Orange Band, Mar es, Hojarasca",
+        "headliner": "Orange Band",
+        "city": "Rionegro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.381919,
+          6.151436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "",
+        "venue": "Sala Teatro Gatos de Luna ",
+        "event": "NOV 28 Lights & Motions",
+        "date": "2015-11-28",
+        "capacity": 200,
+        "ocupation": 104,
+        "price": 8000,
+        "founder": "NA",
+        "lineup": "Orange Band, Lobo estepario, CarolShadows, Goja",
+        "headliner": "Orange Band",
+        "city": "Vrd. Guamito Carmen de Viboral,",
+        "marker-size": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.442128,
+          6.035045
+        ]
+      }
+    }
+  ]
+}
