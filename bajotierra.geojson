@@ -1,0 +1,34 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Plazoleta Universidad de Antioquia",
+        "event": "",
+        "date": "2008-05-17",
+        "capacity": 800,
+        "occupation": 100,
+        "lineup": "Bajotierra",
+        "link": "",
+        "added_by": "son0p",
+        "founder": "",
+        "headliner": "Bajotierra",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56864798069,
+          6.267469508287799
+        ]
+      }
+    }
+  ]
+}
