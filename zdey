@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Barnavy Jones",
+        "event": "gozadera project",
+        "date": "2015-12-05",
+        "capacity": 60,
+        "ocupation": 15,
+        "price": 15000,
+        "founder": "NA",
+        "lineup": "NA",
+        "headliner": "NA",
+        "city": "Envigado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58638,
+          6.171848
+        ]
+      }
+    }
+  ]
+}
