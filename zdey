@@ -25,6 +25,30 @@
           6.171848
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Parque Biblioteca Guayabal",
+        "event": "Altavoz fest",
+        "date": "2015-10-05",
+        "capacity": 1500,
+        "ocupation": "NA",
+        "price": 0,
+        "founder": "Alcaldia de Medellin",
+        "lineup": "NA",
+        "headliner": "NA",
+        "city": "Medellin",
+        "marker-symbol": "",
+        "marker-size": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.586354,
+          6.22086
+        ]
+      }
     }
   ]
 }
