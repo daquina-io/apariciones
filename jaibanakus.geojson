@@ -49,6 +49,30 @@
           6.17243
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "",
+        "marker-size": "",
+        "venue": "Centro de Desarrollo Cultural de Moravia",
+        "event": "entrega becas al estímulo creativo",
+        "date": "2015-11-25",
+        "capacity": 370,
+        "ocupation": 90,
+        "price": 0,
+        "founder": "Gobernación de Antioquia",
+        "lineup": "NA",
+        "headliner": "Jaibanakus",
+        "city": "Medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.564609,
+          6.277757
+        ]
+      }
     }
   ]
 }
