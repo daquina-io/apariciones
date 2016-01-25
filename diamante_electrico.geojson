@@ -25,6 +25,30 @@
           33.982379
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "",
+        "event": "Concierto Diamante Electrico",
+        "date": "2015-11-27",
+        "capacity": "",
+        "price": 20000,
+        "venue": "Bonobo",
+        "city": "Bucaramanga, Colombia",
+        "headliner": "Diamante Electrico",
+        "lineup": "Diamante Electrico, Tres y Yo, Queen Bitches, Juan Perro",
+        "founder": " Amp23 Entretenimiento",
+        "ocupation": "",
+        "marker-size": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.112351,
+          7.123925
+        ]
+      }
     }
   ]
 }
