@@ -13,7 +13,7 @@ haces [Save][GitHub] y abres tu lista y abajo apretas en +New File  OJO la exten
 ## Datos 
 en el campo Propierties del JSON van los siguientes campos
 
-``json
+```json
 "properties":
 {
   "venue": "Parque Simon Bolivar",
