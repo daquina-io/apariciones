@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Riverside Municipal Auditorium",
+        "event": "Zoe En Riverside",
+        "date": "2015-11-18",
+        "capacity": 1400,
+        "ocupation": "NA",
+        "price": 0,
+        "founder": "NA",
+        "lineup": "Zoe, Diamante Electrico",
+        "headliner": "Orange Band",
+        "city": "Las Vegas. USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.370802,
+          33.982379
+        ]
+      }
+    }
+  ]
+}
