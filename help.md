@@ -1,4 +1,9 @@
-Abrir http://geojson.io/ y logearte con tu cuenta de github
+Hacer fork a este repositorio https://github.com/son0p/apariciones_proyectos_musicales
+
+Abrir la página http://geojson.io/ y logearte con tu cuenta de github
+
+Una vez logueado apreta en ```File``` / ```GitHub``` y abre el grupo al que le quiere agregar apariciones
+
 
 Para direcciones desconociddas mapas de google y apretas en What is here? copias las coordenadas  y toca invertirlas en el JSON
 
