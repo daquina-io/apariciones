@@ -27,6 +27,8 @@ en el campo Propierties del JSON van los siguientes campos
    "headliner": "Fonseca",
     "city": "Managua"
   } 
-    ```
-  Los campos obligados son: venue, date, capacity, city.
-  El campo occupation se pone en porcentaje, ej: 100 lleno, 90 casi lleno, 50 a la mitad, 10 muy poca gente para el sitio.
+  
+  ```
+  Los campos obligados son: **venue**, **date**, **capacity**, **city**.
+  
+  El campo _occupation_ se pone en porcentaje, ej: 100 lleno, 90 casi lleno, 50 a la mitad, 10 muy poca gente para el sitio.
