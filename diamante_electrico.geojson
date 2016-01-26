@@ -1,0 +1,199 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Riverside Municipal Auditorium",
+        "event": "Zoe En Riverside",
+        "date": "2015-11-18",
+        "capacity": 1400,
+        "ocupation": "NA",
+        "price": 0,
+        "founder": "NA",
+        "lineup": "Zoe, Diamante Electrico",
+        "headliner": "Orange Band",
+        "city": "Las Vegas. USA",
+        "added by": "johnbothia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.370802,
+          33.982379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "",
+        "event": "Concierto Diamante Electrico",
+        "date": "2015-11-27",
+        "capacity": 120,
+        "price": 20000,
+        "venue": "Bonobo",
+        "city": "Bucaramanga, Colombia",
+        "headliner": "Diamante Electrico",
+        "lineup": "Diamante Electrico, Tres y Yo, Queen Bitches, Juan Perro",
+        "founder": " Amp23 Entretenimiento",
+        "ocupation": 90,
+        "marker-size": "",
+        "added by": "johnbothia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.112351,
+          7.123925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "",
+        "venue": "Plaza de Bolivar",
+        "event": "Urbana 2016",
+        "date": "2016-01-09",
+        "capacity": 14000,
+        "ocupation": "NA",
+        "price": 0,
+        "founder": "Alcaldia de Manizales",
+        "lineup": "Diamante Electrico, Esteman, Consulado popular, Petit Felas",
+        "headliner": "Diamante Electrico",
+        "city": "Manizales, Colombia",
+        "added by": "johnbothia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.517451,
+          5.06844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Avenida Guabinal Calle 64",
+        "event": "Capital Music Fest",
+        "date": "2015-12-20",
+        "capacity": 5000,
+        "ocupation": "NA",
+        "price": 92000,
+        "founder": "NA",
+        "lineup": "Molotov, Consulado popular, Diamante eléctrico, Telebit, A.C.M.E, Larvante, Vertical valley, Punto orange, Patafunk",
+        "headliner": "Molotov",
+        "city": "Ibague Colombia",
+        "marker-size": "",
+        "marker-color": "",
+        "added by": "johnbothia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.202117,
+          4.441971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "headliner": "Oh'La Ville ",
+        "lineup": "Oh'La Ville, La Perla regular, Diamante Electrico",
+        "founder": "NA",
+        "city": "Bogota, Colombia",
+        "added by": "johnbothia",
+        "venue": "Hamburgueseria la 85",
+        "event": "Festival Hermoso Ruido",
+        "date": "2013-08-29",
+        "price": 20000,
+        "capacity": 100,
+        "ocupation": 10,
+        "marker-size": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.053102,
+          4.669224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": " Diamante Eléctrico en Smoking Molly",
+        "venue": "Smoking Molly",
+        "date": "2014-02-14",
+        "capacity": 100,
+        "ocupation": 90,
+        "price": 15000,
+        "founder": "NA",
+        "lineup": "Diamante Electrico",
+        "headliner": "NA",
+        "city": "Bogota, Colombia",
+        "added by": "johnbothia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.067435,
+          4.616106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Bar la ventana",
+        "event": " Diamante Eléctrico en vivo en La Ventana",
+        "date": "2014-05-22",
+        "capacity": 150,
+        "ocupation": 50,
+        "price": 15000,
+        "founder": "NA",
+        "lineup": "Diamante Electrico",
+        "headliner": "NA",
+        "city": "Bogota, Colombia",
+        "added by": "johnbothia",
+        "marker-size": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0646743774414,
+          4.647262643600078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Latora 4 Brazos",
+        "event": " Diamante Eléctrico en Latora 4 Brazos",
+        "date": "2013-06-16",
+        "capacity": 60,
+        "price": 15000,
+        "founder": "NA",
+        "lineup": "NA",
+        "headliner": "Diamante Electrico",
+        "city": "Bogota, Colombia",
+        "added by": "johnbothia",
+        "ocupation": 100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.066043,
+          4.628966
+        ]
+      }
+    }
+  ]
+}
