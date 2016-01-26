@@ -16,7 +16,8 @@
         "founder": "NA",
         "lineup": "Zoe, Diamante Electrico",
         "headliner": "Orange Band",
-        "city": "Las Vegas. USA"
+        "city": "Las Vegas. USA",
+        "added by": "johnbothia"
       },
       "geometry": {
         "type": "Point",
@@ -40,7 +41,8 @@
         "lineup": "Diamante Electrico, Tres y Yo, Queen Bitches, Juan Perro",
         "founder": " Amp23 Entretenimiento",
         "ocupation": "",
-        "marker-size": ""
+        "marker-size": "",
+        "added by": "johnbothia"
       },
       "geometry": {
         "type": "Point",
@@ -63,7 +65,8 @@
         "founder": "Alcaldia de Manizales",
         "lineup": "Diamante Electrico, Esteman, Consulado popular, Petit Felas",
         "headliner": "Diamante Electrico",
-        "city": "Manizales, Colombia"
+        "city": "Manizales, Colombia",
+        "added by": "johnbothia"
       },
       "geometry": {
         "type": "Point",
@@ -87,13 +90,37 @@
         "headliner": "Molotov",
         "city": "Ibague Colombia",
         "marker-size": "",
-        "marker-color": ""
+        "marker-color": "",
+        "added by": "johnbothia"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -75.202117,
           4.441971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "headliner": "Oh'La Ville ",
+        "lineup": "Oh'La Ville, La Perla regular, Diamante Electrico",
+        "founder": "NA",
+        "city": "Bogota, Colombia",
+        "added by": "johnbothia",
+        "venue": "Hamburgueseria la 85",
+        "event": "Festival Hermosos Ruido",
+        "date": "2013-08-29",
+        "price": 20000,
+        "capacity": 100,
+        "ocupation": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.053165,
+          4.669043
         ]
       }
     }
