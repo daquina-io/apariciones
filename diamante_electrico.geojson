@@ -49,6 +49,53 @@
           7.123925
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "",
+        "venue": "Plaza de Bolivar",
+        "event": "Urbana 2016",
+        "date": "2016-01-09",
+        "capacity": 14000,
+        "ocupation": "NA",
+        "price": 0,
+        "founder": "Alcaldia de Manizales",
+        "lineup": "Diamante Electrico, Esteman, Consulado popular, Petit Felas",
+        "headliner": "Diamante Electrico",
+        "city": "Manizales, Colombia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.517451,
+          5.06844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Avenida Guabinal Calle 64",
+        "event": "Capital Music Fest",
+        "date": "2015-12-20",
+        "capacity": 5000,
+        "ocupation": "NA",
+        "price": 92000,
+        "founder": "NA",
+        "lineup": "Molotov, Consulado popular, Diamante eléctrico, Telebit, A.C.M.E, Larvante, Vertical valley, Punto orange, Patafunk",
+        "headliner": "Molotov",
+        "city": "Ibague Colombia",
+        "marker-size": "",
+        "marker-color": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.202117,
+          4.441971
+        ]
+      }
     }
   ]
 }
