@@ -3,12 +3,16 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#0366fa",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.421875,
-          3.513421045640057
+          -74.212646484375,
+          4.915832801313164
         ]
       }
     }
