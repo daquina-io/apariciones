@@ -33,14 +33,14 @@
         "marker-color": "",
         "event": "Concierto Diamante Electrico",
         "date": "2015-11-27",
-        "capacity": "",
+        "capacity": 120,
         "price": 20000,
         "venue": "Bonobo",
         "city": "Bucaramanga, Colombia",
         "headliner": "Diamante Electrico",
         "lineup": "Diamante Electrico, Tres y Yo, Queen Bitches, Juan Perro",
         "founder": " Amp23 Entretenimiento",
-        "ocupation": "",
+        "ocupation": 90,
         "marker-size": "",
         "added by": "johnbothia"
       },
@@ -114,7 +114,8 @@
         "date": "2013-08-29",
         "price": 20000,
         "capacity": 100,
-        "ocupation": 10
+        "ocupation": 10,
+        "marker-size": ""
       },
       "geometry": {
         "type": "Point",
@@ -136,13 +137,38 @@
         "founder": "NA",
         "lineup": "Diamante Electrico",
         "headliner": "NA",
-        "city": "Bogota, Colombia"
+        "city": "Bogota, Colombia",
+        "added by": "johnbothia"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -74.067435,
           4.616106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Bar la ventana",
+        "event": " Diamante Eléctrico en vivo en La Ventana",
+        "date": "2014-05-22",
+        "capacity": 150,
+        "ocupation": 50,
+        "price": 15000,
+        "founder": "NA",
+        "lineup": "Diamante Electrico",
+        "headliner": "NA",
+        "city": "Bogota, Colombia",
+        "added by": "johnbothia",
+        "marker-size": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0646743774414,
+          4.647262643600078
         ]
       }
     }
