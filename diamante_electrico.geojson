@@ -110,7 +110,7 @@
         "city": "Bogota, Colombia",
         "added by": "johnbothia",
         "venue": "Hamburgueseria la 85",
-        "event": "Festival Hermosos Ruido",
+        "event": "Festival Hermoso Ruido",
         "date": "2013-08-29",
         "price": 20000,
         "capacity": 100,
@@ -119,8 +119,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.053165,
-          4.669043
+          -74.053102,
+          4.669224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": " Diamante Eléctrico en Smoking Molly",
+        "venue": "Smoking Molly",
+        "date": "2014-02-14",
+        "capacity": 100,
+        "ocupation": 90,
+        "price": 15000,
+        "founder": "NA",
+        "lineup": "Diamante Electrico",
+        "headliner": "NA",
+        "city": "Bogota, Colombia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.067435,
+          4.616106
         ]
       }
     }
