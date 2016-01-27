@@ -13,7 +13,7 @@
         "capacity": 10000,
         "occupation": 50,
         "price": 0,
-        "founder": "Alcaldía de Medellin"
+        "founder": "AlcaldÃ­a de Medellin"
       },
       "geometry": {
         "type": "Point",
@@ -112,7 +112,7 @@
         "occupation": "",
         "price": 60000,
         "founder": "",
-        "lineup": "Barrington Levy, Gondwana, De bruces a Mi, Kiño",
+        "lineup": "Barrington Levy, Gondwana, De bruces a Mi, KiÃ±o",
         "link": "https://www.facebook.com/events/337203946371449/"
       },
       "geometry": {
@@ -132,7 +132,7 @@
         "date": "2006-07-29",
         "occupation": 90,
         "price": 0,
-        "founder": "Alcaldía de Medellin",
+        "founder": "AlcaldÃ­a de Medellin",
         "lineup": "Magdalena, Tribu Omerta, Senores Usuarios, la Furruska, De Bruces a mi, patas arriba, santeria, Don Kristobal, Rasbarule, Tarmac, Burkina  ",
         "link": "http://blog.pucp.edu.pe/blog/franco/2006/07/28/29-de-julio-de-bruces-a-mi-en-antioquia/"
       },
@@ -179,7 +179,7 @@
         "capacity": 1000,
         "occupation": 100,
         "price": 0,
-        "founder": "Alcaldía de Riosucio"
+        "founder": "AlcaldÃ­a de Riosucio"
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +201,7 @@
         "capacity": 10000,
         "occupation": 80,
         "price": 0,
-        "founder": "Alcaldía de Bogota"
+        "founder": "AlcaldÃ­a de Bogota"
       },
       "geometry": {
         "type": "Point",
@@ -278,6 +278,27 @@
         "coordinates": [
           -75.58987498283385,
           6.242518821382662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Playas de Pozos Colorados",
+        "event": "SierraMar Fest",
+        "date": "2014-04-19",
+        "capacity": 5000,
+        "occupation": 80,
+        "price": "80000, 100000",
+        "founder": "Corporación La Perla Cultural ",
+        "lineup": " Bazurto All Stars, Freaky Friday, Monosónico Champetuo, Sinónimo de Cole, Mr Black,  De Bruces A Mí, Yage, Mitu, Martina La Peligrosa, Thonda de San Andrés Islas, Westisbest y los DJ Sets,  DJ Manedav, DJ Cronopio, DJ Loko y  DJ Julio Victoria, Systema Solar",
+        "headliner": "Alpha Blondy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.22934055328369,
+          11.161139881509921
         ]
       }
     }
