@@ -367,6 +367,28 @@
           6.247494122832851
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Plaza de la paz",
+        "event": "Festival Miche Rock",
+        "date": "2012-10-23",
+        "capacity": 5000,
+        "occupation": 70,
+        "price": "NA",
+        "founder": "Miche Rock",
+        "lineup": "Tr3S Gatos, La Margarita y Legión, , De bruces a mí, y Masacre, Sicotrópico, The Kuko's Band",
+        "link": "",
+        "headliner": "NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.789499,
+          10.988139
+        ]
+      }
     }
   ]
 }
