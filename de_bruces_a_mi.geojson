@@ -345,6 +345,28 @@
           6.229821723299964
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Pablo Tobon Uribe",
+        "event": "La cueva de las guacamayas",
+        "date": "2014-04-11",
+        "capacity": 923,
+        "occupation": "NA",
+        "price": 10000,
+        "founder": "De Bruces a Mi, Teatro Pablo Tobon Uribe",
+        "lineup": "De Bruces a Mi",
+        "link": "",
+        "headliner": "De Bruces a Mi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55920660495758,
+          6.247494122832851
+        ]
+      }
     }
   ]
 }
