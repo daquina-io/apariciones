@@ -301,6 +301,28 @@
           11.161139881509921
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": " fundación Circo Medellín",
+        "event": "Feria de lanzamiento del Elemento Sorpresa",
+        "date": "2012-03-12",
+        "capacity": 1000,
+        "occupation": "NA",
+        "price": "",
+        "founder": "De Bruces a Mi",
+        "lineup": "De Bruces a mi",
+        "link": "",
+        "headliner": "De Bruces a Mi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57804107666016,
+          6.23408789722764
+        ]
+      }
     }
   ]
 }
