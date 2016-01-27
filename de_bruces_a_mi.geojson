@@ -13,7 +13,8 @@
         "capacity": 10000,
         "occupation": 50,
         "price": 0,
-        "founder": "AlcaldÃÂ­a de Medellin"
+        "founder": "AlcaldÃÂ­a de Medellin",
+        "city": "Medellin"
       },
       "geometry": {
         "type": "Point",
@@ -30,7 +31,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "event": "Latin Reggae Showcase 2015",
-        "date": "2015-07-10"
+        "date": "2015-07-10",
+        "city": ""
       },
       "geometry": {
         "type": "Point",
@@ -67,7 +69,8 @@
         "event": "Concierto de la Juventud 2014",
         "date": "2014-08-09",
         "capacity": 3800,
-        "occupation": 90
+        "occupation": 90,
+        "city": "Medellin"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +92,8 @@
         "occupation": 100,
         "price": "100000, 130000, 150000",
         "founder": "Casa Babylon",
-        "capacity": 3000
+        "capacity": 3000,
+        "city": "Medellin"
       },
       "geometry": {
         "type": "Point",
@@ -113,7 +117,8 @@
         "price": 60000,
         "founder": "",
         "lineup": "Barrington Levy, Gondwana, De bruces a Mi, KiÃÂ±o",
-        "link": "https://www.facebook.com/events/337203946371449/"
+        "link": "https://www.facebook.com/events/337203946371449/",
+        "city": "Medellin"
       },
       "geometry": {
         "type": "Point",
@@ -134,7 +139,8 @@
         "price": 0,
         "founder": "AlcaldÃÂ­a de Medellin",
         "lineup": "Magdalena, Tribu Omerta, Senores Usuarios, la Furruska, De Bruces a mi, patas arriba, santeria, Don Kristobal, Rasbarule, Tarmac, Burkina  ",
-        "link": "http://blog.pucp.edu.pe/blog/franco/2006/07/28/29-de-julio-de-bruces-a-mi-en-antioquia/"
+        "link": "http://blog.pucp.edu.pe/blog/franco/2006/07/28/29-de-julio-de-bruces-a-mi-en-antioquia/",
+        "city": "Medellin"
       },
       "geometry": {
         "type": "Point",
@@ -157,7 +163,8 @@
         "price": 0,
         "founder": "",
         "lineup": "Mixta Latina, De bruces a Mi",
-        "link": "http://blog.pucp.edu.pe/blog/franco/2006/07/28/29-de-julio-de-bruces-a-mi-en-antioquia/"
+        "link": "http://blog.pucp.edu.pe/blog/franco/2006/07/28/29-de-julio-de-bruces-a-mi-en-antioquia/",
+        "city": "Carmen de vivoral"
       },
       "geometry": {
         "type": "Point",
@@ -179,7 +186,8 @@
         "capacity": 1000,
         "occupation": 100,
         "price": 0,
-        "founder": "AlcaldÃÂ­a de Riosucio"
+        "founder": "AlcaldÃÂ­a de Riosucio",
+        "city": "Riosucio"
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +209,8 @@
         "capacity": 10000,
         "occupation": 80,
         "price": 0,
-        "founder": "AlcaldÃÂ­a de Bogota"
+        "founder": "AlcaldÃÂ­a de Bogota",
+        "city": "Bogota"
       },
       "geometry": {
         "type": "Point",
@@ -223,7 +232,8 @@
         "capacity": 10000,
         "occupation": 50,
         "price": "130000,150000",
-        "founder": "Casa Babylon"
+        "founder": "Casa Babylon",
+        "city": "Bogota"
       },
       "geometry": {
         "type": "Point",
@@ -247,7 +257,8 @@
         "price": "NA",
         "founder": "NA",
         "lineup": "De Bruces A MiDon Cristobal,  the Warriors",
-        "link": "https://www.facebook.com/dbammedellin/photos/pb.280241628041.-2207520000.1445532871./10152013990708042/?type=3&theater"
+        "link": "https://www.facebook.com/dbammedellin/photos/pb.280241628041.-2207520000.1445532871./10152013990708042/?type=3&theater",
+        "city": "Medellin"
       },
       "geometry": {
         "type": "Point",
@@ -271,7 +282,8 @@
         "price": 0,
         "founder": "Universidad Pontificia Bolivariana",
         "lineup": "De Bruces A Mi",
-        "link": "https://www.facebook.com/dbammedellin/photos/pb.280241628041.-2207520000.1445532871./10152028836563042/?type=3&theater"
+        "link": "https://www.facebook.com/dbammedellin/photos/pb.280241628041.-2207520000.1445532871./10152028836563042/?type=3&theater",
+        "city": "Medellin"
       },
       "geometry": {
         "type": "Point",
@@ -292,7 +304,8 @@
         "price": "80000, 100000",
         "founder": "CorporaciÃ³n La Perla Cultural ",
         "lineup": " Bazurto All Stars, Freaky Friday, MonosÃ³nico Champetuo, SinÃ³nimo de Cole, Mr Black,  De Bruces A MÃ­, Yage, Mitu, Martina La Peligrosa, Thonda de San AndrÃ©s Islas, Westisbest y los DJ Sets,  DJ Manedav, DJ Cronopio, DJ Loko y  DJ Julio Victoria, Systema Solar",
-        "headliner": "Alpha Blondy"
+        "headliner": "Alpha Blondy",
+        "city": "Santa Marta"
       },
       "geometry": {
         "type": "Point",
@@ -314,7 +327,8 @@
         "founder": "De Bruces a Mi",
         "lineup": "De Bruces a mi",
         "link": "",
-        "headliner": "De Bruces a Mi"
+        "headliner": "De Bruces a Mi",
+        "city": "Medellin"
       },
       "geometry": {
         "type": "Point",
@@ -336,7 +350,8 @@
         "founder": "CCial Premium plaza",
         "lineup": "De Bruces a Mi",
         "link": "",
-        "headliner": "De Bruces a Mi"
+        "headliner": "De Bruces a Mi",
+        "city": "Medellin"
       },
       "geometry": {
         "type": "Point",
@@ -358,7 +373,8 @@
         "founder": "De Bruces a Mi, Teatro Pablo Tobon Uribe",
         "lineup": "De Bruces a Mi",
         "link": "",
-        "headliner": "De Bruces a Mi"
+        "headliner": "De Bruces a Mi",
+        "city": "Medellin"
       },
       "geometry": {
         "type": "Point",
@@ -380,13 +396,37 @@
         "founder": "Miche Rock",
         "lineup": "Tr3S Gatos, La Margarita y Legión, , De bruces a mí, y Masacre, Sicotrópico, The Kuko's Band",
         "link": "",
-        "headliner": "NA"
+        "headliner": "NA",
+        "city": "Barranquilla"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -74.789499,
           10.988139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Parque Cultural Debora Arango",
+        "event": "Viernes con Debora",
+        "date": "2014-04-25",
+        "capacity": 2500,
+        "occupation": "NA",
+        "price": 0,
+        "founder": "confenalco",
+        "lineup": "Mary Hellen, de Bruces a Mi",
+        "link": "",
+        "headliner": "NA",
+        "city": "envigado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59053480625153,
+          6.171654325192581
         ]
       }
     }
