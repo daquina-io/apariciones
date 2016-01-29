@@ -3,12 +3,14 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "date": "2016-01-01"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.57186931371689,
-          6.210282203972538
+          -75.56243062019348,
+          6.273910953868215
         ]
       }
     }
