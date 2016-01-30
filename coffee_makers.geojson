@@ -15,6 +15,23 @@
           6.251941458372657
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2006-10-18",
+        "venue": "Jardin Botanico",
+        "capacity": 1000,
+        "lineup": "Coffee makers, manuchao",
+        "headliner": "Manu chao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56339085102081,
+          6.269901056697199
+        ]
+      }
     }
   ]
 }
