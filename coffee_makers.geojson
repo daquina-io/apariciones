@@ -3,7 +3,11 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "date": "2014-08-30",
+        "venue": "Museo de Antioquia",
+        "capacity": 500
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
