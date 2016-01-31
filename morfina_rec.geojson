@@ -16,7 +16,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "date": "2016-02-22"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
