@@ -23,7 +23,7 @@
     {
       "type": "Feature",
       "properties": {
-        "date": "2016-02-22",
+        "date": "2016-01-22",
         "venue": "Bantú U de A",
         "capacity": 500,
         "occupation": 180,
@@ -49,6 +49,25 @@
         "coordinates": [
           -75.57200074195862,
           6.291277931317772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-01-07",
+        "venue": "Sin Dominio Art Bar",
+        "capacity": 200,
+        "occupation": 35,
+        "lineup": "Morfina Rec",
+        "added_by": "antropomorfa",
+        "city": "Medellín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56543737649918,
+          6.206357147493445
         ]
       }
     }
