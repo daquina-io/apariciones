@@ -57,8 +57,8 @@
         "capacity": 923,
         "occupation": "NA",
         "price": 25000,
-        "founder": "Teatro Pablo Tobon Uribe,  Providencia, TARMAC, Zafarrancho, ZATELITE, KÃ¤ina y Sabor Yembe Orquesta",
-        "lineup": " Providencia, TARMAC, Zafarrancho, ZATELITE, KÃ¤ina y Sabor Yembe Orquesta",
+        "founder": "Teatro Pablo Tobon Uribe,  Providencia, TARMAC, Zafarrancho, ZATELITE, KÃÂ¤ina y Sabor Yembe Orquesta",
+        "lineup": " Providencia, TARMAC, Zafarrancho, ZATELITE, KÃÂ¤ina y Sabor Yembe Orquesta",
         "link": "https://www.facebook.com/tarmac.reggae/photos/pb.61785954090.-2207520000.1444239002./10152577751124091/?type=3&theater",
         "marker-symbol": "",
         "city": "Medellin"
@@ -115,6 +115,28 @@
         "coordinates": [
           -75.590858,
           6.228123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Parque Juan Pablo II",
+        "event": "Grove Festival",
+        "date": "2016-01-30",
+        "capacity": 3000,
+        "occupation": 100,
+        "lineup": "matiasyahu, providencia, doris_vespa, mistica, la_fragua_band, ojo_de_buey",
+        "added_by": "son0p",
+        "founder": "grove festival",
+        "headliner": "matiasyahu",
+        "city": "medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5899178981781,
+          6.229917712594762
         ]
       }
     }
