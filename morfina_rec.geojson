@@ -4,7 +4,13 @@
     {
       "type": "Feature",
       "properties": {
-        "date": "2016-01-01"
+        "date": "2016-01-01",
+        "venue": "Libido",
+        "capacity": 200,
+        "occupation": 100,
+        "lineup": "Morfina Rec",
+        "added_by": "antropomorfa",
+        "city": "Medellín"
       },
       "geometry": {
         "type": "Point",
@@ -17,7 +23,13 @@
     {
       "type": "Feature",
       "properties": {
-        "date": "2016-02-22"
+        "date": "2016-02-22",
+        "venue": "Bantú U de A",
+        "capacity": 500,
+        "occupation": 180,
+        "lineup": "Morfina Rec",
+        "added_by": "antropomorfa",
+        "city": "Medellín"
       },
       "geometry": {
         "type": "Point",
