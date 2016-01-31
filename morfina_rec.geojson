@@ -13,6 +13,32 @@
           6.273910953868215
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5688840150833,
+          6.264144774084039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2015-05-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57200074195862,
+          6.291277931317772
+        ]
+      }
     }
   ]
 }
