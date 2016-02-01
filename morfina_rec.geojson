@@ -10,7 +10,7 @@
         "occupation": 50,
         "lineup": "Morfina Rec",
         "added_by": "antropomorfa",
-        "city": "Medellín"
+        "city": "MedellÃ­n"
       },
       "geometry": {
         "type": "Point",
@@ -24,12 +24,12 @@
       "type": "Feature",
       "properties": {
         "date": "2016-01-22",
-        "venue": "Bantú U de A",
+        "venue": "BantÃº U de A",
         "capacity": 500,
         "occupation": 10,
         "lineup": "Morfina Rec",
         "added_by": "antropomorfa",
-        "city": "Medellín"
+        "city": "MedellÃ­n"
       },
       "geometry": {
         "type": "Point",
@@ -61,13 +61,32 @@
         "occupation": 10,
         "lineup": "Morfina Rec",
         "added_by": "antropomorfa",
-        "city": "Medellín"
+        "city": "MedellÃ­n"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -75.56543737649918,
           6.206357147493445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2015-12-17",
+        "venue": "Down Town 4to piso",
+        "capacity": 400,
+        "occupation": 50,
+        "lineup": "Morfina Rec, Bavl, La vulva, Afrosuizo",
+        "added_by": "antropomorfa",
+        "city": "Cali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.53278946876526,
+          3.4567490477193084
         ]
       }
     }
