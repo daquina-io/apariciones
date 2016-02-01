@@ -7,7 +7,7 @@
         "date": "2016-01-01",
         "venue": "Libido",
         "capacity": 200,
-        "occupation": 100,
+        "occupation": 50,
         "lineup": "Morfina Rec",
         "added_by": "antropomorfa",
         "city": "Medellín"
@@ -26,7 +26,7 @@
         "date": "2016-01-22",
         "venue": "Bantú U de A",
         "capacity": 500,
-        "occupation": 180,
+        "occupation": 10,
         "lineup": "Morfina Rec",
         "added_by": "antropomorfa",
         "city": "Medellín"
@@ -58,7 +58,7 @@
         "date": "2016-01-07",
         "venue": "Sin Dominio Art Bar",
         "capacity": 200,
-        "occupation": 35,
+        "occupation": 10,
         "lineup": "Morfina Rec",
         "added_by": "antropomorfa",
         "city": "Medellín"
