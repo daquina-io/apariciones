@@ -533,6 +533,32 @@
           6.276545098251946
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Calle 9 + 1",
+        "city": "Medellin",
+        "event": "El Suiche",
+        "date": "2015-02-27",
+        "capacity": "",
+        "occupation": "",
+        "price": "0",
+        "lineup": "Jaime Cerón",
+        "headliner": "Jaime Cerón, algoritmos, Johny Sepúlveda, La Jaquer Escool",
+        "link": " ",
+        "added_by": "antropomorfa",
+        "address": "",
+        "start": "8:00:00 PM",
+        "end": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56822687387466,
+          6.209799572925721
+        ]
+      }
     }
   ]
 }
