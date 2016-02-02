@@ -506,12 +506,31 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "venue": "Centro de Desarrollo Cultural Moravia",
+        "city": "Medellin",
+        "event": "El Suiche & Sonema ",
+        "date": "2015-02-27",
+        "capacity": "",
+        "occupation": "",
+        "price": "0",
+        "lineup": "Jaime Cerón, algoritmos, Johny Sepúlveda, La Jaquer Escool",
+        "headliner": "Jaime Cerón, algoritmos, Johny Sepúlveda, La Jaquer Escool",
+        "link": " ",
+        "added_by": "antropomorfa",
+        "address": "",
+        "start": "8:00:00 PM",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.56451201438904,
-          6.2765344337266455
+          -75.56447982788086,
+          6.276545098251946
         ]
       }
     }
