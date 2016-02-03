@@ -679,6 +679,58 @@
           6.209799572925721
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Eafit",
+        "city": "Medellin",
+        "event": "El Suiche",
+        "date": "2011-03-09",
+        "capacity": "",
+        "occupation": "",
+        "price": "0",
+        "lineup": "Boquitoquis",
+        "headliner": "",
+        "link": " ",
+        "added_by": "antropomorfa",
+        "address": "",
+        "start": "8:00:00 PM",
+        "end": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57863116264343,
+          6.2002028560560944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Eafit",
+        "city": "Medellin",
+        "event": "El Suiche",
+        "date": "2011-04-13",
+        "capacity": "",
+        "occupation": "",
+        "price": "0",
+        "lineup": "Invitado en blanco",
+        "headliner": "",
+        "link": " ",
+        "added_by": "antropomorfa",
+        "address": "",
+        "start": "8:00:00 PM",
+        "end": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57851314544676,
+          6.200053530934435
+        ]
+      }
     }
   ]
 }
