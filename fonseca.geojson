@@ -998,6 +998,7 @@
         "occupation": 80,
         "lineup": "Fonseca sinfonico",
         "headliner": "fonseca sinfonico",
+        "event_genre": "pop, sinfonico, tropipop",
         "city": "Bogota"
       },
       "geometry": {
