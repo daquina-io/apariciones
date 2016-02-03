@@ -94,8 +94,8 @@
         "capacity": 232,
         "occupation": 90,
         "price": "0",
-        "lineup": "TrÃÂÃÂÃÂÃÂ³pico Esmeralda ",
-        "headliner": "TrÃÂÃÂÃÂÃÂ³pico Esmeralda",
+        "lineup": "TrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³pico Esmeralda ",
+        "headliner": "TrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³pico Esmeralda",
         "link": " ",
         "added_by": "son0p  ",
         "address": "",
@@ -184,7 +184,7 @@
         "capacity": 150,
         "occupation": 50,
         "price": "0",
-        "lineup": "Reaccion Cadena, Ruidocracia y FicciÃÂÃÂ³n",
+        "lineup": "Reaccion Cadena, Ruidocracia y FicciÃÂÃÂÃÂÃÂ³n",
         "headliner": "",
         "link": " ",
         "added_by": "son0p  ",
@@ -447,7 +447,7 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "TransfusiÃ³n Bar",
+        "venue": "TransfusiÃÂ³n Bar",
         "city": "Medellin",
         "event": "El Suiche ",
         "date": "2015-09-23",
@@ -514,8 +514,8 @@
         "capacity": "",
         "occupation": "",
         "price": "0",
-        "lineup": "Jaime Cerón, algoritmos, Johny Sepúlveda, La Jaquer Escool",
-        "headliner": "Jaime Cerón, algoritmos, Johny Sepúlveda, La Jaquer Escool",
+        "lineup": "Jaime CerÃ³n, algoritmos, Johny SepÃºlveda, La Jaquer Escool",
+        "headliner": "Jaime CerÃ³n, algoritmos, Johny SepÃºlveda, La Jaquer Escool",
         "link": " ",
         "added_by": "antropomorfa",
         "address": "",
@@ -544,7 +544,7 @@
         "capacity": "",
         "occupation": "",
         "price": "0",
-        "lineup": "Jaime Cerón",
+        "lineup": "Jaime CerÃ³n",
         "headliner": "",
         "link": " ",
         "added_by": "antropomorfa",
@@ -583,6 +583,84 @@
         "coordinates": [
           -75.56821078062057,
           6.209794239983507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Calle 9 + 1",
+        "city": "Medellin",
+        "event": "El Suiche",
+        "date": "2014-02-13",
+        "capacity": "200",
+        "occupation": "100",
+        "price": "0",
+        "lineup": "El Malhechor",
+        "headliner": "",
+        "link": " ",
+        "added_by": "antropomorfa",
+        "address": "",
+        "start": "8:00:00 PM",
+        "end": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56820273399353,
+          6.209834237048802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Calle 9 + 1",
+        "city": "Medellin",
+        "event": "El Suiche",
+        "date": "2014-08-13",
+        "capacity": "200",
+        "occupation": "100",
+        "price": "0",
+        "lineup": "Magdalena Solo Project",
+        "headliner": "",
+        "link": " ",
+        "added_by": "antropomorfa",
+        "address": "",
+        "start": "8:00:00 PM",
+        "end": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56818395853043,
+          6.209791573512387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Calle 9 + 1",
+        "city": "Medellin",
+        "event": "El Suiche",
+        "date": "2014-07-18",
+        "capacity": "200",
+        "occupation": "50",
+        "price": "0",
+        "lineup": "Paula Pin, Bejaranoise, La Jaquer Escool",
+        "headliner": "",
+        "link": " ",
+        "added_by": "antropomorfa",
+        "address": "",
+        "start": "8:00:00 PM",
+        "end": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56824564933777,
+          6.209799572925721
         ]
       }
     }
