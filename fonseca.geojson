@@ -1108,6 +1108,28 @@
           4.597624052378266
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Aguapanelas",
+        "event": "",
+        "date": "2014-12-05",
+        "capacity": 2000,
+        "occupation": 100,
+        "price": "",
+        "lineup": "Fonseca, mojito_lite, santiago_cruz, franco_de_vita",
+        "event_genre": "franco_de_vita",
+        "twitter_followers": "bogota",
+        "marker-symbol": "pop, tropipop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.03001487255096,
+          4.839933961069868
+        ]
+      }
     }
   ]
 }
