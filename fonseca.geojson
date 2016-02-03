@@ -13,7 +13,8 @@
         "lineup": "",
         "link": "",
         "added_by": "son0p",
-        "founder": "Proyecto Nash - Exito"
+        "founder": "Proyecto Nash - Exito",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -35,7 +36,8 @@
         "lineup": "",
         "link": "",
         "added_by": "son0p",
-        "founder": "Proyecto Nash - Exito"
+        "founder": "Proyecto Nash - Exito",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -57,7 +59,8 @@
         "lineup": "",
         "link": "",
         "added_by": "son0p",
-        "founder": "Proyecto Nash - Exito"
+        "founder": "Proyecto Nash - Exito",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -86,7 +89,8 @@
         "other_events": "",
         "news": "",
         "founder": "Proyecto Nash - Exito",
-        "twitter_followers": "3560942"
+        "twitter_followers": "3560942",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -115,7 +119,8 @@
         "other_events": "",
         "news": "",
         "founder": "Proyecto Nash - Exito",
-        "twitter_followers": "3564609"
+        "twitter_followers": "3564609",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -144,7 +149,8 @@
         "other_events": "",
         "news": "",
         "founder": "Proyecto Nash - Exito",
-        "twitter_followers": "3564609"
+        "twitter_followers": "3564609",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +179,8 @@
         "other_events": "",
         "news": "",
         "founder": "Proyecto Nash - Exito",
-        "twitter_followers": "3565828"
+        "twitter_followers": "3565828",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -203,7 +210,8 @@
         "other_events": "",
         "news": "",
         "founder": "Proyecto Nash - Exito",
-        "twitter_followers": "3559531"
+        "twitter_followers": "3559531",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -233,7 +241,8 @@
         "other_events": "",
         "news": "",
         "founder": "Proyecto Nash - Exito",
-        "twitter_followers": "3565283"
+        "twitter_followers": "3565283",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -263,7 +272,8 @@
         "other_events": "",
         "news": "",
         "founder": "Proyecto Nash - Exito",
-        "twitter_followers": "3564609"
+        "twitter_followers": "3564609",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -293,7 +303,8 @@
         "other_events": "",
         "news": "",
         "founder": "",
-        "twitter_followers": ""
+        "twitter_followers": "",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -323,7 +334,8 @@
         "other_events": "",
         "news": "",
         "founder": "",
-        "twitter_followers": ""
+        "twitter_followers": "",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -353,7 +365,8 @@
         "other_events": "",
         "news": "",
         "founder": "i Heart Radio",
-        "twitter_followers": ""
+        "twitter_followers": "",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -383,7 +396,8 @@
         "other_events": "",
         "news": "",
         "founder": "",
-        "twitter_followers": ""
+        "twitter_followers": "",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -413,7 +427,8 @@
         "other_events": "",
         "news": "",
         "founder": "",
-        "twitter_followers": ""
+        "twitter_followers": "",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -443,7 +458,8 @@
         "other_events": "",
         "news": "",
         "founder": "",
-        "twitter_followers": ""
+        "twitter_followers": "",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -473,7 +489,8 @@
         "other_events": "",
         "news": "",
         "founder": "",
-        "twitter_followers": ""
+        "twitter_followers": "",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -503,7 +520,8 @@
         "other_events": "",
         "news": "",
         "founder": "",
-        "twitter_followers": ""
+        "twitter_followers": "",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -533,7 +551,8 @@
         "other_events": "",
         "news": "",
         "founder": "private",
-        "twitter_followers": ""
+        "twitter_followers": "",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -563,7 +582,8 @@
         "other_events": "",
         "news": "",
         "founder": "private",
-        "twitter_followers": ""
+        "twitter_followers": "",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -596,7 +616,8 @@
         "other_events": "",
         "news": "",
         "founder": "Proyecto Nash - Exito",
-        "twitter_followers": 3564609
+        "twitter_followers": 3564609,
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -626,7 +647,8 @@
         "other_events": "",
         "news": "",
         "founder": "",
-        "twitter_followers": ""
+        "twitter_followers": "",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -659,7 +681,8 @@
         "other_events": "",
         "news": "",
         "founder": "",
-        "twitter_followers": ""
+        "twitter_followers": "",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -689,7 +712,8 @@
         "other_events": "",
         "news": "",
         "twitter_followers": "",
-        "city": "Manizales"
+        "city": "Manizales",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -719,7 +743,8 @@
         "other_events": "",
         "news": "",
         "twitter_followers": "",
-        "city": "Bucaramanga"
+        "city": "Bucaramanga",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -740,7 +765,8 @@
         "price": "NA",
         "lineup": "Fonseca, Choc Quib Town, Efecto Pasillo, Manuel Medrano, Julieta Venegas, Noel Schajris, Mojito Lite,SebastiÃ¡n Yatra, Mike BahÃ­a, Gusi, Pedrina y RÃ­o, Maria Bestar, Jorge Villamizar",
         "city": "Bogota",
-        "added_by": "son0p"
+        "added_by": "son0p",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -770,7 +796,8 @@
         "other_events": "",
         "news": "",
         "twitter_followers": "",
-        "city": "San Carlos"
+        "city": "San Carlos",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -801,7 +828,8 @@
         "news": "",
         "twitter_followers": "",
         "city": "San Juan",
-        "marker-color": ""
+        "marker-color": "",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -831,7 +859,8 @@
         "other_events": "",
         "news": "",
         "twitter_followers": "",
-        "city": "Barranquilla"
+        "city": "Barranquilla",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -861,7 +890,8 @@
         "other_events": "",
         "news": "",
         "twitter_followers": "",
-        "city": "Rio Bamba"
+        "city": "Rio Bamba",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -892,7 +922,8 @@
         "news": "",
         "twitter_followers": "",
         "city": "Tela",
-        "marker-color": ""
+        "marker-color": "",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -923,7 +954,8 @@
         "news": "",
         "twitter_followers": "",
         "city": "Lima",
-        "marker-color": ""
+        "marker-color": "",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -946,7 +978,8 @@
         "added_by": "son0p",
         "founder": "Mi ticket",
         "headliner": "Fonseca",
-        "city": "Ciudad de Guatemala"
+        "city": "Ciudad de Guatemala",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -975,7 +1008,8 @@
         "other_events": "",
         "news": "",
         "twitter_followers": "",
-        "city": "Managua"
+        "city": "Managua",
+        "event_genre": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
