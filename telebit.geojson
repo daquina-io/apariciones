@@ -3,12 +3,41 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "venue": "Parque Simon Bolivar",
+        "event": "Rock al Parque 1997",
+        "date": "1997-05-30",
+        "capacity": 30000,
+        "occupation": 100,
+        "lineup": "grupos que participaron separados por coma",
+        "added_by": "son0p",
+        "founder": "Opcional: Quien puso el dinero",
+        "headliner": "Fonseca",
+        "city": "Managua",
+        "marker-color": "#0366fa",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.421875,
-          3.513421045640057
+          -74.212646484375,
+          4.915832801313164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009efd",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5859375,
+          6.249776453227831
         ]
       }
     }
