@@ -7,9 +7,14 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "talento": "aeromostra",
+        "lineup": "Aeromostra ",
+        "headliner": "Aeromostra",
         "venue": "centro_colombo_americano",
-        "fecha": ""
+        "date": "2016-11-08",
+        "city": "Medellin",
+        "event": "El Suiche ",
+        "capacity": 232,
+        "added_by": "son0p  "
       },
       "geometry": {
         "type": "Point",
@@ -25,9 +30,15 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "talento": "musica_inmobiliaria",
+        "headliner": "musica_inmobiliaria",
         "venue": "centro_colombo_americano",
-        "fecha": "2017-03-14"
+        "fecha": "",
+        "date": "2017-03-14",
+        "city": "Medellin",
+        "event": "El Suiche ",
+        "capacity": 232,
+        "added_by": "son0p  ",
+        "lineup": "musica_inmobiliaria"
       },
       "geometry": {
         "type": "Point",
@@ -44,7 +55,12 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "headliner": "zdey",
-        "venue": "centro_colombo_americano"
+        "venue": "centro_colombo_americano",
+        "city": "Medellin",
+        "event": "El Suiche ",
+        "capacity": 232,
+        "added_by": "son0p  ",
+        "lineup": "zdey"
       },
       "geometry": {
         "type": "Point",
@@ -94,8 +110,8 @@
         "capacity": 232,
         "occupation": 90,
         "price": "0",
-        "lineup": "TrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³pico Esmeralda ",
-        "headliner": "TrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³pico Esmeralda",
+        "lineup": "Tropico Esmeralda ",
+        "headliner": "Tropico Esmeralda ",
         "link": " ",
         "added_by": "son0p  ",
         "address": "",
@@ -184,7 +200,7 @@
         "capacity": 150,
         "occupation": 50,
         "price": "0",
-        "lineup": "Reaccion Cadena, Ruidocracia y FicciÃÂÃÂÃÂÃÂ³n",
+        "lineup": "Reaccion Cadena, Ruidocracia y FicciÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n",
         "headliner": "",
         "link": " ",
         "added_by": "son0p  ",
@@ -447,7 +463,7 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "TransfusiÃÂ³n Bar",
+        "venue": "TransfusiÃÂÃÂ³n Bar",
         "city": "Medellin",
         "event": "El Suiche ",
         "date": "2015-09-23",
@@ -514,8 +530,8 @@
         "capacity": "",
         "occupation": "",
         "price": "0",
-        "lineup": "Jaime CerÃ³n, algoritmos, Johny SepÃºlveda, La Jaquer Escool",
-        "headliner": "Jaime CerÃ³n, algoritmos, Johny SepÃºlveda, La Jaquer Escool",
+        "lineup": "Jaime Ceron, algoritmos, Johny Sepulveda, La Jaquer Escool",
+        "headliner": "Jaime Ceron, algoritmos, Johny Sepulveda, La Jaquer Escool",
         "link": " ",
         "added_by": "antropomorfa",
         "address": "",
@@ -544,7 +560,7 @@
         "capacity": "",
         "occupation": "",
         "price": "0",
-        "lineup": "Jaime CerÃ³n",
+        "lineup": "Jaime Ceron",
         "headliner": "",
         "link": " ",
         "added_by": "antropomorfa",
