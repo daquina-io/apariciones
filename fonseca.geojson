@@ -1055,13 +1055,36 @@
         "lineup": "Fonseca sinfonico",
         "event_genre": "fonseca sinfonico",
         "twitter_followers": "bogota",
-        "marker-symbol": "sinfonico, pop"
+        "marker-symbol": "sinfonico, pop",
+        "city": "#7e7e7e",
+        "marker-color": "medium"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -74.0739494562149,
           4.597519782820375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Colon",
+        "event": "Fonseca Sinfonico",
+        "date": "2014-12-11",
+        "capacity": 785,
+        "occupation": 100,
+        "lineup": "Fonseca sinfonico",
+        "event_genre": "fonseca sinfonico",
+        "twitter_followers": "bogota",
+        "marker-symbol": "sinfonico, pop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.07375901937485,
+          4.597575927968835
         ]
       }
     }
