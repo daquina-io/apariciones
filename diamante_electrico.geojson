@@ -185,13 +185,62 @@
         "headliner": "Diamante Electrico",
         "city": "Bogota, Colombia",
         "added by": "johnbothia",
-        "ocupation": 100
+        "ocupation": 100,
+        "marker-size": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -74.066043,
           4.628966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "",
+        "venue": "Armando Records",
+        "event": "Lanzamiento Album Debut",
+        "date": "2013-06-25",
+        "capacity": 200,
+        "ocupation": 90,
+        "price": 20000,
+        "founder": "NA",
+        "lineup": "NA",
+        "headliner": "Diamante Electrico",
+        "city": "Bogota, Colombia",
+        "added by": "johnbothia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.054772,
+          4.671057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "Diamante Electrico En Culture Collide",
+        "date": "2015-10-10",
+        "venue": "Taix French Restaurant",
+        "marker-size": "",
+        "capacity": 700,
+        "ocupation": "NA",
+        "price": 20,
+        "founder": "NA",
+        "lineup": "NA",
+        "headliner": "The Juan Maclean",
+        "city": "Los Angeles USA",
+        "added by": "johnbothia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.261521,
+          34.078506
         ]
       }
     }
