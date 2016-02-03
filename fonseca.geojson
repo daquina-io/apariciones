@@ -1087,6 +1087,27 @@
           4.597575927968835
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Colon",
+        "event": "Fonseca Sinfonico",
+        "date": "2014-12-12",
+        "capacity": 785,
+        "occupation": 100,
+        "lineup": "Fonseca sinfonico",
+        "event_genre": "fonseca sinfonico",
+        "twitter_followers": "bogota",
+        "marker-symbol": "sinfonico, pop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.07410234212875,
+          4.597624052378266
+        ]
+      }
     }
   ]
 }
