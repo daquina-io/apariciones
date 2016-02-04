@@ -4,12 +4,12 @@
     {
       "type": "Feature",
       "properties": {
-        "origen": "Grupo TocaTimbres"
+        "origen": "Grupo Musical Matices"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.572634,6.287572
+          -75.602919,6.251611
         ]
       }
     }
