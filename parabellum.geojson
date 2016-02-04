@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "plaza de toros la macarena",
+        "event": "batalla de las bandas",
+        "date": "198-03-01 14:00:00",
+        "capacity": 10000,
+        "occupation": 100,
+        "lineup": "Parabellum, Mierda, Spool, Láser, Excalibur y Kraken",
+        "event_genre ": "metal, rock, heavy_metal, ultra_metal",
+        "headliner": "",
+        "founder": "J.I.V",
+        "city": "medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58053016662598,
+          6.249520491436158
+        ]
+      }
+    }
+  ]
+}
