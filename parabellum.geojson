@@ -6,7 +6,7 @@
       "properties": {
         "venue": "plaza de toros la macarena",
         "event": "batalla de las bandas",
-        "date": "198-03-01 14:00:00",
+        "date": "1985-03-01 14:00:00",
         "capacity": 10000,
         "occupation": 100,
         "lineup": "Parabellum, Mierda, Spool, Láser, Excalibur y Kraken",
@@ -20,6 +20,27 @@
         "coordinates": [
           -75.58053016662598,
           6.249520491436158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "NA",
+        "event": "NA",
+        "date": "1985-01-01 00:00:00",
+        "capacity": "NA",
+        "occupation": "NA",
+        "lineup": "Parabellum",
+        "event_genre ": "ultra_metal",
+        "headliner": "parabellum",
+        "city": "medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55418014526366,
+          6.276097188000924
         ]
       }
     }
