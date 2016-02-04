@@ -4,12 +4,12 @@
     {
       "type": "Feature",
       "properties": {
-        "origen": "Grupo musical dulce Armonía internacional"
+        "origen": "Grupo Nostalgys"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.567222,6.231667
+          -75.611548,6.249633
         ]
       }
     }

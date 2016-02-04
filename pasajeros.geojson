@@ -4,12 +4,12 @@
     {
       "type": "Feature",
       "properties": {
-        "origen": "Grupo Nostalgys"
+        "origen": "Grupo Musical Pasajeros"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.611548,6.249633
+          -75.607874,6.231775
         ]
       }
     }

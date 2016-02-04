@@ -4,12 +4,12 @@
     {
       "type": "Feature",
       "properties": {
-        "origen": "Grupo Musical Pasajeros"
+        "origen": "Grupo Suramérica"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.607874,6.231775
+          -75.57970339,6.2424412
         ]
       }
     }
