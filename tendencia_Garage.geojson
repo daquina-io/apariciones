@@ -67,6 +67,27 @@
           6.244507881117909
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro el trueque",
+        "event": "Lanzamiento revista tendencia garage",
+        "date": "2010-08-21",
+        "capacity": "150",
+        "occupation": "100",
+        "event_genres": "electro_Punk, indie, indie_rock",
+        "lineup": "Resina_la_la, Boquitoquis, Le_Batlefinger",
+        "headliner": "",
+        "city": "Medellín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55986642837524,
+          6.246950201503629
+        ]
+      }
     }
   ]
 }
