@@ -354,7 +354,7 @@
         "city": "Medellin",
         "event": "El Suiche ",
         "date": "2011-02-09",
-        "capacity": "",
+        "capacity": 200,
         "occupation": "",
         "lineup": "Spastico",
         "headliner": "Spastico"
@@ -374,7 +374,7 @@
         "city": "Medellin",
         "event": "El Suiche & Sonema ",
         "date": "2015-02-27",
-        "capacity": "",
+        "capacity": 200,
         "occupation": "",
         "lineup": "Jaime Ceron, algoritmos, Johny Sepulveda, La Jaquer Escool",
         "headliner": "Jaime Ceron, algoritmos, Johny Sepulveda, La Jaquer Escool"
@@ -394,7 +394,7 @@
         "city": "Medellin",
         "event": "El Suiche",
         "date": "2015-02-27",
-        "capacity": "",
+        "capacity": 200,
         "occupation": "",
         "lineup": "Jaime Ceron",
         "headliner": ""
@@ -494,7 +494,7 @@
         "city": "Medellin",
         "event": "El Suiche",
         "date": "2011-03-09",
-        "capacity": "",
+        "capacity": 200,
         "occupation": "",
         "lineup": "Boquitoquis",
         "headliner": ""
@@ -514,7 +514,7 @@
         "city": "Medellin",
         "event": "El Suiche",
         "date": "2011-04-13",
-        "capacity": "",
+        "capacity": 200,
         "occupation": "",
         "lineup": "Invitado en blanco",
         "headliner": ""
