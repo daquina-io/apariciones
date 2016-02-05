@@ -10,11 +10,10 @@
         "lineup": "Aeromostra ",
         "headliner": "Aeromostra",
         "venue": "centro_colombo_americano",
-        "date": "2016-11-08",
+        "date": "2006-11-08",
         "city": "Medellin",
         "event": "El Suiche ",
-        "capacity": 232,
-        "added_by": "son0p  "
+        "capacity": 232
       },
       "geometry": {
         "type": "Point",
@@ -32,12 +31,10 @@
         "marker-symbol": "",
         "headliner": "musica_inmobiliaria",
         "venue": "centro_colombo_americano",
-        "fecha": "",
-        "date": "2017-03-14",
+        "date": "2007-03-14",
         "city": "Medellin",
         "event": "El Suiche ",
         "capacity": 232,
-        "added_by": "son0p  ",
         "lineup": "musica_inmobiliaria"
       },
       "geometry": {
@@ -59,8 +56,8 @@
         "city": "Medellin",
         "event": "El Suiche ",
         "capacity": 232,
-        "added_by": "son0p  ",
-        "lineup": "zdey"
+        "lineup": "zdey",
+        "date": "2007-08-15"
       },
       "geometry": {
         "type": "Point",
@@ -79,18 +76,8 @@
         "date": "2008-05-14",
         "capacity": 232,
         "occupation": 90,
-        "price": "0",
         "lineup": "GC Solo ",
-        "headliner": "GC Solo",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "founder": "",
-        "twitter_followers": ""
+        "headliner": "GC Solo"
       },
       "geometry": {
         "type": "Point",
@@ -109,18 +96,8 @@
         "date": "2006-12-13",
         "capacity": 232,
         "occupation": 90,
-        "price": "0",
         "lineup": "Tropico Esmeralda ",
-        "headliner": "Tropico Esmeralda ",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "9:00:00 PM",
-        "end": "10:00:00 PM",
-        "other_events": "",
-        "news": "",
-        "founder": "",
-        "twitter_followers": ""
+        "headliner": "Tropico Esmeralda "
       },
       "geometry": {
         "type": "Point",
@@ -139,18 +116,8 @@
         "date": "2015-04-25",
         "capacity": 150,
         "occupation": "",
-        "price": "0",
         "lineup": "Lady Vudu ",
-        "headliner": "Lady Vudu",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "8:00:00 PM",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "founder": "",
-        "twitter_followers": ""
+        "headliner": "Lady Vudu"
       },
       "geometry": {
         "type": "Point",
@@ -169,18 +136,8 @@
         "date": "2015-02-11",
         "capacity": 150,
         "occupation": 50,
-        "price": "0",
         "lineup": "Esteban Gartner",
-        "headliner": "Esteban Gartner",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "8:00:00 PM",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "founder": "",
-        "twitter_followers": ""
+        "headliner": "Esteban Gartner"
       },
       "geometry": {
         "type": "Point",
@@ -199,18 +156,8 @@
         "date": "2014-09-09",
         "capacity": 150,
         "occupation": 50,
-        "price": "0",
-        "lineup": "Reaccion Cadena, Ruidocracia y FicciÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n",
-        "headliner": "",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "8:00:00 PM",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "founder": "",
-        "twitter_followers": ""
+        "lineup": "Reaccion Cadena, Ruidocracia y FicciÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n",
+        "headliner": ""
       },
       "geometry": {
         "type": "Point",
@@ -229,18 +176,8 @@
         "date": "2014-05-14",
         "capacity": 150,
         "occupation": 100,
-        "price": "0",
         "lineup": "Miguel Isaza",
-        "headliner": "Miguel Isaza",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "8:00:00 PM",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "founder": "",
-        "twitter_followers": ""
+        "headliner": "Miguel Isaza"
       },
       "geometry": {
         "type": "Point",
@@ -259,18 +196,8 @@
         "date": "2014-04-16",
         "capacity": 150,
         "occupation": 100,
-        "price": "0",
         "lineup": "Rosellon",
-        "headliner": "Rosellon",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "8:00:00 PM",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "founder": "",
-        "twitter_followers": ""
+        "headliner": "Rosellon"
       },
       "geometry": {
         "type": "Point",
@@ -289,18 +216,8 @@
         "date": "2013-05-14",
         "capacity": 150,
         "occupation": 100,
-        "price": "0",
         "lineup": "Zygomatik",
-        "headliner": "Zygomatik",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "8:00:00 PM",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "founder": "",
-        "twitter_followers": ""
+        "headliner": "Zygomatik"
       },
       "geometry": {
         "type": "Point",
@@ -319,18 +236,8 @@
         "date": "2013-04-16",
         "capacity": 150,
         "occupation": 50,
-        "price": "0",
         "lineup": "Radiotorture",
-        "headliner": "Radiotorture",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "8:00:00 PM",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "founder": "",
-        "twitter_followers": ""
+        "headliner": "Radiotorture"
       },
       "geometry": {
         "type": "Point",
@@ -349,18 +256,8 @@
         "date": "2013-03-12",
         "capacity": 150,
         "occupation": 50,
-        "price": "0",
         "lineup": "Opus Dei",
-        "headliner": "Opus Dei",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "8:00:00 PM",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "founder": "",
-        "twitter_followers": ""
+        "headliner": "Opus Dei"
       },
       "geometry": {
         "type": "Point",
@@ -379,18 +276,8 @@
         "date": "2013-03-12",
         "capacity": 150,
         "occupation": 100,
-        "price": "0",
         "lineup": "Sell The Elephant",
-        "headliner": "Sell The Elephant",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "8:00:00 PM",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "founder": "",
-        "twitter_followers": ""
+        "headliner": "Sell The Elephant"
       },
       "geometry": {
         "type": "Point",
@@ -409,18 +296,8 @@
         "date": "2012-11-13",
         "capacity": 150,
         "occupation": 100,
-        "price": "0",
         "lineup": "Booiamrudolf",
-        "headliner": "Booiamrudolf",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "8:00:00 PM",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "founder": "",
-        "twitter_followers": ""
+        "headliner": "Booiamrudolf"
       },
       "geometry": {
         "type": "Point",
@@ -439,18 +316,8 @@
         "date": "2015-04-17",
         "capacity": 150,
         "occupation": 50,
-        "price": "0",
         "lineup": "WJJ",
-        "headliner": "WJJ",
-        "link": " ",
-        "added_by": "antropomorfa",
-        "address": "",
-        "start": "8:00:00 PM",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "founder": "",
-        "twitter_followers": ""
+        "headliner": "WJJ"
       },
       "geometry": {
         "type": "Point",
@@ -463,24 +330,14 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "TransfusiÃÂÃÂ³n Bar",
+        "venue": "TransfusiÃÂÃÂÃÂÃÂ³n Bar",
         "city": "Medellin",
         "event": "El Suiche ",
         "date": "2015-09-23",
         "capacity": 150,
         "occupation": 50,
-        "price": "0",
         "lineup": "Linton",
-        "headliner": "Linton",
-        "link": " ",
-        "added_by": "antropomorfa",
-        "address": "",
-        "start": "8:00:00 PM",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "founder": "",
-        "twitter_followers": ""
+        "headliner": "Linton"
       },
       "geometry": {
         "type": "Point",
@@ -497,20 +354,10 @@
         "city": "Medellin",
         "event": "El Suiche ",
         "date": "2011-02-09",
-        "capacity": "",
+        "capacity": 200,
         "occupation": "",
-        "price": "0",
         "lineup": "Spastico",
-        "headliner": "Spastico",
-        "link": " ",
-        "added_by": "antropomorfa",
-        "address": "",
-        "start": "8:00:00 PM",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "founder": "",
-        "twitter_followers": ""
+        "headliner": "Spastico"
       },
       "geometry": {
         "type": "Point",
@@ -527,20 +374,10 @@
         "city": "Medellin",
         "event": "El Suiche & Sonema ",
         "date": "2015-02-27",
-        "capacity": "",
+        "capacity": 200,
         "occupation": "",
-        "price": "0",
         "lineup": "Jaime Ceron, algoritmos, Johny Sepulveda, La Jaquer Escool",
-        "headliner": "Jaime Ceron, algoritmos, Johny Sepulveda, La Jaquer Escool",
-        "link": " ",
-        "added_by": "antropomorfa",
-        "address": "",
-        "start": "8:00:00 PM",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "founder": "",
-        "twitter_followers": ""
+        "headliner": "Jaime Ceron, algoritmos, Johny Sepulveda, La Jaquer Escool"
       },
       "geometry": {
         "type": "Point",
@@ -557,16 +394,10 @@
         "city": "Medellin",
         "event": "El Suiche",
         "date": "2015-02-27",
-        "capacity": "",
+        "capacity": 200,
         "occupation": "",
-        "price": "0",
         "lineup": "Jaime Ceron",
-        "headliner": "",
-        "link": " ",
-        "added_by": "antropomorfa",
-        "address": "",
-        "start": "8:00:00 PM",
-        "end": ""
+        "headliner": ""
       },
       "geometry": {
         "type": "Point",
@@ -583,16 +414,10 @@
         "city": "Medellin",
         "event": "El Suiche",
         "date": "2015-06-24",
-        "capacity": "200",
-        "occupation": "70",
-        "price": "0",
+        "capacity": 200,
+        "occupation": 70,
         "lineup": "The Forest Experimental",
-        "headliner": "",
-        "link": " ",
-        "added_by": "antropomorfa",
-        "address": "",
-        "start": "8:00:00 PM",
-        "end": ""
+        "headliner": ""
       },
       "geometry": {
         "type": "Point",
@@ -609,16 +434,10 @@
         "city": "Medellin",
         "event": "El Suiche",
         "date": "2014-02-13",
-        "capacity": "200",
-        "occupation": "100",
-        "price": "0",
+        "capacity": 200,
+        "occupation": 100,
         "lineup": "El Malhechor",
-        "headliner": "",
-        "link": " ",
-        "added_by": "antropomorfa",
-        "address": "",
-        "start": "8:00:00 PM",
-        "end": ""
+        "headliner": ""
       },
       "geometry": {
         "type": "Point",
@@ -635,16 +454,10 @@
         "city": "Medellin",
         "event": "El Suiche",
         "date": "2014-08-13",
-        "capacity": "200",
-        "occupation": "100",
-        "price": "0",
+        "capacity": 200,
+        "occupation": 100,
         "lineup": "Magdalena Solo Project",
-        "headliner": "",
-        "link": " ",
-        "added_by": "antropomorfa",
-        "address": "",
-        "start": "8:00:00 PM",
-        "end": ""
+        "headliner": ""
       },
       "geometry": {
         "type": "Point",
@@ -661,16 +474,10 @@
         "city": "Medellin",
         "event": "El Suiche",
         "date": "2014-07-18",
-        "capacity": "200",
-        "occupation": "50",
-        "price": "0",
+        "capacity": 200,
+        "occupation": 50,
         "lineup": "Paula Pin, Bejaranoise, La Jaquer Escool",
-        "headliner": "",
-        "link": " ",
-        "added_by": "antropomorfa",
-        "address": "",
-        "start": "8:00:00 PM",
-        "end": ""
+        "headliner": ""
       },
       "geometry": {
         "type": "Point",
@@ -687,16 +494,10 @@
         "city": "Medellin",
         "event": "El Suiche",
         "date": "2011-03-09",
-        "capacity": "",
+        "capacity": 200,
         "occupation": "",
-        "price": "0",
         "lineup": "Boquitoquis",
-        "headliner": "",
-        "link": " ",
-        "added_by": "antropomorfa",
-        "address": "",
-        "start": "8:00:00 PM",
-        "end": ""
+        "headliner": ""
       },
       "geometry": {
         "type": "Point",
@@ -713,16 +514,10 @@
         "city": "Medellin",
         "event": "El Suiche",
         "date": "2011-04-13",
-        "capacity": "",
+        "capacity": 200,
         "occupation": "",
-        "price": "0",
         "lineup": "Invitado en blanco",
-        "headliner": "",
-        "link": " ",
-        "added_by": "antropomorfa",
-        "address": "",
-        "start": "8:00:00 PM",
-        "end": ""
+        "headliner": ""
       },
       "geometry": {
         "type": "Point",
