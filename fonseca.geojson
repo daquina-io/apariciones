@@ -5,16 +5,14 @@
       "type": "Feature",
       "properties": {
         "venue": "Palacio de los Deportes",
-        "event": "Gira ConexiÃ³n",
+        "event": "Gira ConexiÃÂ³n",
         "date": "2015-12-03",
         "capacity": 5000,
         "occupation": 100,
-        "price": 15900,
         "lineup": "",
-        "link": "",
-        "added_by": "son0p",
-        "founder": "Proyecto Nash - Exito",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop",
+        "city": "bogota",
+        "headliner": "fonseca"
       },
       "geometry": {
         "type": "Point",
@@ -28,16 +26,14 @@
       "type": "Feature",
       "properties": {
         "venue": "Palacio de los Deportes",
-        "event": "Gira ConexiÃ³n",
+        "event": "Gira ConexiÃÂ³n",
         "date": "2015-12-04",
         "capacity": 5000,
         "occupation": 100,
-        "price": 15900,
         "lineup": "",
-        "link": "",
-        "added_by": "son0p",
-        "founder": "Proyecto Nash - Exito",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop",
+        "city": "bogota",
+        "headliner": "fonseca"
       },
       "geometry": {
         "type": "Point",
@@ -51,16 +47,14 @@
       "type": "Feature",
       "properties": {
         "venue": "Palacio de los Deportes",
-        "event": "Gira ConexiÃ³n",
+        "event": "Gira ConexiÃÂ³n",
         "date": "2015-12-05",
         "capacity": 5000,
         "occupation": 100,
-        "price": "16000 + 16000 puntos exito",
         "lineup": "",
-        "link": "",
-        "added_by": "son0p",
-        "founder": "Proyecto Nash - Exito",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop",
+        "city": "bogota",
+        "headliner": "fonseca"
       },
       "geometry": {
         "type": "Point",
@@ -74,23 +68,14 @@
       "type": "Feature",
       "properties": {
         "venue": "Plaza de Toros Cali",
-        "event": "Gira ConexiÃ³n",
+        "event": "Gira ConexiÃÂ³n",
         "date": "2015-12-12",
         "capacity": 12000,
         "occupation": 100,
-        "price": "16000",
-        "lineup": "",
-        "headliner": "Fonseca",
-        "link": "son0p ",
-        "added_by": " ",
-        "address": "",
-        "start": "8:00:00 PM",
-        "end": "10:00:00 PM",
-        "other_events": "",
-        "news": "",
-        "founder": "Proyecto Nash - Exito",
-        "twitter_followers": "3560942",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop",
+        "lineup": "fonseca",
+        "headliner": "fonseca",
+        "city": "cali"
       },
       "geometry": {
         "type": "Point",
@@ -103,24 +88,15 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "PabellÃ³n Amarillo",
-        "event": "Fiesa fin de aÃ±o Exito",
+        "venue": "PabellÃÂ³n Amarillo",
+        "event": "Fiesa fin de aÃÂ±o Exito",
         "date": "2015-12-17",
         "capacity": 3000,
         "occupation": 60,
-        "price": "NA",
         "lineup": "Fonseca, Canela",
         "headliner": "Fonseca",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "9:00:00 PM",
-        "end": "11:00:00 PM",
-        "other_events": "",
-        "news": "",
-        "founder": "Proyecto Nash - Exito",
-        "twitter_followers": "3564609",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop",
+        "city": "bogota"
       },
       "geometry": {
         "type": "Point",
@@ -133,24 +109,15 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "PÃ³rtico",
-        "event": "Fiesa fin de aÃ±o Caracol",
+        "venue": "PÃÂ³rtico",
+        "event": "Fiesa fin de aÃÂ±o Caracol",
         "date": "2015-12-17",
         "capacity": 400,
         "occupation": 90,
-        "price": "NA",
         "lineup": "Fonseca, Gusi",
         "headliner": "Fonseca",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "2:00:00 PM",
-        "end": "4:00:00 PM",
-        "other_events": "",
-        "news": "",
-        "founder": "Proyecto Nash - Exito",
-        "twitter_followers": "3564609",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop",
+        "city": "bogota"
       },
       "geometry": {
         "type": "Point",
@@ -164,23 +131,14 @@
       "type": "Feature",
       "properties": {
         "venue": "Plaza de Toros La macarena",
-        "event": "Gira ConexiÃ³n",
+        "event": "Gira ConexiÃÂ³n",
         "date": "2015-12-19",
         "capacity": 12000,
         "occupation": 100,
-        "price": "16000 + 16mil puntos exito",
         "lineup": "Fonseca",
         "headliner": "Fonseca",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "8:40:00 PM",
-        "end": "10:20:00 PM",
-        "other_events": "",
-        "news": "",
-        "founder": "Proyecto Nash - Exito",
-        "twitter_followers": "3565828",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop",
+        "city": "bogota"
       },
       "geometry": {
         "type": "Point",
@@ -195,23 +153,13 @@
       "properties": {
         "venue": "Expofuturo",
         "city": "Pereira",
-        "event": "Gira ConexiÃ³n",
+        "event": "Gira ConexiÃÂ³n",
         "date": "2015-12-10",
         "capacity": 7000,
         "occupation": 90,
-        "price": "16000 + 16mil puntos exito",
         "lineup": "Fonseca",
         "headliner": "Fonseca",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "8:10:00 PM",
-        "end": "10:20:00 PM",
-        "other_events": "",
-        "news": "",
-        "founder": "Proyecto Nash - Exito",
-        "twitter_followers": "3559531",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -226,23 +174,13 @@
       "properties": {
         "venue": "Coliceo Bicentenario",
         "city": "Bucaramanga",
-        "event": "Gira ConexiÃ³n",
+        "event": "Gira ConexiÃÂ³n",
         "date": "2015-12-18",
         "capacity": 7000,
         "occupation": 95,
-        "price": "16000 + 16mil puntos exito",
         "lineup": "Fonseca",
         "headliner": "Fonseca",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "8:10:00 PM",
-        "end": "10:20:00 PM",
-        "other_events": "",
-        "news": "",
-        "founder": "Proyecto Nash - Exito",
-        "twitter_followers": "3565283",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -257,23 +195,13 @@
       "properties": {
         "venue": "Parque Las Malocas",
         "city": "Villavicencio",
-        "event": "Gira ConexiÃ³n",
+        "event": "Gira ConexiÃÂ³n",
         "date": "2015-12-17",
         "capacity": 7000,
         "occupation": 95,
-        "price": "16000 + 16mil puntos exito",
         "lineup": "Fonseca",
         "headliner": "Fonseca",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "8:10:00 PM",
-        "end": "10:20:00 PM",
-        "other_events": "",
-        "news": "",
-        "founder": "Proyecto Nash - Exito",
-        "twitter_followers": "3564609",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -292,19 +220,9 @@
         "date": "2015-11-21",
         "capacity": 10000,
         "occupation": 10,
-        "price": "",
         "lineup": " Alesso, Fonseca, Belinda, Moderatto, Marcelo CIC",
         "headliner": "Alesso",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "8:10:00 PM",
-        "end": "9:40:00 PM",
-        "other_events": "",
-        "news": "",
-        "founder": "",
-        "twitter_followers": "",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -323,19 +241,9 @@
         "date": "2015-11-11",
         "capacity": 900,
         "occupation": 90,
-        "price": "NA",
         "lineup": " ",
         "headliner": "Fonseca",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "8:10:00 PM",
-        "end": "9:40:00 PM",
-        "other_events": "",
-        "news": "",
-        "founder": "",
-        "twitter_followers": "",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -354,19 +262,9 @@
         "date": "2015-11-07",
         "capacity": 15000,
         "occupation": 90,
-        "price": "",
         "lineup": " ",
         "headliner": "Jennifer Lopez, Pitbull",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "8:10:00 PM",
-        "end": "9:00:00 PM",
-        "other_events": "",
-        "news": "",
-        "founder": "i Heart Radio",
-        "twitter_followers": "",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -385,19 +283,9 @@
         "date": "2015-09-25",
         "capacity": 7000,
         "occupation": 90,
-        "price": "",
         "lineup": "Juanes, Fonseca ",
         "headliner": "Juanes",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "8:10:00 PM",
-        "end": "9:00:00 PM",
-        "other_events": "",
-        "news": "",
-        "founder": "",
-        "twitter_followers": "",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -410,25 +298,15 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "Anfiteatro Parque de la ExposiciÃÂÃÂ³n",
+        "venue": "Anfiteatro Parque de la ExposiciÃÂÃÂÃÂÃÂ³n",
         "city": "Lima",
         "event": "Festival Claro 2015 ",
         "date": "2015-09-26",
         "capacity": 7000,
         "occupation": 50,
-        "price": "",
         "lineup": "Fonseca, concursantes ",
         "headliner": "Fonseca",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "8:10:00 PM",
-        "end": "9:00:00 PM",
-        "other_events": "",
-        "news": "",
-        "founder": "",
-        "twitter_followers": "",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -447,19 +325,9 @@
         "date": "2015-09-10",
         "capacity": 600,
         "occupation": 90,
-        "price": "",
         "lineup": "Fonseca, Canecas Boy's ",
         "headliner": "Fonseca",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "founder": "",
-        "twitter_followers": "",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -478,19 +346,9 @@
         "date": "2015-07-28",
         "capacity": 10000,
         "occupation": 100,
-        "price": "",
         "lineup": "Fonseca ",
         "headliner": "Fonseca",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "founder": "",
-        "twitter_followers": "",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -505,23 +363,13 @@
       "properties": {
         "venue": "Gimnasio Moderno",
         "city": "Bogota",
-        "event": "Venta gira Gira ConexiÃ³nn Exito ",
+        "event": "Venta gira Gira ConexiÃÂ³nn Exito ",
         "date": "2015-07-29",
         "capacity": 50,
         "occupation": 100,
-        "price": "NA",
         "lineup": "Fonseca",
         "headliner": "Fonseca",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "founder": "",
-        "twitter_followers": "",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -534,25 +382,15 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "MuseÃÂÃÂ© Naval de la Citadelle",
+        "venue": "MuseÃÂÃÂÃÂÃÂ© Naval de la Citadelle",
         "city": "Saint Tropez",
         "event": "Privado Matrimonio ",
         "date": "2015-07-05",
         "capacity": 300,
         "occupation": 100,
-        "price": "NA",
         "lineup": "Fonseca, jazz NY, DJ",
         "headliner": "DJ",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "founder": "private",
-        "twitter_followers": "",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -567,23 +405,13 @@
       "properties": {
         "venue": "Centro De Eventos Valle Del Pacifico",
         "city": "Cali",
-        "event": "Fonseca SinfÃ³nico",
+        "event": "Fonseca SinfÃÂ³nico",
         "date": "2015-05-22",
         "capacity": 8000,
         "occupation": 100,
-        "price": "NA",
         "lineup": "Fonseca sinfonico",
-        "headliner": "Fonseca SinfÃ³nico",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "founder": "private",
-        "twitter_followers": "",
-        "event_genre": "pop, tropipop"
+        "headliner": "Fonseca SinfÃÂ³nico",
+        "event_genres": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -601,23 +429,13 @@
         "marker-symbol": "",
         "venue": "Plaza Centro Convenciones Cartagena",
         "city": "Cartagena",
-        "event": "Gira ConexiÃ³n",
+        "event": "Gira ConexiÃÂ³n",
         "date": "2015-12-29",
         "capacity": 5000,
         "occupation": 95,
-        "price": "16000 + 16mil puntos exito",
         "lineup": "Fonseca",
         "headliner": "Fonseca",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "8:50:00 PM",
-        "end": "10:50:00 PM",
-        "other_events": "",
-        "news": "",
-        "founder": "Proyecto Nash - Exito",
-        "twitter_followers": 3564609,
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -636,19 +454,9 @@
         "date": "2010-07-20",
         "capacity": 5000,
         "occupation": 30,
-        "price": "",
         "lineup": "Fonseca",
         "headliner": "Fonseca",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "founder": "",
-        "twitter_followers": "",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -666,23 +474,13 @@
         "marker-symbol": "",
         "venue": "Privado",
         "city": "Cartagena",
-        "event": "Fin de aÃ±o",
+        "event": "Fin de aÃÂ±o",
         "date": "2015-12-31",
         "capacity": 30,
         "occupation": 100,
-        "price": "",
         "lineup": "Fonseca",
         "headliner": "Fonseca",
-        "link": " ",
-        "added_by": "son0p  ",
-        "address": "",
-        "start": "",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "founder": "",
-        "twitter_followers": "",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -696,24 +494,14 @@
       "type": "Feature",
       "properties": {
         "venue": "Plaza de Bolivar",
-        "event": "Gira ConexiÃ³n",
+        "event": "Gira ConexiÃÂ³n",
         "date": "2016-01-03",
         "capacity": 8000,
         "occupation": 100,
-        "price": "NA",
         "lineup": "Fonseca",
-        "link": "",
-        "added_by": "son0p",
-        "founder": "Proyecto Nash - Exito",
         "headliner": "Fonseca",
-        "address": "",
-        "start": "8:00:00 PM",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "twitter_followers": "",
         "city": "Manizales",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -726,25 +514,15 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "Parque CaracolÃ­",
-        "event": "CelebraciÃ³n Segundo Aniversario",
+        "venue": "Parque CaracolÃÂ­",
+        "event": "CelebraciÃÂ³n Segundo Aniversario",
         "date": "2015-06-11",
         "capacity": 800,
         "occupation": 100,
-        "price": "NA",
         "lineup": "Fonseca",
-        "link": "",
-        "added_by": "son0p",
-        "founder": "Parque CaracolÃ­",
         "headliner": "Fonseca",
-        "address": "",
-        "start": "",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "twitter_followers": "",
         "city": "Bucaramanga",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -757,16 +535,14 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "Parque SimÃ³n Bolivar",
+        "venue": "Parque SimÃÂ³n Bolivar",
         "event": "Radio Fest",
         "date": "2015-05-09",
         "capacity": 50000,
         "occupation": 100,
-        "price": "NA",
-        "lineup": "Fonseca, Choc Quib Town, Efecto Pasillo, Manuel Medrano, Julieta Venegas, Noel Schajris, Mojito Lite,SebastiÃ¡n Yatra, Mike BahÃ­a, Gusi, Pedrina y RÃ­o, Maria Bestar, Jorge Villamizar",
+        "lineup": "Fonseca, Choc Quib Town, Efecto Pasillo, Manuel Medrano, Julieta Venegas, Noel Schajris, Mojito Lite,SebastiÃÂ¡n Yatra, Mike BahÃÂ­a, Gusi, Pedrina y RÃÂ­o, Maria Bestar, Jorge Villamizar",
         "city": "Bogota",
-        "added_by": "son0p",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -779,25 +555,15 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "CÃ¡mara de Ganaderos de San Carlos",
+        "venue": "CÃÂ¡mara de Ganaderos de San Carlos",
         "event": "Expo San Carlos",
         "date": "2015-05-03",
         "capacity": 5000,
         "occupation": 100,
-        "price": "",
         "lineup": "Fonseca, DJ",
-        "link": "",
-        "added_by": "son0p",
-        "founder": "Expo San Carlos",
         "headliner": "Fonseca",
-        "address": "",
-        "start": "",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "twitter_followers": "",
         "city": "San Carlos",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -815,21 +581,11 @@
         "date": "2015-04-25",
         "capacity": 200,
         "occupation": 100,
-        "price": "",
         "lineup": "Fonseca, Gran Combo Puerto Rico",
-        "link": "",
-        "added_by": "son0p",
-        "founder": "",
         "headliner": "Fonseca",
-        "address": "",
-        "start": "",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "twitter_followers": "",
         "city": "San Juan",
         "marker-color": "",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -847,20 +603,10 @@
         "date": "2015-04-185",
         "capacity": 200,
         "occupation": 100,
-        "price": "",
         "lineup": "Fonseca, ",
-        "link": "",
-        "added_by": "son0p",
-        "founder": "privado",
         "headliner": "Fonseca",
-        "address": "",
-        "start": "",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "twitter_followers": "",
         "city": "Barranquilla",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -878,20 +624,10 @@
         "date": "2015-04-17",
         "capacity": 20000,
         "occupation": 100,
-        "price": "",
         "lineup": "Fonseca, Los Crucetas, Jhonny Galarza  ",
-        "link": "",
-        "added_by": "son0p",
-        "founder": "Municipio Rio Bamba",
         "headliner": "Fonseca",
-        "address": "",
-        "start": "",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "twitter_followers": "",
         "city": "Rio Bamba",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -909,21 +645,11 @@
         "date": "2015-04-01",
         "capacity": 100,
         "occupation": 100,
-        "price": "",
         "lineup": "Fonseca",
-        "link": "",
-        "added_by": "son0p",
-        "founder": "privado",
         "headliner": "Fonseca",
-        "address": "",
-        "start": "",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "twitter_followers": "",
         "city": "Tela",
         "marker-color": "",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -936,26 +662,16 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "Club HÃ­pico La Molina",
+        "venue": "Club HÃÂ­pico La Molina",
         "event": "corporativo",
         "date": "2015-03-05",
         "capacity": 800,
         "occupation": 100,
-        "price": "",
         "lineup": "Fonseca",
-        "link": "",
-        "added_by": "son0p",
-        "founder": "corporativo",
         "headliner": "Fonseca",
-        "address": "",
-        "start": "",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "twitter_followers": "",
         "city": "Lima",
         "marker-color": "",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -973,13 +689,10 @@
         "date": "2015-02-21",
         "capacity": 2000,
         "occupation": 80,
-        "lineup": "Fonseca, Jose CaÃ±as",
-        "link": "",
-        "added_by": "son0p",
-        "founder": "Mi ticket",
+        "lineup": "Fonseca, Jose CaÃÂ±as",
         "headliner": "Fonseca",
         "city": "Ciudad de Guatemala",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -998,18 +711,9 @@
         "capacity": 500,
         "occupation": 100,
         "lineup": "Fonseca",
-        "link": "",
-        "added_by": "son0p",
-        "founder": "",
         "headliner": "Fonseca",
-        "address": "",
-        "start": "",
-        "end": "",
-        "other_events": "",
-        "news": "",
-        "twitter_followers": "",
         "city": "Managua",
-        "event_genre": "pop, tropipop"
+        "event_genres": "pop, tropipop"
       },
       "geometry": {
         "type": "Point",
@@ -1032,7 +736,7 @@
         "occupation": 80,
         "lineup": "Fonseca sinfonico",
         "headliner": "fonseca sinfonico",
-        "event_genre": "sinfonico, pop",
+        "event_genres": "sinfonico, pop",
         "city": "Bogota"
       },
       "geometry": {
@@ -1051,13 +755,12 @@
         "date": "2014-12-10",
         "capacity": 785,
         "occupation": 100,
-        "price": "",
         "lineup": "Fonseca sinfonico",
-        "event_genre": "fonseca sinfonico",
-        "twitter_followers": "bogota",
-        "marker-symbol": "sinfonico, pop",
-        "city": "#7e7e7e",
-        "marker-color": "medium"
+        "event_genres": "sinfonico, pop",
+        "marker-symbol": "",
+        "city": "bogota",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -1076,9 +779,11 @@
         "capacity": 785,
         "occupation": 100,
         "lineup": "Fonseca sinfonico",
-        "event_genre": "fonseca sinfonico",
-        "twitter_followers": "bogota",
-        "marker-symbol": "sinfonico, pop"
+        "event_genres": "sinfonico, pop",
+        "marker-symbol": "",
+        "city": "bogota",
+        "marker-size": "medium",
+        "marker-color": "#7e7e7e"
       },
       "geometry": {
         "type": "Point",
@@ -1097,9 +802,10 @@
         "capacity": 785,
         "occupation": 100,
         "lineup": "Fonseca sinfonico",
-        "event_genre": "fonseca sinfonico",
-        "twitter_followers": "bogota",
-        "marker-symbol": "sinfonico, pop"
+        "event_genres": "sinfonico, pop",
+        "city": "bogota",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -1117,17 +823,41 @@
         "date": "2014-12-05",
         "capacity": 2000,
         "occupation": 100,
-        "price": "",
         "lineup": "Fonseca, mojito_lite, santiago_cruz, franco_de_vita",
-        "event_genre": "franco_de_vita",
-        "twitter_followers": "bogota",
-        "marker-symbol": "pop, tropipop"
+        "event_genres": "franco_de_vita",
+        "city": "bogota",
+        "marker-size": "medium",
+        "marker-color": "#7e7e7e"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -74.03001487255096,
           4.839933961069868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Nacional",
+        "event": "fonseca sinfonico",
+        "date": "2014-11-06",
+        "capacity": 804,
+        "occupation": 100,
+        "lineup": "fonseca sinfonico",
+        "headliner": "fonseca sinfonico",
+        "city": "quito",
+        "marker-symbol": "",
+        "marker-size": "medium",
+        "marker-color": "#7e7e7e",
+        "event_genres": "sinfonico, pop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.508867,
+          -0.218873
         ]
       }
     }
