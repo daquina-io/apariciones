@@ -927,6 +927,27 @@
           4.839859127004338
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "estadio romelio martinez",
+        "event": "",
+        "date": "2014-10-25",
+        "capacity": 15000,
+        "occupation": 100,
+        "lineup": "fonseca, santiago_cruz, franco_de_vita",
+        "event_genres": "pop, tropipop",
+        "city": "barranquilla",
+        "headliner": "franco_de_vita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.806977,
+          10.994242
+        ]
+      }
     }
   ]
 }
