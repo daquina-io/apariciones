@@ -1,22 +1,48 @@
 {
-  "type": "Feature",
-  "properties": {
-    "venue": "Parque Juan Pablo II",
-    "event": "Grove Festival",
-    "date": "2016-01-30",
-    "capacity": 3000,
-    "occupation": 80,
-    "lineup": "matiasyahu, providencia, doris_vespa, mistica, la_fragua_band, ojo_de_buey",
-    "added_by": "son0p",
-    "founder": "grove festival",
-    "headliner": "matiasyahu",
-    "city": "medellin"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -75.5899178981781,
-      6.229917712594762
-    ]
-  }
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Parque Juan Pablo II",
+        "event": "Grove Festival",
+        "date": "2016-01-30",
+        "capacity": 3000,
+        "occupation": 80,
+        "lineup": "matiasyahu, providencia, doris_vespa, mistica, la_fragua_band, ojo_de_buey",
+        "added_by": "son0p",
+        "founder": "grove festival",
+        "headliner": "matiasyahu",
+        "city": "medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5899178981781,
+          6.229917712594762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Lienzo Urbano",
+        "event": "pintada musical",
+        "date": "2015-12-22",
+        "capacity": 200,
+        "occupation": "",
+        "event_genres": "dancehall, electro_caribe",
+        "lineup": "colectro, doris_vestpa, la_margarita, stereo_cuco, tres_gatos, tubara",
+        "headliner": "colectro",
+        "city": "barranquilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8105449,
+          11.0252044
+        ]
+      }
+    }
+  ]
 }
