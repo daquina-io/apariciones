@@ -823,12 +823,12 @@
         "date": "2014-12-05",
         "capacity": 2000,
         "occupation": 100,
-        "lineup": "Fonseca, mojito_lite, santiago_cruz, franco_de_vita",
+        "lineup": "Fonseca",
         "event_genres": "pop, tropipop",
         "city": "bogota",
         "marker-size": "medium",
         "marker-color": "#7e7e7e",
-        "headliner": "franco_de_vita"
+        "headliner": ""
       },
       "geometry": {
         "type": "Point",
@@ -904,6 +904,27 @@
         "coordinates": [
           -80.96064,
           -2.214634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Centro de eventos aguapanelas",
+        "event": "",
+        "date": "2014-10-24",
+        "capacity": 2000,
+        "occupation": 100,
+        "lineup": "Fonseca, mojito_lite, santiago_cruz, franco_de_vita",
+        "event_genres": "pop, tropipop",
+        "city": "bogota",
+        "headliner": "franco_de_vita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.02992904186249,
+          4.839859127004338
         ]
       }
     }
