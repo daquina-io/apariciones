@@ -74,18 +74,39 @@
         "venue": "Teatro el trueque",
         "event": "Lanzamiento revista tendencia garage",
         "date": "2010-08-21",
-        "capacity": "150",
-        "occupation": "100",
+        "capacity": 150,
+        "occupation": 100,
         "event_genres": "electro_Punk, indie, indie_rock",
         "lineup": "Resina_la_la, Boquitoquis, Le_Batlefinger",
         "headliner": "",
-        "city": "Medellín"
+        "city": "Medellin"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -75.55986642837524,
           6.246950201503629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Calle 9",
+        "event": "",
+        "date": "2011-11-18",
+        "capacity": 200,
+        "occupation": 50,
+        "event_genres": "Horror_punk, Electro_Punk, Rock_aternativo",
+        "lineup": "Apariciones_frecuentes, Dadanoys, spastico",
+        "headliner": "",
+        "city": "Medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57285368442534,
+          6.210591514245062
         ]
       }
     }
