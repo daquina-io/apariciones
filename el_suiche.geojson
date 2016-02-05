@@ -414,8 +414,8 @@
         "city": "Medellin",
         "event": "El Suiche",
         "date": "2015-06-24",
-        "capacity": "200",
-        "occupation": "70",
+        "capacity": 200,
+        "occupation": 70,
         "lineup": "The Forest Experimental",
         "headliner": ""
       },
@@ -434,8 +434,8 @@
         "city": "Medellin",
         "event": "El Suiche",
         "date": "2014-02-13",
-        "capacity": "200",
-        "occupation": "100",
+        "capacity": 200,
+        "occupation": 100,
         "lineup": "El Malhechor",
         "headliner": ""
       },
@@ -454,8 +454,8 @@
         "city": "Medellin",
         "event": "El Suiche",
         "date": "2014-08-13",
-        "capacity": "200",
-        "occupation": "100",
+        "capacity": 200,
+        "occupation": 100,
         "lineup": "Magdalena Solo Project",
         "headliner": ""
       },
@@ -474,8 +474,8 @@
         "city": "Medellin",
         "event": "El Suiche",
         "date": "2014-07-18",
-        "capacity": "200",
-        "occupation": "50",
+        "capacity": 200,
+        "occupation": 50,
         "lineup": "Paula Pin, Bejaranoise, La Jaquer Escool",
         "headliner": ""
       },
