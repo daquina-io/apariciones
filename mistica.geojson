@@ -1,22 +1,48 @@
 {
-  "type": "Feature",
-  "properties": {
-    "venue": "Parque Juan Pablo II",
-    "event": "Grove Festival",
-    "date": "2016-01-30",
-    "capacity": 3000,
-    "occupation": 30,
-    "lineup": "matiasyahu, providencia, doris_vespa, mistica, la_fragua_band, ojo_de_buey",
-    "added_by": "son0p",
-    "founder": "grove festival",
-    "headliner": "matiasyahu",
-    "city": "medellin"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -75.5899178981781,
-      6.229917712594762
-    ]
-  }
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Parque Juan Pablo II",
+        "event": "Grove Festival",
+        "date": "2016-01-30",
+        "capacity": 3000,
+        "occupation": 30,
+        "lineup": "matiasyahu, providencia, doris_vespa, mistica, la_fragua_band, ojo_de_buey",
+        "added_by": "son0p",
+        "founder": "grove festival",
+        "headliner": "matiasyahu",
+        "city": "medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5899178981781,
+          6.229917712594762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Salento",
+        "event": "Festival de verano",
+        "date": "2016-01-09",
+        "capacity": 1000,
+        "occupation": 60,
+        "event_genres": "reggae, electro_caribe",
+        "lineup": "mistica, sistema_solar, mitu,  los_indajaus, metroy, radio_rebelde, black_lion, alunadelia, dj_tusso",
+        "headliner": "sistema_solar",
+        "city": "salento"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56943,
+          4.63749
+        ]
+      }
+    }
+  ]
 }
