@@ -824,10 +824,11 @@
         "capacity": 2000,
         "occupation": 100,
         "lineup": "Fonseca, mojito_lite, santiago_cruz, franco_de_vita",
-        "event_genres": "franco_de_vita",
+        "event_genres": "pop, tropipop",
         "city": "bogota",
         "marker-size": "medium",
-        "marker-color": "#7e7e7e"
+        "marker-color": "#7e7e7e",
+        "headliner": "franco_de_vita"
       },
       "geometry": {
         "type": "Point",
@@ -840,7 +841,7 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "Teatro Nacional",
+        "venue": "Teatro Nacional Sucre",
         "event": "fonseca sinfonico",
         "date": "2014-11-06",
         "capacity": 804,
@@ -858,6 +859,27 @@
         "coordinates": [
           -78.508867,
           -0.218873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Nacional Sucre",
+        "event": "fonseca sinfonico",
+        "date": "2014-11-07",
+        "capacity": 804,
+        "occupation": 100,
+        "lineup": "fonseca sinfonico",
+        "event_genres": "sinfonico, pop",
+        "city": "quito",
+        "headliner": "fonseca sinfonico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.50881308317184,
+          -0.21888381645954114
         ]
       }
     }
