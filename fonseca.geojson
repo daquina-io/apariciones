@@ -882,6 +882,30 @@
           -0.21888381645954114
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Privado",
+        "event": "privado",
+        "date": "2014-11-08",
+        "capacity": 200,
+        "occupation": 100,
+        "lineup": "fonseca",
+        "event_genres": "pop, tropipop",
+        "city": "salinas",
+        "headliner": "fonseca",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.96064,
+          -2.214634
+        ]
+      }
     }
   ]
 }
