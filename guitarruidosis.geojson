@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Buckel Bar",
+        "event": "Guitarruidosis",
+        "date": "20010-05-15",
+        "capacity": "",
+        "occupation": "",
+        "lineup": "Milena, The_kurtis_band",
+        "event_genres": "Pop, electro_rock",
+        "link": "",
+        "added_by": "antropomorfa",
+        "founder": "",
+        "headliner": "Guitarruidosis",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56899666786194,
+          6.209519593386433
+        ]
+      }
+    }
+  ]
+}
