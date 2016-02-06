@@ -60,6 +60,66 @@
           6.249008567477176
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Narcosis Bar",
+        "event": "Guitarruidosis",
+        "date": "1999-05-23",
+        "capacity": 60,
+        "occupation": 100,
+        "lineup": "Nemesis, blemish, caja_de_halloween, bombillos_peludos",
+        "event_genres": "grunge",
+        "link": "",
+        "added_by": "antropomorfa",
+        "founder": "",
+        "headliner": "Guitarruidosis",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57038068771362,
+          6.262510394172802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "El sotano bar",
+        "event": "Guitarruidosis",
+        "date": "2006-09-17",
+        "capacity": "",
+        "occupation": "",
+        "lineup": "sufer_rosa,smoking_souls",
+        "event_genres": "alternativo, folk_rock",
+        "link": "",
+        "added_by": "antropomorfa",
+        "founder": "",
+        "headliner": "Guitarruidosis",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.61183959245682,
+          6.172040991282458
+        ]
+      }
     }
   ]
 }
