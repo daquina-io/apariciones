@@ -120,6 +120,35 @@
           6.172040991282458
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "Guitarruidosis",
+        "date": "2010-06-12",
+        "capacity": "",
+        "occupation": "",
+        "lineup": "El_club_de_las_novias_suicidas, spastico, los_desconectados, the_smoking_soluls",
+        "event_genres": "grunge, alternativo, folk_rock",
+        "link": "",
+        "added_by": "antropomorfa",
+        "founder": "",
+        "headliner": "Guitarruidosis",
+        "address": "",
+        "start": "8:00 pm",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5685031414032,
+          6.263939477051557
+        ]
+      }
     }
   ]
 }
