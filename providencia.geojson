@@ -202,6 +202,27 @@
           6.22426497976614
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Jardin Botanico",
+        "event": "REGGAE & CARIBEAN MUSIC FEST",
+        "date": "2010-06-05 15:00:00",
+        "capacity": 2000,
+        "occupation": 0,
+        "event_genres": "reggae",
+        "lineup": "providencia",
+        "headliner": "",
+        "city": "medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56346595287322,
+          6.270572929916585
+        ]
+      }
     }
   ]
 }
