@@ -57,8 +57,8 @@
         "capacity": 923,
         "occupation": "NA",
         "price": 25000,
-        "founder": "Teatro Pablo Tobon Uribe,  Providencia, TARMAC, Zafarrancho, ZATELITE, KÃÂ¤ina y Sabor Yembe Orquesta",
-        "lineup": " Providencia, TARMAC, Zafarrancho, ZATELITE, KÃÂ¤ina y Sabor Yembe Orquesta",
+        "founder": "Teatro Pablo Tobon Uribe,  Providencia, TARMAC, Zafarrancho, ZATELITE, KÃÂÃÂ¤ina y Sabor Yembe Orquesta",
+        "lineup": " Providencia, TARMAC, Zafarrancho, ZATELITE, KÃÂÃÂ¤ina y Sabor Yembe Orquesta",
         "link": "https://www.facebook.com/tarmac.reggae/photos/pb.61785954090.-2207520000.1444239002./10152577751124091/?type=3&theater",
         "marker-symbol": "",
         "city": "Medellin"
@@ -137,6 +137,27 @@
         "coordinates": [
           -75.5899178981781,
           6.229917712594762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "The Imperial",
+        "event": "",
+        "date": "2014-07-11 20:30:00",
+        "capacity": 600,
+        "occupation": 0,
+        "event_genres": "reggae",
+        "lineup": "providencia, los_rastrillos,los_furios",
+        "headliner": "",
+        "city": "vancuver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.099951,
+          49.282359
         ]
       }
     }
