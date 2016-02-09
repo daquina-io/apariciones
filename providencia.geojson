@@ -160,6 +160,27 @@
           49.282359
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "PAX",
+        "event": "",
+        "date": "2012-03-08 21:30:00",
+        "capacity": 260,
+        "occupation": 0,
+        "event_genres": "reggae",
+        "lineup": "providencia, kolabo",
+        "headliner": "",
+        "city": "miami"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.199867,
+          25.766867
+        ]
+      }
     }
   ]
 }
