@@ -57,8 +57,8 @@
         "capacity": 923,
         "occupation": "NA",
         "price": 25000,
-        "founder": "Teatro Pablo Tobon Uribe,  Providencia, TARMAC, Zafarrancho, ZATELITE, KÃÂ¤ina y Sabor Yembe Orquesta",
-        "lineup": " Providencia, TARMAC, Zafarrancho, ZATELITE, KÃÂ¤ina y Sabor Yembe Orquesta",
+        "founder": "Teatro Pablo Tobon Uribe,  Providencia, TARMAC, Zafarrancho, ZATELITE, KÃÂÃÂ¤ina y Sabor Yembe Orquesta",
+        "lineup": " Providencia, TARMAC, Zafarrancho, ZATELITE, KÃÂÃÂ¤ina y Sabor Yembe Orquesta",
         "link": "https://www.facebook.com/tarmac.reggae/photos/pb.61785954090.-2207520000.1444239002./10152577751124091/?type=3&theater",
         "marker-symbol": "",
         "city": "Medellin"
@@ -137,6 +137,90 @@
         "coordinates": [
           -75.5899178981781,
           6.229917712594762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "The Imperial",
+        "event": "",
+        "date": "2014-07-11 20:30:00",
+        "capacity": 600,
+        "occupation": 0,
+        "event_genres": "reggae",
+        "lineup": "providencia, los_rastrillos,los_furios",
+        "headliner": "",
+        "city": "vancuver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.099951,
+          49.282359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "PAX",
+        "event": "",
+        "date": "2012-03-08 21:30:00",
+        "capacity": 260,
+        "occupation": 0,
+        "event_genres": "reggae",
+        "lineup": "providencia, kolabo",
+        "headliner": "",
+        "city": "miami"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.199867,
+          25.766867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Auditorium Plaza",
+        "event": "Green House Reggae",
+        "date": "2010-09-10 21:00:00",
+        "capacity": 1500,
+        "occupation": 0,
+        "event_genres": "reggae",
+        "lineup": "providencia",
+        "headliner": "",
+        "city": "medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56545615196228,
+          6.22426497976614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Jardin Botanico",
+        "event": "REGGAE & CARIBEAN MUSIC FEST",
+        "date": "2010-06-05 15:00:00",
+        "capacity": 2000,
+        "occupation": 0,
+        "event_genres": "reggae",
+        "lineup": "providencia",
+        "headliner": "",
+        "city": "medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56346595287322,
+          6.270572929916585
         ]
       }
     }
