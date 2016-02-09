@@ -181,6 +181,27 @@
           25.766867
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Auditorium Plaza",
+        "event": "Green House Reggae",
+        "date": "2010-09-10 21:00:00",
+        "capacity": 1500,
+        "occupation": 0,
+        "event_genres": "reggae",
+        "lineup": "providencia",
+        "headliner": "",
+        "city": "medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56545615196228,
+          6.22426497976614
+        ]
+      }
     }
   ]
 }
