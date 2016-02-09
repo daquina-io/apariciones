@@ -108,6 +108,36 @@
           6.210271538097829
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56243062019348,
+          6.273889624709539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2015-10-09",
+        "venue": "transfusion_bar",
+        "capacity": 300,
+        "occupation": 100,
+        "lineup": "el_reflejo,ferdinand_carclash,morfina_rec,ese_man",
+        "added_by": "antropomorfa",
+        "city": "Medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57182371616364,
+          6.210268871629114
+        ]
+      }
     }
   ]
 }
