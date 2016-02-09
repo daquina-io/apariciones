@@ -89,6 +89,25 @@
           3.4567490477193084
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2015-07-03",
+        "venue": "transfusion_bar",
+        "capacity": 300,
+        "occupation": 100,
+        "lineup": "romperayo, kamikant, sudacateca, Morfina Rec",
+        "added_by": "antropomorfa",
+        "city": "Medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5718344449997,
+          6.210271538097829
+        ]
+      }
     }
   ]
 }
