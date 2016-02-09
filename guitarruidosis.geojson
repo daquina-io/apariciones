@@ -149,6 +149,35 @@
           6.263939477051557
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "Guitarruidosis",
+        "date": "2008-11-08",
+        "capacity": "",
+        "occupation": "",
+        "lineup": "metropol,spastico",
+        "event_genres": "indie_rock, alternativo",
+        "link": "",
+        "added_by": "antropomorfa",
+        "founder": "",
+        "headliner": "Guitarruidosis",
+        "address": "",
+        "start": "7:00 pm",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56216239929199,
+          6.248923246768636
+        ]
+      }
     }
   ]
 }
