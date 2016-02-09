@@ -4,12 +4,42 @@
     {
       "type": "Feature",
       "properties": {
-        "origen": "Rogs"
+        "venue": "plaza gardel",
+        "event": "clasificatorios altavoz",
+        "date": "2014-08-30 16:00:00",
+        "capacity": 4000,
+        "occupation": 50,
+        "event_genres": "",
+        "lineup": "",
+        "headliner": "",
+        "city": "medellin"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.573059,6.2298494
+          -75.58653831481934,
+          6.217694934618752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Bombay Bar",
+        "event": "Festival Hertz 2016",
+        "date": "2016-02-20 20:00:00",
+        "capacity": 200,
+        "occupation": 0,
+        "event_genres": "rock, house",
+        "lineup": "jaibanakus, zatelite, rogs,el_juanda",
+        "headliner": "",
+        "city": "medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.582748,
+          6.215212
         ]
       }
     }
