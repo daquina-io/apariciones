@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "venue": "Palacio de los Deportes",
-        "event": "Gira ConexiÃÂ³n",
+        "event": "Gira Conexion",
         "date": "2015-12-03",
         "capacity": 5000,
         "occupation": 100,
@@ -26,7 +26,7 @@
       "type": "Feature",
       "properties": {
         "venue": "Palacio de los Deportes",
-        "event": "Gira ConexiÃÂ³n",
+        "event": "Gira ConexiÃÂÃÂ³n",
         "date": "2015-12-04",
         "capacity": 5000,
         "occupation": 100,
@@ -47,7 +47,7 @@
       "type": "Feature",
       "properties": {
         "venue": "Palacio de los Deportes",
-        "event": "Gira ConexiÃÂ³n",
+        "event": "Gira ConexiÃÂÃÂ³n",
         "date": "2015-12-05",
         "capacity": 5000,
         "occupation": 100,
@@ -68,7 +68,7 @@
       "type": "Feature",
       "properties": {
         "venue": "Plaza de Toros Cali",
-        "event": "Gira ConexiÃÂ³n",
+        "event": "Gira ConexiÃÂÃÂ³n",
         "date": "2015-12-12",
         "capacity": 12000,
         "occupation": 100,
@@ -88,8 +88,8 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "PabellÃÂ³n Amarillo",
-        "event": "Fiesa fin de aÃÂ±o Exito",
+        "venue": "PabellÃÂÃÂ³n Amarillo",
+        "event": "Fiesa fin de aÃÂÃÂ±o Exito",
         "date": "2015-12-17",
         "capacity": 3000,
         "occupation": 60,
@@ -109,8 +109,8 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "PÃÂ³rtico",
-        "event": "Fiesa fin de aÃÂ±o Caracol",
+        "venue": "PÃÂÃÂ³rtico",
+        "event": "Fiesa fin de aÃÂÃÂ±o Caracol",
         "date": "2015-12-17",
         "capacity": 400,
         "occupation": 90,
@@ -131,7 +131,7 @@
       "type": "Feature",
       "properties": {
         "venue": "Plaza de Toros La macarena",
-        "event": "Gira ConexiÃÂ³n",
+        "event": "Gira ConexiÃÂÃÂ³n",
         "date": "2015-12-19",
         "capacity": 12000,
         "occupation": 100,
@@ -153,7 +153,7 @@
       "properties": {
         "venue": "Expofuturo",
         "city": "Pereira",
-        "event": "Gira ConexiÃÂ³n",
+        "event": "Gira ConexiÃÂÃÂ³n",
         "date": "2015-12-10",
         "capacity": 7000,
         "occupation": 90,
@@ -174,7 +174,7 @@
       "properties": {
         "venue": "Coliceo Bicentenario",
         "city": "Bucaramanga",
-        "event": "Gira ConexiÃÂ³n",
+        "event": "Gira ConexiÃÂÃÂ³n",
         "date": "2015-12-18",
         "capacity": 7000,
         "occupation": 95,
@@ -195,7 +195,7 @@
       "properties": {
         "venue": "Parque Las Malocas",
         "city": "Villavicencio",
-        "event": "Gira ConexiÃÂ³n",
+        "event": "Gira ConexiÃÂÃÂ³n",
         "date": "2015-12-17",
         "capacity": 7000,
         "occupation": 95,
@@ -298,7 +298,7 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "Anfiteatro Parque de la ExposiciÃÂÃÂÃÂÃÂ³n",
+        "venue": "Anfiteatro Parque de la ExposiciÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n",
         "city": "Lima",
         "event": "Festival Claro 2015 ",
         "date": "2015-09-26",
@@ -363,7 +363,7 @@
       "properties": {
         "venue": "Gimnasio Moderno",
         "city": "Bogota",
-        "event": "Venta gira Gira ConexiÃÂ³nn Exito ",
+        "event": "Venta gira Gira ConexiÃÂÃÂ³nn Exito ",
         "date": "2015-07-29",
         "capacity": 50,
         "occupation": 100,
@@ -382,7 +382,7 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "MuseÃÂÃÂÃÂÃÂ© Naval de la Citadelle",
+        "venue": "MuseÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Naval de la Citadelle",
         "city": "Saint Tropez",
         "event": "Privado Matrimonio ",
         "date": "2015-07-05",
@@ -405,12 +405,12 @@
       "properties": {
         "venue": "Centro De Eventos Valle Del Pacifico",
         "city": "Cali",
-        "event": "Fonseca SinfÃÂ³nico",
+        "event": "Fonseca SinfÃÂÃÂ³nico",
         "date": "2015-05-22",
         "capacity": 8000,
         "occupation": 100,
         "lineup": "Fonseca sinfonico",
-        "headliner": "Fonseca SinfÃÂ³nico",
+        "headliner": "Fonseca SinfÃÂÃÂ³nico",
         "event_genres": "pop, tropipop"
       },
       "geometry": {
@@ -429,7 +429,7 @@
         "marker-symbol": "",
         "venue": "Plaza Centro Convenciones Cartagena",
         "city": "Cartagena",
-        "event": "Gira ConexiÃÂ³n",
+        "event": "Gira ConexiÃÂÃÂ³n",
         "date": "2015-12-29",
         "capacity": 5000,
         "occupation": 95,
@@ -451,7 +451,7 @@
         "venue": "Music Hall de Expo Shanghai",
         "city": "Shanghai",
         "event": "",
-        "date": "2010-07-20",
+        "date": "2010-07-20 20:00:00",
         "capacity": 5000,
         "occupation": 30,
         "lineup": "Fonseca",
@@ -474,7 +474,7 @@
         "marker-symbol": "",
         "venue": "Privado",
         "city": "Cartagena",
-        "event": "Fin de aÃÂ±o",
+        "event": "Fin de aÃÂÃÂ±o",
         "date": "2015-12-31",
         "capacity": 30,
         "occupation": 100,
@@ -494,7 +494,7 @@
       "type": "Feature",
       "properties": {
         "venue": "Plaza de Bolivar",
-        "event": "Gira ConexiÃÂ³n",
+        "event": "Gira ConexiÃÂÃÂ³n",
         "date": "2016-01-03",
         "capacity": 8000,
         "occupation": 100,
@@ -514,8 +514,8 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "Parque CaracolÃÂ­",
-        "event": "CelebraciÃÂ³n Segundo Aniversario",
+        "venue": "Parque CaracolÃÂÃÂ­",
+        "event": "CelebraciÃÂÃÂ³n Segundo Aniversario",
         "date": "2015-06-11",
         "capacity": 800,
         "occupation": 100,
@@ -535,12 +535,12 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "Parque SimÃÂ³n Bolivar",
+        "venue": "Parque SimÃÂÃÂ³n Bolivar",
         "event": "Radio Fest",
         "date": "2015-05-09",
         "capacity": 50000,
         "occupation": 100,
-        "lineup": "Fonseca, Choc Quib Town, Efecto Pasillo, Manuel Medrano, Julieta Venegas, Noel Schajris, Mojito Lite,SebastiÃÂ¡n Yatra, Mike BahÃÂ­a, Gusi, Pedrina y RÃÂ­o, Maria Bestar, Jorge Villamizar",
+        "lineup": "Fonseca, Choc Quib Town, Efecto Pasillo, Manuel Medrano, Julieta Venegas, Noel Schajris, Mojito Lite,SebastiÃÂÃÂ¡n Yatra, Mike BahÃÂÃÂ­a, Gusi, Pedrina y RÃÂÃÂ­o, Maria Bestar, Jorge Villamizar",
         "city": "Bogota",
         "event_genres": "pop, tropipop"
       },
@@ -555,7 +555,7 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "CÃÂ¡mara de Ganaderos de San Carlos",
+        "venue": "CÃÂÃÂ¡mara de Ganaderos de San Carlos",
         "event": "Expo San Carlos",
         "date": "2015-05-03",
         "capacity": 5000,
@@ -662,7 +662,7 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "Club HÃÂ­pico La Molina",
+        "venue": "Club HÃÂÃÂ­pico La Molina",
         "event": "corporativo",
         "date": "2015-03-05",
         "capacity": 800,
@@ -689,7 +689,7 @@
         "date": "2015-02-21",
         "capacity": 2000,
         "occupation": 80,
-        "lineup": "Fonseca, Jose CaÃÂ±as",
+        "lineup": "Fonseca, Jose CaÃÂÃÂ±as",
         "headliner": "Fonseca",
         "city": "Ciudad de Guatemala",
         "event_genres": "pop, tropipop"
@@ -933,7 +933,7 @@
       "properties": {
         "venue": "estadio romelio martinez",
         "event": "",
-        "date": "2014-10-25",
+        "date": "2014-10-25 ",
         "capacity": 15000,
         "occupation": 100,
         "lineup": "fonseca, santiago_cruz, franco_de_vita",
