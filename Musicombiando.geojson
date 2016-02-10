@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "",
+        "event": "",
+        "date": "",
+        "capacity": 0,
+        "occupation": 0,
+        "event_genres": "",
+        "lineup": "",
+        "headliner": "",
+        "city": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3818428516388,
+          6.127732558669279
+        ]
+      }
+    }
+  ]
+}
