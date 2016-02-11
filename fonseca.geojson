@@ -990,6 +990,27 @@
           20.742728
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "centro cultural deportivo",
+        "event": "feria del hogar",
+        "date": "2014-08-07T20:00:00",
+        "capacity": 5000,
+        "occupation": "NA",
+        "lineup": "fonseca",
+        "event_genres": "pop, tropipop",
+        "city": "lima",
+        "headliner": "fonseca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.021166,
+          -12.208999
+        ]
+      }
     }
   ]
 }
