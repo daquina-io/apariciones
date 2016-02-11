@@ -290,6 +290,29 @@
           3.450821
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "Festival Centro de Bogotá ",
+        "venue": "Fundación Gilberto Alzate Avendaño",
+        "date": "2013-01-15",
+        "price": 0,
+        "founder": "NA",
+        "lineup": "Diamante Electrico, Los Petiit Fellas, Arbol de Ojos",
+        "headliner": "Diamante Electrico",
+        "city": "Bogota, Colombia",
+        "added by": "johnbothia",
+        "ocupation": "NA",
+        "capacity": 430
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.78515625,
+          -0.7031073524364783
+        ]
+      }
     }
   ]
 }
