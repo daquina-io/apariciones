@@ -969,6 +969,27 @@
           18.424296
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "puerto vallarta",
+        "event": "privado",
+        "date": "2014-09-15T23:00:00",
+        "capacity": 200,
+        "occupation": 100,
+        "lineup": "fonseca, dj",
+        "event_genres": "pop, tropipop",
+        "city": "puerto vallarta",
+        "headliner": "fonseca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.423346,
+          20.742728
+        ]
+      }
     }
   ]
 }
