@@ -86,7 +86,7 @@
         "ocupation": "NA",
         "price": 92000,
         "founder": "NA",
-        "lineup": "Molotov, Consulado popular, Diamante eléctrico, Telebit, A.C.M.E, Larvante, Vertical valley, Punto orange, Patafunk",
+        "lineup": "Molotov, Consulado popular, Diamante elÃÂ©ctrico, Telebit, A.C.M.E, Larvante, Vertical valley, Punto orange, Patafunk",
         "headliner": "Molotov",
         "city": "Ibague Colombia",
         "marker-size": "",
@@ -128,7 +128,7 @@
     {
       "type": "Feature",
       "properties": {
-        "event": " Diamante Eléctrico en Smoking Molly",
+        "event": " Diamante Electrico en Smoking Molly",
         "venue": "Smoking Molly",
         "date": "2014-02-14",
         "capacity": 100,
@@ -152,7 +152,7 @@
       "type": "Feature",
       "properties": {
         "venue": "Bar la ventana",
-        "event": " Diamante Eléctrico en vivo en La Ventana",
+        "event": " Diamante Electrico en vivo en La Ventana",
         "date": "2014-05-22",
         "capacity": 150,
         "ocupation": 50,
@@ -176,7 +176,7 @@
       "type": "Feature",
       "properties": {
         "venue": "Latora 4 Brazos",
-        "event": " Diamante Eléctrico en Latora 4 Brazos",
+        "event": " Diamante Electrico en Latora 4 Brazos",
         "date": "2013-06-16",
         "capacity": 60,
         "price": 15000,
@@ -241,6 +241,76 @@
         "coordinates": [
           -118.261521,
           34.078506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "Diamante Electrico En La Villa",
+        "date": "2012-09-21",
+        "venue": "La Villa",
+        "marker-size": "",
+        "capacity": 500,
+        "ocupation": 50,
+        "price": 15000,
+        "founder": "NA",
+        "lineup": "NA",
+        "headliner": "Diamante Electrico",
+        "city": "Bogota, Colombia",
+        "added by": "johnbothia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.055142,
+          4.668901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "El Faro Pizzeria",
+        "event": "Diamante Electrico En concierto",
+        "date": "2015-09-04",
+        "capacity": 200,
+        "ocupation": "NA",
+        "price": 0,
+        "founder": "NA",
+        "lineup": "NA",
+        "headliner": "Diamante Electrico",
+        "city": "Cali, Colombia",
+        "added by": "johnbothia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.540886,
+          3.450821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "Festival Centro de Bogotá ",
+        "venue": "Fundación Gilberto Alzate Avendaño",
+        "date": "2013-01-15",
+        "price": 0,
+        "founder": "NA",
+        "lineup": "Diamante Electrico, Los Petiit Fellas, Arbol de Ojos",
+        "headliner": "Diamante Electrico",
+        "city": "Bogota, Colombia",
+        "added by": "johnbothia",
+        "ocupation": "NA",
+        "capacity": 430
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.073095,
+          4.597936
         ]
       }
     }
