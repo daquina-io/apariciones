@@ -156,7 +156,7 @@
         "date": "2014-09-09",
         "capacity": 150,
         "occupation": 50,
-        "lineup": "Reaccion Cadena, Ruidocracia y FicciÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n",
+        "lineup": "Reaccion Cadena, Ruidocracia y FicciÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n",
         "headliner": ""
       },
       "geometry": {
@@ -330,7 +330,7 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "TransfusiÃÂÃÂÃÂÃÂ³n Bar",
+        "venue": "TransfusiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n Bar",
         "city": "Medellin",
         "event": "El Suiche ",
         "date": "2015-09-23",
@@ -524,6 +524,44 @@
         "coordinates": [
           -75.57851314544676,
           6.200053530934435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Centro Colombo Americano",
+        "city": "Medellin",
+        "event": "El Suiche",
+        "date": "2006-08-09",
+        "capacity": "",
+        "occupation": "",
+        "lineup": "Lucrecia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56252717971802,
+          6.250053745027478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Centro Colombo Americano",
+        "city": "Medellin",
+        "event": "El Suiche",
+        "date": "2009-09-13",
+        "capacity": "",
+        "occupation": "",
+        "lineup": "Siete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56244134902954,
+          6.249904434076691
         ]
       }
     }
