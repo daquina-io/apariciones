@@ -1011,6 +1011,28 @@
           -12.208999
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "sanon jumbo country club",
+        "event": "privado",
+        "date": "2014-07-19T23:00:00",
+        "capacity": 300,
+        "occupation": 100,
+        "lineup": "fonseca",
+        "event_genres": "pop, tropipop",
+        "city": "barranquilla",
+        "headliner": "fonseca",
+        "marker-color": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.80417013168335,
+          11.005488464874706
+        ]
+      }
     }
   ]
 }
