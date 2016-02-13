@@ -26,7 +26,7 @@
       "type": "Feature",
       "properties": {
         "venue": "Palacio de los Deportes",
-        "event": "Gira ConexiÃÂÃÂÃÂÃÂ³n",
+        "event": "Gira Conexion",
         "date": "2015-12-04",
         "capacity": 5000,
         "occupation": 100,
@@ -47,7 +47,7 @@
       "type": "Feature",
       "properties": {
         "venue": "Palacio de los Deportes",
-        "event": "Gira ConexiÃÂÃÂÃÂÃÂ³n",
+        "event": "Gira Conexion",
         "date": "2015-12-05",
         "capacity": 5000,
         "occupation": 100,
@@ -68,7 +68,7 @@
       "type": "Feature",
       "properties": {
         "venue": "Plaza de Toros Cali",
-        "event": "Gira ConexiÃÂÃÂÃÂÃÂ³n",
+        "event": "Gira Conexion",
         "date": "2015-12-12",
         "capacity": 12000,
         "occupation": 100,
@@ -110,7 +110,7 @@
       "type": "Feature",
       "properties": {
         "venue": "Portico",
-        "event": "Fiesa fin de agno Caracol",
+        "event": "Fiesa fin de agno Caracol",
         "date": "2015-12-17",
         "capacity": 400,
         "occupation": 90,
@@ -131,7 +131,7 @@
       "type": "Feature",
       "properties": {
         "venue": "Plaza de Toros La macarena",
-        "event": "Gira ConexiÃÂÃÂÃÂÃÂ³n",
+        "event": "Gira Conexion",
         "date": "2015-12-19",
         "capacity": 12000,
         "occupation": 100,
@@ -153,7 +153,7 @@
       "properties": {
         "venue": "Expofuturo",
         "city": "Pereira",
-        "event": "Gira ConexiÃÂÃÂÃÂÃÂ³n",
+        "event": "Gira Conexion",
         "date": "2015-12-10",
         "capacity": 7000,
         "occupation": 90,
@@ -174,7 +174,7 @@
       "properties": {
         "venue": "Coliceo Bicentenario",
         "city": "Bucaramanga",
-        "event": "Gira ConexiÃÂÃÂÃÂÃÂ³n",
+        "event": "Gira Conexion",
         "date": "2015-12-18",
         "capacity": 7000,
         "occupation": 95,
@@ -195,7 +195,7 @@
       "properties": {
         "venue": "Parque Las Malocas",
         "city": "Villavicencio",
-        "event": "Gira ConexiÃÂÃÂÃÂÃÂ³n",
+        "event": "Gira Conexion",
         "date": "2015-12-17",
         "capacity": 7000,
         "occupation": 95,
@@ -298,7 +298,7 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "Anfiteatro Parque de la ExposiciÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n",
+        "venue": "Anfiteatro Parque de la Exposicion",
         "city": "Lima",
         "event": "Festival Claro 2015 ",
         "date": "2015-09-26",
@@ -363,7 +363,7 @@
       "properties": {
         "venue": "Gimnasio Moderno",
         "city": "Bogota",
-        "event": "Venta gira Gira ConexiÃÂÃÂÃÂÃÂ³nn Exito ",
+        "event": "Venta  Gira Conexion Exito ",
         "date": "2015-07-29",
         "capacity": 50,
         "occupation": 100,
@@ -382,7 +382,7 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "MuseÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Naval de la Citadelle",
+        "venue": "Museo Naval de la Citadelle",
         "city": "Saint Tropez",
         "event": "Privado Matrimonio ",
         "date": "2015-07-05",
@@ -405,12 +405,12 @@
       "properties": {
         "venue": "Centro De Eventos Valle Del Pacifico",
         "city": "Cali",
-        "event": "Fonseca SinfÃÂÃÂÃÂÃÂ³nico",
+        "event": "Fonseca Sinfonico",
         "date": "2015-05-22",
         "capacity": 8000,
         "occupation": 100,
         "lineup": "Fonseca sinfonico",
-        "headliner": "Fonseca SinfÃÂÃÂÃÂÃÂ³nico",
+        "headliner": "Fonseca Sinfonico",
         "event_genres": "pop, tropipop"
       },
       "geometry": {
@@ -429,7 +429,7 @@
         "marker-symbol": "",
         "venue": "Plaza Centro Convenciones Cartagena",
         "city": "Cartagena",
-        "event": "Gira ConexiÃÂÃÂÃÂÃÂ³n",
+        "event": "Gira Conexion",
         "date": "2015-12-29",
         "capacity": 5000,
         "occupation": 95,
@@ -474,7 +474,7 @@
         "marker-symbol": "",
         "venue": "Privado",
         "city": "Cartagena",
-        "event": "Fin de aÃÂÃÂÃÂÃÂ±o",
+        "event": "Fin de ano",
         "date": "2015-12-31",
         "capacity": 30,
         "occupation": 100,
@@ -494,7 +494,7 @@
       "type": "Feature",
       "properties": {
         "venue": "Plaza de Bolivar",
-        "event": "Gira ConexiÃÂÃÂÃÂÃÂ³n",
+        "event": "Gira Conexion",
         "date": "2016-01-03",
         "capacity": 8000,
         "occupation": 100,
@@ -514,8 +514,8 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "Parque CaracolÃÂÃÂÃÂÃÂ­",
-        "event": "CelebraciÃÂÃÂÃÂÃÂ³n Segundo Aniversario",
+        "venue": "Parque Caracoli",
+        "event": "Celebracion Segundo Aniversario",
         "date": "2015-06-11",
         "capacity": 800,
         "occupation": 100,
@@ -535,12 +535,12 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "Parque SimÃÂÃÂÃÂÃÂ³n Bolivar",
+        "venue": "Parque Simon Bolivar",
         "event": "Radio Fest",
         "date": "2015-05-09",
         "capacity": 50000,
         "occupation": 100,
-        "lineup": "Fonseca, Choc Quib Town, Efecto Pasillo, Manuel Medrano, Julieta Venegas, Noel Schajris, Mojito Lite,SebastiÃÂÃÂÃÂÃÂ¡n Yatra, Mike BahÃÂÃÂÃÂÃÂ­a, Gusi, Pedrina y RÃÂÃÂÃÂÃÂ­o, Maria Bestar, Jorge Villamizar",
+        "lineup": "Fonseca, Choc Quib Town, Efecto Pasillo, Manuel Medrano, Julieta Venegas, Noel Schajris, Mojito Lite,Sebastian Yatra, Mike Baha, Gusi, Pedrina y Rio, Maria Bestar, Jorge Villamizar",
         "city": "Bogota",
         "event_genres": "pop, tropipop"
       },
@@ -555,7 +555,7 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "CÃÂÃÂÃÂÃÂ¡mara de Ganaderos de San Carlos",
+        "venue": "Camara de Ganaderos de San Carlos",
         "event": "Expo San Carlos",
         "date": "2015-05-03",
         "capacity": 5000,
@@ -662,7 +662,7 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "Club HÃÂÃÂÃÂÃÂ­pico La Molina",
+        "venue": "Club Hipico La Molina",
         "event": "corporativo",
         "date": "2015-03-05",
         "capacity": 800,
@@ -689,7 +689,7 @@
         "date": "2015-02-21",
         "capacity": 2000,
         "occupation": 80,
-        "lineup": "Fonseca, Jose CaÃÂÃÂÃÂÃÂ±as",
+        "lineup": "Fonseca, Jose Canas",
         "headliner": "Fonseca",
         "city": "Ciudad de Guatemala",
         "event_genres": "pop, tropipop"
@@ -1009,6 +1009,70 @@
         "coordinates": [
           -77.021166,
           -12.208999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "sanon jumbo country club",
+        "event": "privado",
+        "date": "2014-07-19T23:00:00",
+        "capacity": 300,
+        "occupation": 100,
+        "lineup": "fonseca",
+        "event_genres": "pop, tropipop",
+        "city": "barranquilla",
+        "headliner": "fonseca",
+        "marker-color": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.80417013168335,
+          11.005488464874706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "powerade center",
+        "event": "el mega concierto latino",
+        "date": "2013-08-24T23:00:00",
+        "capacity": 3800,
+        "occupation": "NA",
+        "lineup": "fonseca, gilberto_santa_rosa, myrian_hernandez",
+        "event_genres": "pop, tropipop, salsa, romantica",
+        "city": "toronto",
+        "headliner": "gilberto_santa_rosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.708879,
+          43.667212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "estadio polideportivo sur",
+        "event": "concierto de conciertos",
+        "date": "2013-08-06T21:00:00",
+        "capacity": 20000,
+        "occupation": 100,
+        "lineup": "fonseca, ivan_ovalle, pipe_pelaez, andres_cepeda, marc_anthony, juan_gabriel",
+        "event_genres": "pop, tropipop, salsa, ranchera",
+        "city": "medellin",
+        "headliner": "juan_gabriel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59882283210754,
+          6.164651620159747
         ]
       }
     }
