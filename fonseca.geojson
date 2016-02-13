@@ -1033,6 +1033,27 @@
           11.005488464874706
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "powerade center",
+        "event": "el mega concierto latino",
+        "date": "2013-08-24T23:00:00",
+        "capacity": 3800,
+        "occupation": "NA",
+        "lineup": "fonseca, gilberto_santa_rosa, myrian_hernandez",
+        "event_genres": "pop, tropipop, salsa, romantica",
+        "city": "toronto",
+        "headliner": "gilberto_santa_rosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.708879,
+          43.667212
+        ]
+      }
     }
   ]
 }
