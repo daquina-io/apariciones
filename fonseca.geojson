@@ -1054,6 +1054,27 @@
           43.667212
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "estadio polideportivo sur",
+        "event": "concierto de conciertos",
+        "date": "2013-08-06T21:00:00",
+        "capacity": 20000,
+        "occupation": 100,
+        "lineup": "fonseca, ivan_ovalle, pipe_pelaez, andres_cepeda, marc_anthony, juan_gabriel",
+        "event_genres": "pop, tropipop, salsa, ranchera",
+        "city": "medellin",
+        "headliner": "juan_gabriel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59882283210754,
+          6.164651620159747
+        ]
+      }
     }
   ]
 }
