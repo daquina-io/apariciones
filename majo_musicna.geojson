@@ -72,6 +72,29 @@
           6.226156
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "added by": "johnbothia",
+        "city": "Medellin, Colombia",
+        "headliner": "Majo Musicna",
+        "lineup": "NA",
+        "founder": "NA",
+        "price": 5000,
+        "venue": "Cafe Zorba",
+        "event": "Bisoñando con VERDE - Sinergia Natural",
+        "date": "2015-03-04",
+        "capacity": 60,
+        "ocupation": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.570465,
+          6.208909
+        ]
+      }
     }
   ]
 }
