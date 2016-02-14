@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Teatro Lido",
+        "event": "24OCT BISOÑANDO en Agenda Cultural",
+        "date": "2015-10-24",
+        "capacity": 1100,
+        "ocupation": 10,
+        "price": 0,
+        "founder": "NA",
+        "lineup": "NA",
+        "headliner": "Majo Musicna",
+        "city": "Medellin, Colombia",
+        "added by": "johnbothia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.564569,
+          6.252647
+        ]
+      }
+    }
+  ]
+}
