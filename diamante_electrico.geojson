@@ -86,7 +86,7 @@
         "ocupation": "NA",
         "price": 92000,
         "founder": "NA",
-        "lineup": "Molotov, Consulado popular, Diamante elÃÂ©ctrico, Telebit, A.C.M.E, Larvante, Vertical valley, Punto orange, Patafunk",
+        "lineup": "Molotov, Consulado popular, Diamante elÃÂÃÂ©ctrico, Telebit, A.C.M.E, Larvante, Vertical valley, Punto orange, Patafunk",
         "headliner": "Molotov",
         "city": "Ibague Colombia",
         "marker-size": "",
@@ -294,14 +294,14 @@
     {
       "type": "Feature",
       "properties": {
-        "event": "Festival Centro de Bogotá ",
-        "venue": "Fundación Gilberto Alzate Avendaño",
+        "event": "Festival Centro de BogotÃ¡ ",
+        "venue": "FundaciÃ³n Gilberto Alzate AvendaÃ±o",
         "date": "2013-01-15",
         "price": 0,
         "founder": "NA",
         "lineup": "Diamante Electrico, Los Petiit Fellas, Arbol de Ojos",
         "headliner": "Diamante Electrico",
-        "city": "Bogota, Colombia",
+        "city": "Ciudad de Mexico, Mexico",
         "added by": "johnbothia",
         "ocupation": "NA",
         "capacity": 430
@@ -311,6 +311,29 @@
         "coordinates": [
           -74.073095,
           4.597936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Foro Sol",
+        "event": "Festival Vive Latino",
+        "date": "2014-03-29",
+        "capacity": 26000,
+        "ocupation": "NA",
+        "price": 580,
+        "founder": "NA",
+        "lineup": "Agora, Cadena Perpetua, Callate Mark, Calle 13, Carlos Méndez, Carmen Costa, Ceci Bastida, Chancha Vía Circuito, Dancing Mood, Daniela Spalla, De La Tierra, Diamante Eléctrico, Dr. Krápula, El Freaky, El Gran Silencio, Emir Kusturika & the No Smoking Orchestra, Gaia, Guadalupe Plata, Helado Negro, I Can Chase Dragons, Kraken, Little Jeus, Lori Meyers, Los Caligaris, Los Fascinantes, Los Marty, Los Tigres del Norte, Los Tiros, Luzbel, Maldita Vecindad y los Hijos del Quinto Patio, Motorama, Outernational, Primal Scream, Quantic, Rey Pila, Reyno, Schlachthofbronx, Siete Catorce, Sonido Martínez, Technicolor Fabrics, Twenty One Pilots, Yokozuna",
+        "city": "Bogota, Colombia",
+        "added by": "johnbothia",
+        "headliner": "NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.095548,
+          19.40639
         ]
       }
     }
