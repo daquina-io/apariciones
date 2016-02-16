@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Teatro Lido",
+        "event": "BISOÑANDO en Agenda Cultural",
+        "date": "2015-10-24",
+        "capacity": 1100,
+        "ocupation": 10,
+        "price": 0,
+        "founder": "NA",
+        "lineup": "NA",
+        "headliner": "Majo Musicna",
+        "city": "Medellin, Colombia",
+        "added by": "johnbothia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.564569,
+          6.252647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Casa Teatro el poblado",
+        "date": "2015-07-24",
+        "capacity": 156,
+        "ocupation": 50,
+        "price": 25000,
+        "founder": "NA",
+        "lineup": "NA",
+        "headliner": "Majo Musicna",
+        "city": "Medellin, Colombia",
+        "added by": "johnbothia",
+        "event": "Concierto de lanzamiento BISOÑANDO - MajoMusicna!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.580817,
+          6.188699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro La Polilla",
+        "event": "Bisoñando con PALO DE ROSA - Sinergia Natural",
+        "date": "2015-05-08",
+        "price": 15000,
+        "founder": "NA",
+        "lineup": "NA",
+        "headliner": "Majo Musicna",
+        "city": "Medellin, Colombia",
+        "added by": "johnbothia",
+        "capacity": 100,
+        "ocupation": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.597344,
+          6.226156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "added by": "johnbothia",
+        "city": "Medellin, Colombia",
+        "headliner": "Majo Musicna",
+        "lineup": "NA",
+        "founder": "NA",
+        "price": 5000,
+        "venue": "Cafe Zorba",
+        "event": "Bisoñando con VERDE - Sinergia Natural",
+        "date": "2015-03-04",
+        "capacity": 60,
+        "ocupation": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.570465,
+          6.208909
+        ]
+      }
+    }
+  ]
+}
