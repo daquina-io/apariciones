@@ -1180,6 +1180,27 @@
           -0.08789059053082422
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "teatro agora casa de la cultura",
+        "event": "ilusion world tour",
+        "date": "2013-06-13T22:00:00",
+        "capacity": 4500,
+        "occupation": 80,
+        "lineup": "fonseca",
+        "event_genres": "pop, tropipop",
+        "city": "quito",
+        "headliner": "fonseca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.495364,
+          -0.209357
+        ]
+      }
     }
   ]
 }
