@@ -1138,6 +1138,27 @@
           -7.972197714386866
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "forum valencia",
+        "event": "ilusion word tour",
+        "date": "2013-06-21T22:00:00",
+        "capacity": 8000,
+        "occupation": 100,
+        "lineup": "fonseca, oscarcito, tecupae",
+        "event_genres": "pop, tropipop",
+        "city": "valencia",
+        "headliner": "fonseca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.942945,
+          10.155854
+        ]
+      }
     }
   ]
 }
