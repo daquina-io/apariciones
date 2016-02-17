@@ -1143,7 +1143,7 @@
       "type": "Feature",
       "properties": {
         "venue": "forum valencia",
-        "event": "ilusion word tour",
+        "event": "ilusion world tour",
         "date": "2013-06-21T22:00:00",
         "capacity": 8000,
         "occupation": 100,
@@ -1157,6 +1157,27 @@
         "coordinates": [
           -67.942945,
           10.155854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lineup": "fonseca",
+        "venue": "ccct caracas",
+        "event": "ilusion world tour",
+        "date": "2013-06-22T22:00:000",
+        "capacity": 3000,
+        "occupation": 100,
+        "event_genres": "pop, tropipop",
+        "city": "caracas",
+        "headliner": "fonseca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.59765625,
+          -0.08789059053082422
         ]
       }
     }
