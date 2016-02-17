@@ -1075,6 +1075,69 @@
           6.164651620159747
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "mgm foxwood theatre",
+        "date": "2013-07-19T21:00:00",
+        "event": "",
+        "capacity": 3000,
+        "lineup": "fonseca",
+        "event_genres": "pop, tropipop",
+        "occupation": 40,
+        "city": "foxwoods",
+        "headliner": "fonseca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.963987,
+          41.477577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Caracas",
+        "event": "privado",
+        "date": "2013-07-20T23:00:00",
+        "capacity": 200,
+        "occupation": 100,
+        "lineup": "fonseca",
+        "event_genres": "pop, tropipop",
+        "city": "caracas",
+        "headliner": "fonseca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.94793701171875,
+          10.477008906900293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "sun life stadium",
+        "event": "fiesta independencia colombia",
+        "date": "2013-07-21T14:00:00",
+        "capacity": 10000,
+        "occupation": 100,
+        "lineup": "kenny williams, plan b, zacarias ferreira, fonseca, silvestre dangond, grupo niche and jorge celedon",
+        "event_genres": "pop, tropipop, bachata",
+        "city": "miami",
+        "headliner": "jorge_celedon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.896484375,
+          -7.972197714386866
+        ]
+      }
     }
   ]
 }
