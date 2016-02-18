@@ -8,7 +8,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "venue": "Teatro Lido",
-        "event": "BISOÑANDO en Agenda Cultural",
+        "event": "BISOÃANDO en Agenda Cultural",
         "date": "2015-10-24",
         "capacity": 1100,
         "ocupation": 10,
@@ -40,7 +40,7 @@
         "headliner": "Majo Musicna",
         "city": "Medellin, Colombia",
         "added by": "johnbothia",
-        "event": "Concierto de lanzamiento BISOÑANDO - MajoMusicna!"
+        "event": "Concierto de lanzamiento BISOÃANDO - MajoMusicna!"
       },
       "geometry": {
         "type": "Point",
@@ -54,7 +54,7 @@
       "type": "Feature",
       "properties": {
         "venue": "Teatro La Polilla",
-        "event": "Bisoñando con PALO DE ROSA - Sinergia Natural",
+        "event": "BisoÃ±ando con PALO DE ROSA - Sinergia Natural",
         "date": "2015-05-08",
         "price": 15000,
         "founder": "NA",
@@ -83,7 +83,7 @@
         "founder": "NA",
         "price": 5000,
         "venue": "Cafe Zorba",
-        "event": "Bisoñando con VERDE - Sinergia Natural",
+        "event": "BisoÃ±ando con VERDE - Sinergia Natural",
         "date": "2015-03-04",
         "capacity": 60,
         "ocupation": 10
@@ -93,6 +93,29 @@
         "coordinates": [
           -75.570465,
           6.208909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Placebo Coffee Bar",
+        "event": "Bisonando con Carmesi",
+        "date": "2015-01-15",
+        "marker-size": "",
+        "capacity": 80,
+        "ocupation": 90,
+        "founder": "NA",
+        "lineup": "NA",
+        "city": "Sta Helena, Antioquia, Colombia",
+        "added by": "johnbothia",
+        "headliner": "Majo Musicna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.491301,
+          6.227697
         ]
       }
     }
