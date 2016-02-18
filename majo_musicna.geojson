@@ -124,7 +124,7 @@
       "type": "Feature",
       "properties": {
         "venue": "afé Teatro Pablo Tobón",
-        "event": " Bisonando con INDIGO - Sinergia Natural",
+        "event": "Bisonando con INDIGO - Sinergia Natural",
         "date": "2014-10-23",
         "capacity": 100,
         "ocupation": 50,
@@ -141,6 +141,29 @@
         "coordinates": [
           -75.559519,
           6.247857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Arte Vivo ",
+        "event": "Hagamos un trio",
+        "founder": "NA",
+        "lineup": "Monica Zuluaga, Majo Musicna, Duneskha",
+        "headliner": "Monica Zulaga",
+        "city": "Medellin, Colombia",
+        "added by": "johnbothia",
+        "date": "2015-12-13",
+        "price": 12000,
+        "ocupation": 100,
+        "capacity": 100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.571973,
+          6.210522
         ]
       }
     }
