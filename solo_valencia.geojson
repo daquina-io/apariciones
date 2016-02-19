@@ -9,12 +9,12 @@
         "marker-symbol": "",
         "venue": "Tinto Tintero cafe bar",
         "event": "Solo Valencia en vivo",
-        "date": "2012-09-12",
+        "date": "2012-09-01",
         "capacity": 50,
         "ocupation": "NA",
-        "price": 0,
+        "price": "NA",
         "founder": "NA",
-        "lineup": "NA",
+        "lineup": "Solo Valencia",
         "headliner": "Solo Valencia",
         "city": "Medellin, Colombia",
         "added by": "johnbothia"
@@ -24,6 +24,31 @@
         "coordinates": [
           -75.58893,
           6.30769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Plaza mayor",
+        "event": "Clasificatorios Festival Altavoz",
+        "date": "2012-09-08",
+        "capacity": 3000,
+        "ocupation": "NA",
+        "price": 0,
+        "founder": "NA",
+        "lineup": "NA",
+        "headliner": "NA",
+        "city": "Medellin, Colombia",
+        "added by": "johnbothia",
+        "marker-size": "medium",
+        "marker-color": "#7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58884501457214,
+          6.307615264304805
         ]
       }
     }
