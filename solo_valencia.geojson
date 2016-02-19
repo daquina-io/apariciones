@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Tinto Tintero cafe bar",
+        "event": "Solo Valencia en vivo",
+        "date": "2012-09-12",
+        "capacity": 50,
+        "ocupation": "NA",
+        "price": 0,
+        "founder": "NA",
+        "lineup": "NA",
+        "headliner": "Solo Valencia",
+        "city": "Medellin, Colombia",
+        "added by": "johnbothia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58893,
+          6.30769
+        ]
+      }
+    }
+  ]
+}
