@@ -177,6 +177,56 @@
           4.595658
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-color": "#7e7e7e",
+        "venue": "Cafe rec Bar",
+        "event": "Gira Bien Vivo",
+        "date": "2014-04-25",
+        "capacity": 30,
+        "ocupation": "NA",
+        "price": "NA",
+        "founder": "NA",
+        "headliner": "Solo Valencia",
+        "city": "Bogotá, Colombia",
+        "added by": "johnbothia",
+        "lineup": "NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.07244,
+          4.595658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "venue": "Bolon de Verde",
+        "event": "Gira Bien Vivo",
+        "date": "2014-04-26",
+        "capacity": 30,
+        "ocupation": "NA",
+        "price": "NA",
+        "founder": "NA",
+        "lineup": "NA",
+        "city": "Bogotá, Colombia",
+        "headliner": "Solo Valencia",
+        "added by": "johnbothia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.53125,
+          9.535748998133615
+        ]
+      }
     }
   ]
 }
