@@ -8,7 +8,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "venue": "Teatro Lido",
-        "event": "BISOÃANDO en Agenda Cultural",
+        "event": "BISOÃÂANDO en Agenda Cultural",
         "date": "2015-10-24",
         "capacity": 1100,
         "ocupation": 10,
@@ -40,7 +40,7 @@
         "headliner": "Majo Musicna",
         "city": "Medellin, Colombia",
         "added by": "johnbothia",
-        "event": "Concierto de lanzamiento BISOÃANDO - MajoMusicna!"
+        "event": "Concierto de lanzamiento BISOÃÂANDO - MajoMusicna!"
       },
       "geometry": {
         "type": "Point",
@@ -54,7 +54,7 @@
       "type": "Feature",
       "properties": {
         "venue": "Teatro La Polilla",
-        "event": "BisoÃ±ando con PALO DE ROSA - Sinergia Natural",
+        "event": "BisoÃÂ±ando con PALO DE ROSA - Sinergia Natural",
         "date": "2015-05-08",
         "price": 15000,
         "founder": "NA",
@@ -83,7 +83,7 @@
         "founder": "NA",
         "price": 5000,
         "venue": "Cafe Zorba",
-        "event": "BisoÃ±ando con VERDE - Sinergia Natural",
+        "event": "BisoÃÂ±ando con VERDE - Sinergia Natural",
         "date": "2015-03-04",
         "capacity": 60,
         "ocupation": 10
@@ -123,7 +123,7 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "afé Teatro Pablo Tobón",
+        "venue": "afÃ© Teatro Pablo TobÃ³n",
         "event": "Bisonando con INDIGO - Sinergia Natural",
         "date": "2014-10-23",
         "capacity": 100,
@@ -164,6 +164,102 @@
         "coordinates": [
           -75.571973,
           6.210522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Majo Musicna en Bogotá",
+        "event": "peña de mujeres",
+        "date": "2015-07-25",
+        "capacity": 430,
+        "ocupation": 10,
+        "price": 0,
+        "founder": "NA",
+        "lineup": "Majo Musicna",
+        "headliner": "NA",
+        "city": "Bogotá, Colombia",
+        "added by": "johnbothia",
+        "marker-size": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.072623,
+          4.596418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "added by": "johnbothia",
+        "city": "Medellin, Colombia",
+        "headliner": "Juan Suarez",
+        "lineup": "Majo Musicna, Juan Suarez",
+        "founder": "NA",
+        "price": "12.000 ",
+        "ocupation": 50,
+        "capacity": 150,
+        "date": "2012-10-06",
+        "event": "Majo y Juan Suarez en conciertpo",
+        "marker-symbol": "",
+        "venue": "teatro Acción Impro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.572763,
+          6.211764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "Majo y Alejo Garcia en Concierto!",
+        "date": "2012-07-02",
+        "added by": "johnbothia",
+        "city": "Bello, Antioquia, Colombia",
+        "lineup": "Majo Musicna, Alejo García",
+        "headliner": "Alejo García",
+        "venue": "Casa Gestos",
+        "marker-symbol": "",
+        "capacity": 60,
+        "ocupation": 90,
+        "price": 0,
+        "founder": "NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.560569,
+          6.33357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Lido",
+        "event": "Majo Musicna acompañando a Saficas",
+        "date": "2012-07-28",
+        "capacity": 1100,
+        "ocupation": 10,
+        "price": 0,
+        "founder": "NA",
+        "lineup": "Majo Musicna, Saficas",
+        "headliner": "Saficas",
+        "city": "Medellin, Colombia",
+        "added by": "johnbothia",
+        "marker-size": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.564569,
+          6.252647
         ]
       }
     }
