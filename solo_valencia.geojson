@@ -76,6 +76,31 @@
           6.270909
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-color": "#7e7e7e",
+        "event": "Canciones de la Selva",
+        "venue": "Teatro Accion Impro",
+        "date": "2015-06-16",
+        "capacity": 150,
+        "ocupation": 100,
+        "price": 17000,
+        "founder": "NA",
+        "lineup": "Solo Valencia",
+        "headliner": "Solo Valencia",
+        "city": "Medellin, Colombia",
+        "added by": "johnbothia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.572166,
+          6.210783
+        ]
+      }
     }
   ]
 }
