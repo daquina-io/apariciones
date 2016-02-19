@@ -227,6 +227,31 @@
           9.535748998133615
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "venue": "Tres Cordilleras",
+        "event": "Gira Bien Vivo",
+        "founder": "NA",
+        "lineup": "NA",
+        "headliner": "Solo Valencia",
+        "city": "Medellin, Colombia",
+        "added by": "johnbothia",
+        "price": 25000,
+        "capacity": 100,
+        "date": "2014-06-06",
+        "ocupation": 50
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.572084,
+          6.231185
+        ]
+      }
     }
   ]
 }
