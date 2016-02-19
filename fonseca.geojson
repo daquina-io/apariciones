@@ -1207,7 +1207,7 @@
       "properties": {
         "venue": "centro de convenciones guayaquil",
         "event": "ilusion wolrd tour",
-        "date": "2013-06-14T22:00:00",
+        "date": "2013-06-14 22:00:00",
         "capacity": 4000,
         "occupation": 80,
         "lineup": "fonseca",
