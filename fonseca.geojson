@@ -1219,8 +1219,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.2890625,
-          -4.302591077119676
+          -79.88734,
+          -2.157636
         ]
       }
     },
@@ -1263,6 +1263,27 @@
         "coordinates": [
           -78.638639,
           -1.255193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "estadio olimpico ibarra",
+        "event": "ilusion world tour",
+        "date": "2013-05-18 T 22:00:00",
+        "capacity": 8000,
+        "occupation": 100,
+        "lineup": "fonseca",
+        "event_genres": "pop, tropipop",
+        "city": "ibarra",
+        "headliner": "fonseca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.118313,
+          0.359982
         ]
       }
     }
