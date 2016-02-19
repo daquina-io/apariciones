@@ -117,13 +117,64 @@
         "headliner": "Solo Valencia",
         "city": "Medellin, Colombia",
         "added by": "johnbothia",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "founder": "NA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -75.593268,
           6.244132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Hamburgueseria la 85",
+        "event": "Gira Bien Vivo",
+        "date": "2014-04-23",
+        "capacity": 160,
+        "ocupation": 50,
+        "price": "NA",
+        "founder": "NA",
+        "lineup": "NA",
+        "headliner": "Solo Valencia",
+        "city": "Bogotá, Colombia",
+        "added by": "johnbothia",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.053143,
+          4.669652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "added by": "johnbothia",
+        "city": "Bogotá, Colombia",
+        "headliner": "Solo Valencia",
+        "price": 0,
+        "ocupation": "NA",
+        "capacity": 430,
+        "date": "2014-04-23",
+        "venue": "Fundación Gilberto Alzate Avendaño ",
+        "event": "Gira Bien Vivo",
+        "lineup": "NA",
+        "founder": "NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.07244,
+          4.595658
         ]
       }
     }
