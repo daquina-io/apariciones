@@ -1134,8 +1134,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.896484375,
-          -7.972197714386866
+          -80.24151,
+          25.95677
         ]
       }
     },
@@ -1207,7 +1207,7 @@
       "properties": {
         "venue": "centro de convenciones guayaquil",
         "event": "ilusion wolrd tour",
-        "date": "2013-06-14 22:00:00",
+        "date": "2013-06-14T 22:00:00",
         "capacity": 4000,
         "occupation": 80,
         "lineup": "fonseca",
@@ -1221,6 +1221,27 @@
         "coordinates": [
           -76.2890625,
           -4.302591077119676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "parque central sucumbios",
+        "event": "ilusion world tour",
+        "date": "2013-06-08T22:00:00",
+        "capacity": 5000,
+        "occupation": 100,
+        "lineup": "fonseca",
+        "event_genres": "pop, tropipop",
+        "city": "nueva loja",
+        "headliner": "fonseca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88337,
+          0.084945
         ]
       }
     }
