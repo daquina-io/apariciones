@@ -95,6 +95,27 @@
           4.683854
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Parque deportivo 222",
+        "event": "MUSE",
+        "date": "2015-10-27T20:00:00",
+        "capacity": "30000",
+        "occupation": "100",
+        "lineup": "MUSE , TELEBIT , PUERTAS",
+        "founder": "HUAWEI",
+        "headliner": "MUSE",
+        "city": "Bogota"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.037417,
+          4.801032
+        ]
+      }
     }
   ]
 }
