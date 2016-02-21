@@ -25,15 +25,21 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#009efd",
-        "marker-size": "medium",
-        "marker-symbol": ""
+        "venue": "Bourbon St.",
+        "event": "Particular",
+        "date": "2016-01-15",
+        "capacity": "NA",
+        "occupation": "100",
+        "lineup": "TELEBIT , OH´LAVILLE , THE CRANKERS",
+        "founder": "NA",
+        "headliner": "TELEBIT",
+        "city": "Barranquilla"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.5859375,
-          6.249776453227831
+          -74.809393,
+          11.005059
         ]
       }
     }
