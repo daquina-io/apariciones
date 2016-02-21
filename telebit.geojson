@@ -4,40 +4,116 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "Parque Simon Bolivar",
-        "event": "Rock al Parque 1997",
-        "date": "1997-05-30",
-        "capacity": 30000,
-        "occupation": 100,
-        "lineup": "grupos que participaron separados por coma",
-        "added_by": "son0p",
-        "founder": "Opcional: Quien puso el dinero",
-        "headliner": "Fonseca",
-        "city": "Managua",
-        "marker-color": "#0366fa",
-        "marker-size": "medium",
-        "marker-symbol": ""
+        "venue": "Playaca, Taganga",
+        "event": "El Toque del SABADO",
+        "date": "2016-01-16",
+        "capacity": "NA",
+        "occupation": "NA",
+        "lineup": "1280 ALMAS , TELEBIT, OH´LAVILLE , MADTIME , THE JAMES",
+        "founder": "NA",
+        "headliner": "1280 ALMAS",
+        "city": "taganga"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.212646484375,
-          4.915832801313164
+          -74.197102,
+          11.26183
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#009efd",
-        "marker-size": "medium",
-        "marker-symbol": ""
+        "venue": "Bourbon St.",
+        "event": "Particular",
+        "date": "2016-01-15",
+        "capacity": "NA",
+        "occupation": "100",
+        "lineup": "TELEBIT , OH´LAVILLE , THE CRANKERS",
+        "founder": "NA",
+        "headliner": "TELEBIT",
+        "city": "Barranquilla"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.5859375,
-          6.249776453227831
+          -74.809393,
+          11.005059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Capital Music Fest",
+        "event": "Gira Doce Vientos",
+        "date": "2015-12-20",
+        "capacity": "15000",
+        "occupation": "100",
+        "lineup": "consulado popular, telebit, diamante_eléctrico, vertical_valley,  pata_funk,  larvante, punto_orange , a.c.m.e",
+        "founder": "NA",
+        "headliner": "MOLOTOV",
+        "city": "Ibague"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.202375,
+          4.441937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06275928020477,
+          4.653117345437156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Nacional Castellana",
+        "event": "Gira Doce Vientos",
+        "date": "2015-11-25",
+        "capacity": "NA",
+        "occupation": "NA",
+        "lineup": "TELEBIT , Burning Caravan",
+        "founder": "NA",
+        "headliner": "TELEBIT",
+        "city": "Bogota"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.060023,
+          4.683854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Parque deportivo 222",
+        "event": "MUSE",
+        "date": "2015-10-27T20:00:00",
+        "capacity": "30000",
+        "occupation": "100",
+        "lineup": "MUSE , TELEBIT , PUERTAS",
+        "founder": "HUAWEI",
+        "headliner": "MUSE",
+        "city": "Bogota"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.037417,
+          4.801032
         ]
       }
     }
