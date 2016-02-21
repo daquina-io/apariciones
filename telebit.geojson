@@ -74,6 +74,27 @@
           4.653117345437156
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Nacional Castellana",
+        "event": "Gira Doce Vientos",
+        "date": "2015-11-25",
+        "capacity": "NA",
+        "occupation": "NA",
+        "lineup": "TELEBIT , Burning Caravan",
+        "founder": "NA",
+        "headliner": "TELEBIT",
+        "city": "Bogota"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.060023,
+          4.683854
+        ]
+      }
     }
   ]
 }
