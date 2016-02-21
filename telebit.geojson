@@ -42,6 +42,27 @@
           11.005059
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Capital Music Fest",
+        "event": "Gira Doce Vientos",
+        "date": "2015-12-20",
+        "capacity": "15000",
+        "occupation": "100",
+        "lineup": "consulado popular, telebit, diamante_eléctrico, vertical_valley,  pata_funk,  larvante, punto_orange , a.c.m.e",
+        "founder": "NA",
+        "headliner": "MOLOTOV",
+        "city": "Ibague"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.202375,
+          4.441937
+        ]
+      }
     }
   ]
 }
