@@ -1286,6 +1286,28 @@
           0.359982
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "teatro mayor julio mario santodomingo",
+        "event": "fundacion prema",
+        "date": "2016-02-22 T 20:00:00",
+        "capacity": 1300,
+        "occupation": 100,
+        "lineup": "fonseca",
+        "event_genres": "sinfonico, pop",
+        "city": "bogota",
+        "headliner": "fonseca",
+        "marker-color": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06283974647522,
+          4.756766856353479
+        ]
+      }
     }
   ]
 }
