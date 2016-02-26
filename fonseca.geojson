@@ -1329,6 +1329,28 @@
           34.0444711
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "the regency ballroom",
+        "event": "ilusion world tour",
+        "date": "2013-05-11 T 22:00:00",
+        "capacity": 2325,
+        "occupation": 80,
+        "lineup": "fonseca",
+        "event_genres": "pop, tropipop",
+        "city": "san fransico",
+        "headliner": "fonseca",
+        "marker-color": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4215762,
+          37.7878176
+        ]
+      }
     }
   ]
 }
