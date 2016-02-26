@@ -1351,6 +1351,27 @@
           37.7878176
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "meydenbauer center",
+        "event": "ilusion world tour",
+        "date": "2013-05-12 T 22:00:00",
+        "capacity": 750,
+        "occupation": 80,
+        "lineup": "fonseca",
+        "event_genres": "pop, tropipop",
+        "city": "Bellevue Washington",
+        "headliner": "fonseca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.19193,
+          47.61635
+        ]
+      }
     }
   ]
 }
