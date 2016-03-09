@@ -29,6 +29,35 @@
           6.214004581047317
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "La cupula",
+        "event": "Desde New York Skelptarsis",
+        "date": "2015-11-06",
+        "capacity": 200,
+        "occupation": 100,
+        "lineup": "Mundo Depresivo, Stelptarsis, Grinding, Kolapso Social, Krujido",
+        "event_genres": "Grindcore, Death Metal, Trash, HC Punk, Hard Core",
+        "added_by": "antropomorfa",
+        "founder": "",
+        "headliner": "",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56266665458679,
+          6.252917307515289
+        ]
+      }
     }
   ]
 }
