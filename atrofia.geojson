@@ -59,6 +59,35 @@
           6.226686063352051
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Enciso",
+        "event": "Festival X la ekidad y la solidaridad Vol8",
+        "date": "2015-08-22",
+        "capacity": "700",
+        "occupation": "70",
+        "lineup": "No futuro, Devenir, Atrofia, Estado de Guerra, P.D.T, Restriccion, Sociedad Dekadente, Provocacion",
+        "link": "",
+        "added_by": "antropomorfa",
+        "founder": "",
+        "headliner": "",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.54775357246398,
+          6.249456500968689
+        ]
+      }
     }
   ]
 }
