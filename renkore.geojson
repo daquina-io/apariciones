@@ -86,6 +86,34 @@
           6.336454944694215
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "Escuela de odio en Medellin",
+        "date": "2015-09-18",
+        "capacity": 200,
+        "occupation": "",
+        "price": "",
+        "lineup": "Renkore, Escuela de Odio, the dyeless, vehemente ",
+        "headliner": "",
+        "link": " ",
+        "added_by": "antropomorfa",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56461930274963,
+          6.244550541833757
+        ]
+      }
     }
   ]
 }
