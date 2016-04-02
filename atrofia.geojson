@@ -29,6 +29,36 @@
           6.244518546297182
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Barrio Antioquia",
+        "event": "Rock a la escuela",
+        "date": "2015-01-23",
+        "capacity": "400",
+        "occupation": "80",
+        "lineup": "KDH, pichurrias punk, ALKOHOLEMIA Punk, Atrofia, Casi Nada, Surfídrico Surf , Betados, Calibre 38, DESERCION, HIJUEPUNK, LA MISMA PORKERIA, Los Suziox,Unos Vagabundos",
+        "gners": "punk rock, hard core, punk HC",
+        "link": "",
+        "added_by": "antropomorfa",
+        "founder": "",
+        "headliner": "",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58124899864197,
+          6.226686063352051
+        ]
+      }
     }
   ]
 }
