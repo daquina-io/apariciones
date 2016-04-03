@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "test": "ñoño"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4140625,
+          34.016241889667015
+        ]
+      }
+    }
+  ]
+}
