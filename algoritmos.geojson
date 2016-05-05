@@ -9,11 +9,11 @@
         "marker-symbol": "",
         "venue": "Teatro Pedregal",
         "date": "2015-08-01",
-        "founder": "Medellin Vive La Música",
+        "founder": "Medellín Vive La Música",
         "price": 0,
         "capacity": 15,
         "occupation": 0,
-        "event": "Divulgación"
+        "event": "DivulgaciÃ³n"
       },
       "geometry": {
         "type": "Point",
@@ -29,10 +29,10 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "venue": "Transfusión",
+        "venue": "TransfusiÃ³n",
         "date": "2015-08-19",
         "event": "El Suiche",
-        "lineup": "Niño Negro, La Vulva, Sonanbulo",
+        "lineup": "NiÃ±o Negro, La Vulva, Sonanbulo",
         "founder": "El Suiche",
         "price": 0,
         "occupation": 20,
@@ -55,7 +55,7 @@
         "venue": "Casa Tres Patios",
         "date": "2015-08-15",
         "event": "Un/Loquer",
-        "founder": "Medellin Vive La Música",
+        "founder": "Medellin Vive La MÃºsica",
         "price": 0,
         "occupation": 7,
         "capacity": 15
@@ -80,7 +80,7 @@
         "capacity": 10,
         "occupation": 100,
         "price": 0,
-        "founder": "Medellin Vive La Música"
+        "founder": "Medellin Vive La MÃºsica"
       },
       "geometry": {
         "type": "Point",
@@ -102,7 +102,7 @@
         "capacity": 10,
         "occupation": 10,
         "price": 0,
-        "founder": "Medellin Vive La Música"
+        "founder": "Medellin Vive La MÃºsica"
       },
       "geometry": {
         "type": "Point",
@@ -119,11 +119,11 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "venue": "Planetario de Medellin",
-        "event": "Lanzamiento Medellin Vive La Música",
+        "event": "Lanzamiento Medellin Vive La MÃºsica",
         "capacity": 300,
         "occupation": 30,
         "price": 0,
-        "founder": "Medellin vive La Música",
+        "founder": "Medellin vive La MÃºsica",
         "date": "2014-05-09"
       },
       "geometry": {
@@ -143,7 +143,7 @@
         "price": 0,
         "capacity": 20,
         "occupation": 18,
-        "event": "Invitación Viviana Ramirez",
+        "event": "InvitaciÃ³n Viviana Ramirez",
         "lineup": ""
       },
       "geometry": {
