@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": Casa Teatro El Poblado,
-    "event": Montecarlo. Montecarlo en privado. Conmemoración día de la mujer,
-    "date": 2014-03-07 T 20:00:00,
+    "event": Andres Marcell,
+    "date": 2015-08-01 T 20:00:00,
     "capacity": 156,
-    "occupation": 156,
-    "event_genres": coral,
-    "lineup": montecarlo,
-    "headliner": Montecarlo,
+    "occupation": 15,
+    "event_genres": rock,
+    "lineup": andres_marcell,
+    "headliner": andres_marcell,
     "city": medellin
   },
   "geometry": {

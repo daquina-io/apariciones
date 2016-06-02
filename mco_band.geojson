@@ -3,13 +3,15 @@
   "properties":
   {
     "venue": Casa Teatro El Poblado,
-    "event": Montecarlo. Montecarlo en privado. Conmemoración día de la mujer,
-    "date": 2014-03-07 T 20:00:00,
+    "event": MCO Band. 
+Jazz Fusion
+Concierto,
+    "date": 2014-08-08 T 20:00:00,
     "capacity": 156,
-    "occupation": 156,
-    "event_genres": coral,
-    "lineup": montecarlo,
-    "headliner": Montecarlo,
+    "occupation": 32,
+    "event_genres": jazz,
+    "lineup": mco_band,
+    "headliner": mco_band,
     "city": medellin
   },
   "geometry": {

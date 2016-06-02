@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": Casa Teatro El Poblado,
-    "event": Montecarlo. Montecarlo en privado. Conmemoración día de la mujer,
-    "date": 2014-03-07 T 20:00:00,
+    "event": Merlotte y Grettel en concierto,
+    "date": 2015-03-21 T 19:30:00,
     "capacity": 156,
     "occupation": 156,
-    "event_genres": coral,
-    "lineup": montecarlo,
-    "headliner": Montecarlo,
+    "event_genres": rock, jrock,
+    "lineup": merlotte,
+    "headliner": merlotte,
     "city": medellin
   },
   "geometry": {

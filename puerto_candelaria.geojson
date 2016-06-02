@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": Casa Teatro El Poblado,
-    "event": Montecarlo. Montecarlo en privado. Conmemoración día de la mujer,
-    "date": 2014-03-07 T 20:00:00,
+    "event": Puerto Candelaria Halloween. Pachanga de ultratumba,
+    "date": 2015-10-31 T 20:00:00,
     "capacity": 156,
-    "occupation": 156,
-    "event_genres": coral,
-    "lineup": montecarlo,
-    "headliner": Montecarlo,
+    "occupation": 223,
+    "event_genres": latinjazz,
+    "lineup": puerto_candelaria,
+    "headliner": puerto_candelaria,
     "city": medellin
   },
   "geometry": {

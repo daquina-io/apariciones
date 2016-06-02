@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": Casa Teatro El Poblado,
-    "event": Montecarlo. Montecarlo en privado. Conmemoración día de la mujer,
-    "date": 2014-03-07 T 20:00:00,
+    "event": Música Corriente. Uh la lá,
+    "date": 2015-10-30 T 20:00:00,
     "capacity": 156,
-    "occupation": 156,
-    "event_genres": coral,
-    "lineup": montecarlo,
-    "headliner": Montecarlo,
+    "occupation": 77,
+    "event_genres": ,
+    "lineup": uh_la_lá,
+    "headliner": uh_la_lá,
     "city": medellin
   },
   "geometry": {

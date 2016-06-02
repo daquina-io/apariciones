@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": Casa Teatro El Poblado,
-    "event": Montecarlo. Montecarlo en privado. Conmemoración día de la mujer,
-    "date": 2014-03-07 T 20:00:00,
+    "event": Red de escuelas de música.,
+    "date": 2013-10-19 T 17:00:00,
     "capacity": 156,
-    "occupation": 156,
-    "event_genres": coral,
-    "lineup": montecarlo,
-    "headliner": Montecarlo,
+    "occupation": 130,
+    "event_genres": flamenco,
+    "lineup": red_de_escuelas_de_musica.,
+    "headliner": Red de escuelas de música.,
     "city": medellin
   },
   "geometry": {

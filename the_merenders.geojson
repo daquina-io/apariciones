@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": Casa Teatro El Poblado,
-    "event": Montecarlo. Montecarlo en privado. Conmemoración día de la mujer,
-    "date": 2014-03-07 T 20:00:00,
+    "event": Velitas. Concierto The Merenders,
+    "date": 2015-12-07 T 17:30:00,
     "capacity": 156,
-    "occupation": 156,
-    "event_genres": coral,
-    "lineup": montecarlo,
-    "headliner": Montecarlo,
+    "occupation": 132,
+    "event_genres": ,
+    "lineup": the_merenders,
+    "headliner": the_merenders,
     "city": medellin
   },
   "geometry": {

@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": Casa Teatro El Poblado,
-    "event": Montecarlo. Montecarlo en privado. Conmemoración día de la mujer,
-    "date": 2014-03-07 T 20:00:00,
+    "event": Triciclo. Gipsy jazz,
+    "date": 2014-05-09 T 20:00:00,
     "capacity": 156,
-    "occupation": 156,
-    "event_genres": coral,
-    "lineup": montecarlo,
-    "headliner": Montecarlo,
+    "occupation": 24,
+    "event_genres": jazz,
+    "lineup": gipsy_jazz,
+    "headliner": gipsy_jazz,
     "city": medellin
   },
   "geometry": {

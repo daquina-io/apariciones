@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": Casa Teatro El Poblado,
-    "event": Montecarlo. Montecarlo en privado. Conmemoración día de la mujer,
-    "date": 2014-03-07 T 20:00:00,
+    "event": Revoludos y Autor Anónimo. Concierto (Rock),
+    "date": 2013-12-06 T 19:30:00,
     "capacity": 156,
-    "occupation": 156,
-    "event_genres": coral,
-    "lineup": montecarlo,
-    "headliner": Montecarlo,
+    "occupation": 63,
+    "event_genres": rock,
+    "lineup": autor_anonimo,
+    "headliner": Revoludos y Autor Anónimo,
     "city": medellin
   },
   "geometry": {

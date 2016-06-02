@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": Casa Teatro El Poblado,
+    "event": Fundación Música de Cámara. Academia Filarmónica de Medellín,
+    "date": 2015-05-30 T 18:00:00,
+    "capacity": 156,
+    "occupation": 74,
+    "event_genres": camara,
+    "lineup": fundación_música_de_cámara,
+    "headliner": fundación_música_de_cámara,
+    "city": medellin
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": -75.58072328567505, 6.18831537756351
+  }
+}

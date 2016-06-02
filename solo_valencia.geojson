@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": Casa Teatro El Poblado,
-    "event": Montecarlo. Montecarlo en privado. Conmemoración día de la mujer,
-    "date": 2014-03-07 T 20:00:00,
+    "event": Concierto de celebración Dime tú. Solo Valencia,
+    "date": 2015-12-01 T 20:00:00,
     "capacity": 156,
-    "occupation": 156,
-    "event_genres": coral,
-    "lineup": montecarlo,
-    "headliner": Montecarlo,
+    "occupation": 80,
+    "event_genres": jazz,
+    "lineup": solo_valencia,
+    "headliner": solo_valencia,
     "city": medellin
   },
   "geometry": {

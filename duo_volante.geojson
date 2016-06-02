@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": Casa Teatro El Poblado,
-    "event": Montecarlo. Montecarlo en privado. Conmemoración día de la mujer,
-    "date": 2014-03-07 T 20:00:00,
+    "event": Fundacámara. Dúo volante,
+    "date": 2016-02-27 T 18:00:00,
     "capacity": 156,
-    "occupation": 156,
-    "event_genres": coral,
-    "lineup": montecarlo,
-    "headliner": Montecarlo,
+    "occupation": ,
+    "event_genres": camara,
+    "lineup": dúo_volante,
+    "headliner": dúo_volante,
     "city": medellin
   },
   "geometry": {

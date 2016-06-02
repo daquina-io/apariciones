@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": Casa Teatro El Poblado,
-    "event": Montecarlo. Montecarlo en privado. Conmemoración día de la mujer,
-    "date": 2014-03-07 T 20:00:00,
+    "event": Concierto de piano. Juan Ramón Silva (Barranquilla),
+    "date": 2014-10-30 T 20:00:00,
     "capacity": 156,
-    "occupation": 156,
-    "event_genres": coral,
-    "lineup": montecarlo,
-    "headliner": Montecarlo,
+    "occupation": 26,
+    "event_genres": instrumental,
+    "lineup": juan_ramon_silva,
+    "headliner": juan_ramon_silva,
     "city": medellin
   },
   "geometry": {

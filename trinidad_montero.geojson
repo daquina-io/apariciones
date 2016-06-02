@@ -3,13 +3,14 @@
   "properties":
   {
     "venue": Casa Teatro El Poblado,
-    "event": Montecarlo. Montecarlo en privado. Conmemoración día de la mujer,
-    "date": 2014-03-07 T 20:00:00,
+    "event": Trinidad Montero “La Trini” Serrat Flamenco
+España,
+    "date": 2015-03-28 T 20:00:00,
     "capacity": 156,
-    "occupation": 156,
-    "event_genres": coral,
-    "lineup": montecarlo,
-    "headliner": Montecarlo,
+    "occupation": 131,
+    "event_genres": flamenco,
+    "lineup": trinidad_montero,
+    "headliner": trinidad_montero,
     "city": medellin
   },
   "geometry": {

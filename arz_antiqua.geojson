@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": Casa Teatro El Poblado,
-    "event": Montecarlo. Montecarlo en privado. Conmemoración día de la mujer,
-    "date": 2014-03-07 T 20:00:00,
+    "event": Fundacámara. Arz Antiqua,
+    "date": 2015-10-24 T 18:00:00,
     "capacity": 156,
-    "occupation": 156,
-    "event_genres": coral,
-    "lineup": montecarlo,
-    "headliner": Montecarlo,
+    "occupation": 88,
+    "event_genres": camara,
+    "lineup": arz_antiqua,
+    "headliner": arz_antiqua,
     "city": medellin
   },
   "geometry": {

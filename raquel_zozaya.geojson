@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": Casa Teatro El Poblado,
-    "event": Montecarlo. Montecarlo en privado. Conmemoración día de la mujer,
-    "date": 2014-03-07 T 20:00:00,
+    "event": Concierto-Tertulia Joyas de Cuba. Raquel Zozaya. Música cubana,
+    "date": 2014-07-31 T 20:00:00,
     "capacity": 156,
-    "occupation": 156,
-    "event_genres": coral,
-    "lineup": montecarlo,
-    "headliner": Montecarlo,
+    "occupation": 43,
+    "event_genres": cubana,
+    "lineup": raquel_zozaya,
+    "headliner": raquel_zozaya,
     "city": medellin
   },
   "geometry": {

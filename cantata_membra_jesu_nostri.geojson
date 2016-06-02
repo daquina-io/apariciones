@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": Casa Teatro El Poblado,
-    "event": Montecarlo. Montecarlo en privado. Conmemoración día de la mujer,
-    "date": 2014-03-07 T 20:00:00,
+    "event": Cantata Membra Jesu Nostri,
+    "date": 2013-11-21 T 19:30:00,
     "capacity": 156,
-    "occupation": 156,
-    "event_genres": coral,
-    "lineup": montecarlo,
-    "headliner": Montecarlo,
+    "occupation": 23,
+    "event_genres": ,
+    "lineup": cantata_membra_jesu_nostri,
+    "headliner": Cantata Membra Jesu Nostri,
     "city": medellin
   },
   "geometry": {

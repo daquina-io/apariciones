@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": Casa Teatro El Poblado,
-    "event": Montecarlo. Montecarlo en privado. Conmemoración día de la mujer,
-    "date": 2014-03-07 T 20:00:00,
+    "event": Concierto del Coro Universidad EAFIT.,
+    "date": 2014-04-30 T 19:30:00,
     "capacity": 156,
-    "occupation": 156,
+    "occupation": 58,
     "event_genres": coral,
-    "lineup": montecarlo,
-    "headliner": Montecarlo,
+    "lineup": coro_universitario_eafit,
+    "headliner": coro_universitario_eafit,
     "city": medellin
   },
   "geometry": {

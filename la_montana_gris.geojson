@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": Casa Teatro El Poblado,
-    "event": Montecarlo. Montecarlo en privado. Conmemoración día de la mujer,
-    "date": 2014-03-07 T 20:00:00,
+    "event": La montaña gris,
+    "date": 2013-12-13 T 20:00:00,
     "capacity": 156,
-    "occupation": 156,
-    "event_genres": coral,
-    "lineup": montecarlo,
-    "headliner": Montecarlo,
+    "occupation": 55,
+    "event_genres": world,
+    "lineup": la_montaña_gris,
+    "headliner": La montaña gris,
     "city": medellin
   },
   "geometry": {

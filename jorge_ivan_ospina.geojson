@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": Casa Teatro El Poblado,
-    "event": Montecarlo. Montecarlo en privado. Conmemoración día de la mujer,
-    "date": 2014-03-07 T 20:00:00,
+    "event": Jorge Iván Ospina. marimba,
+    "date": 2013-12-05 T 20:00:00,
     "capacity": 156,
-    "occupation": 156,
-    "event_genres": coral,
-    "lineup": montecarlo,
-    "headliner": Montecarlo,
+    "occupation": 45,
+    "event_genres": instrumental,
+    "lineup": jorge_ivan_ospina,
+    "headliner": Jorge Iván Ospina,
     "city": medellin
   },
   "geometry": {

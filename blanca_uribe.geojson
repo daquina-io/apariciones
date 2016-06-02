@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": Casa Teatro El Poblado,
-    "event": Montecarlo. Montecarlo en privado. Conmemoración día de la mujer,
-    "date": 2014-03-07 T 20:00:00,
+    "event": Funcámara. Recital piano Blanca Uribe. Andrés Gómez.,
+    "date": 2014-11-28 T 20:00:00,
     "capacity": 156,
-    "occupation": 156,
-    "event_genres": coral,
-    "lineup": montecarlo,
-    "headliner": Montecarlo,
+    "occupation": 34,
+    "event_genres": instrumental,
+    "lineup": blanca_uribe,
+    "headliner": blanca_uribe,
     "city": medellin
   },
   "geometry": {

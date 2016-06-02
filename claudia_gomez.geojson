@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": Casa Teatro El Poblado,
-    "event": Montecarlo. Montecarlo en privado. Conmemoración día de la mujer,
-    "date": 2014-03-07 T 20:00:00,
+    "event": Claudia Gómez. De amores profundos (lanzamiento),
+    "date": 2015-07-16 T 20:00:00,
     "capacity": 156,
-    "occupation": 156,
-    "event_genres": coral,
-    "lineup": montecarlo,
-    "headliner": Montecarlo,
+    "occupation": 95,
+    "event_genres": cantautor,
+    "lineup": claudia_gómez,
+    "headliner": claudia_gómez,
     "city": medellin
   },
   "geometry": {

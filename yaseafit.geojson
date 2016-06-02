@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": Casa Teatro El Poblado,
-    "event": Montecarlo. Montecarlo en privado. Conmemoración día de la mujer,
-    "date": 2014-03-07 T 20:00:00,
+    "event": Yaseafit,
+    "date": 2016-02-19 T 20:00:00,
     "capacity": 156,
-    "occupation": 156,
-    "event_genres": coral,
-    "lineup": montecarlo,
-    "headliner": Montecarlo,
+    "occupation": 50,
+    "event_genres": jazz,
+    "lineup": yaseafit,
+    "headliner": yaseafit,
     "city": medellin
   },
   "geometry": {

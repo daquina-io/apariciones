@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": Casa Teatro El Poblado,
-    "event": Montecarlo. Montecarlo en privado. Conmemoración día de la mujer,
-    "date": 2014-03-07 T 20:00:00,
+    "event": Bisoñando. Majo Musicna,
+    "date": 2015-07-25 T 20:00:00,
     "capacity": 156,
-    "occupation": 156,
-    "event_genres": coral,
-    "lineup": montecarlo,
-    "headliner": Montecarlo,
+    "occupation": 64,
+    "event_genres": pop,
+    "lineup": majo_musicna,
+    "headliner": majo_musicna,
     "city": medellin
   },
   "geometry": {

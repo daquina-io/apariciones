@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": Casa Teatro El Poblado,
+    "event": Red de Escuelas de Música de Medellín. En el teatro.,
+    "date": 2014-09-20 T 17:00:00,
+    "capacity": 156,
+    "occupation": 14,
+    "event_genres": sinfonico,
+    "lineup": red_de_escuelas_de_musica,
+    "headliner": red_de_escuelas_de_musica,
+    "city": medellin
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": -75.58072328567505, 6.18831537756351
+  }
+}

@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": Casa Teatro El Poblado,
-    "event": Montecarlo. Montecarlo en privado. Conmemoración día de la mujer,
-    "date": 2014-03-07 T 20:00:00,
+    "event": La boca rota. Lanzamiento,
+    "date": 2015-05-21 T 20:00:00,
     "capacity": 156,
-    "occupation": 156,
-    "event_genres": coral,
-    "lineup": montecarlo,
-    "headliner": Montecarlo,
+    "occupation": 113,
+    "event_genres": ,
+    "lineup": la_boca_rota,
+    "headliner": la_boca_rota,
     "city": medellin
   },
   "geometry": {

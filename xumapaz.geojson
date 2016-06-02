@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": Casa Teatro El Poblado,
-    "event": Montecarlo. Montecarlo en privado. Conmemoración día de la mujer,
-    "date": 2014-03-07 T 20:00:00,
+    "event": Xumapaz (Bogotá),
+    "date": 2014-10-09 T 20:00:00,
     "capacity": 156,
-    "occupation": 156,
-    "event_genres": coral,
-    "lineup": montecarlo,
-    "headliner": Montecarlo,
+    "occupation": 36,
+    "event_genres": ,
+    "lineup": xumapaz,
+    "headliner": xumapaz,
     "city": medellin
   },
   "geometry": {

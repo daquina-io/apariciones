@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": Casa Teatro El Poblado,
-    "event": Montecarlo. Montecarlo en privado. Conmemoración día de la mujer,
-    "date": 2014-03-07 T 20:00:00,
+    "event": Diálogo tanguero. Entrecuerdas. Daniel Emlek,
+    "date": 2014-06-18 T 19:00:00,
     "capacity": 156,
-    "occupation": 156,
-    "event_genres": coral,
-    "lineup": montecarlo,
-    "headliner": Montecarlo,
+    "occupation": 56,
+    "event_genres": tango,
+    "lineup": daniel_alexis_emlek,
+    "headliner": daniel_alexis_emlek,
     "city": medellin
   },
   "geometry": {

@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": Casa Teatro El Poblado,
-    "event": Montecarlo. Montecarlo en privado. Conmemoración día de la mujer,
-    "date": 2014-03-07 T 20:00:00,
+    "event": Recital marimba. Miguel García Moreno,
+    "date": 2015-11-24 T 20:00:00,
     "capacity": 156,
-    "occupation": 156,
-    "event_genres": coral,
-    "lineup": montecarlo,
-    "headliner": Montecarlo,
+    "occupation": 58,
+    "event_genres": instrumental,
+    "lineup": miguel_garcía_moreno,
+    "headliner": miguel_garcía_moreno,
     "city": medellin
   },
   "geometry": {

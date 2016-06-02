@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": Casa Teatro El Poblado,
-    "event": Felisa. Geometría natural (lanzamiento),
-    "date": 2015-11-12 T 20:00:00,
+    "event": Niyireth Alarcón en concierto. Los viajes y los encuentros (presentación de su disco),
+    "date": 2014-02-28 T 20:00:00,
     "capacity": 156,
-    "occupation": 111,
+    "occupation": 90,
     "event_genres": ,
-    "lineup": felisa,
-    "headliner": felisa,
+    "lineup": niyireth_alarcon,
+    "headliner": Niyireth Alarcón,
     "city": medellin
   },
   "geometry": {

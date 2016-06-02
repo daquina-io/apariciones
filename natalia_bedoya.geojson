@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": Casa Teatro El Poblado,
-    "event": Montecarlo. Montecarlo en privado. Conmemoración día de la mujer,
-    "date": 2014-03-07 T 20:00:00,
+    "event": Natalia Bedoya. Martini Blues (alquiler-programación),
+    "date": 2015-03-06 T 20:00:00,
     "capacity": 156,
-    "occupation": 156,
-    "event_genres": coral,
-    "lineup": montecarlo,
-    "headliner": Montecarlo,
+    "occupation": 233,
+    "event_genres": blues,
+    "lineup": natalia_bedoya,
+    "headliner": natalia_bedoya,
     "city": medellin
   },
   "geometry": {
