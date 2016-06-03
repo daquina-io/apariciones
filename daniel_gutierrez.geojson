@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": "Casa Teatro El Poblado",
-    "event": "Felisa. Geometría natural (lanzamiento)",
-    "date": "2015-11-12 T 20:00:00",
+    "event": "Daniel Gutiérrez. Lanzamiento El viento todo se lo lleva",
+    "date": "2015-08-15 T 20:00:00",
     "capacity": "156",
-    "occupation": "111",
+    "occupation": "88",
     "event_genres": "",
-    "lineup": "felisa",
-    "headliner": "felisa",
+    "lineup": "daniel_gutiérrez",
+    "headliner": "daniel_gutiérrez",
     "city": "medellin"
   },
   "geometry": {

@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": "Casa Teatro El Poblado",
-    "event": "Felisa. Geometría natural (lanzamiento)",
-    "date": "2015-11-12 T 20:00:00",
+    "event": "Calavera Playboys. Tributo a Led Zeppelin",
+    "date": "2014-10-24 T 20:00:00",
     "capacity": "156",
-    "occupation": "111",
-    "event_genres": "",
-    "lineup": "felisa",
-    "headliner": "felisa",
+    "occupation": "85",
+    "event_genres": "rock",
+    "lineup": "calavera_playboys",
+    "headliner": "calavera_playboys",
     "city": "medellin"
   },
   "geometry": {

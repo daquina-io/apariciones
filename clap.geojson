@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": "Casa Teatro El Poblado",
-    "event": "Felisa. Geometría natural (lanzamiento)",
-    "date": "2015-11-12 T 20:00:00",
+    "event": "El Grilo. Ensamble vocal. Clap! Música gospel",
+    "date": "2015-03-13 T 20:00:00",
     "capacity": "156",
-    "occupation": "111",
-    "event_genres": "",
-    "lineup": "felisa",
-    "headliner": "felisa",
+    "occupation": "75",
+    "event_genres": "gospel",
+    "lineup": "clap",
+    "headliner": "clap",
     "city": "medellin"
   },
   "geometry": {

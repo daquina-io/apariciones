@@ -1,6 +1,24 @@
 {
   "type": "FeatureCollection",
   "features": [
+   { "type": "Feature",
+  "properties":
+  {
+    "venue": "Casa Teatro El Poblado",
+    "event": "Concierto de celebración Dime tú. Solo Valencia",
+    "date": "2015-12-01 T 20:00:00",
+    "capacity": "156",
+    "occupation": "80",
+    "event_genres": "jazz",
+    "lineup": "solo_valencia",
+    "headliner": "solo_valencia",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": "-75.58072328567505, 6.18831537756351"
+  }
+  },
     {
       "type": "Feature",
       "properties": {
@@ -254,4 +272,5 @@
       }
     }
   ]
+>>>>>>> upstream/master
 }

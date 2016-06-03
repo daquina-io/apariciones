@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": "Casa Teatro El Poblado",
-    "event": "Felisa. Geometría natural (lanzamiento)",
-    "date": "2015-11-12 T 20:00:00",
+    "event": "Velitas. Concierto The Merenders",
+    "date": "2015-12-07 T 17:30:00",
     "capacity": "156",
-    "occupation": "111",
+    "occupation": "132",
     "event_genres": "",
-    "lineup": "felisa",
-    "headliner": "felisa",
+    "lineup": "the_merenders",
+    "headliner": "the_merenders",
     "city": "medellin"
   },
   "geometry": {

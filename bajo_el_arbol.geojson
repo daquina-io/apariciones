@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": "Casa Teatro El Poblado",
-    "event": "Felisa. Geometría natural (lanzamiento)",
-    "date": "2015-11-12 T 20:00:00",
+    "event": "Bajo el árbol. La música y la luz",
+    "date": "2016-02-11 T 20:00:00",
     "capacity": "156",
-    "occupation": "111",
-    "event_genres": "",
-    "lineup": "felisa",
-    "headliner": "felisa",
+    "occupation": "18",
+    "event_genres": "instrumental, ambient, lounge",
+    "lineup": "bajo_el_árbol",
+    "headliner": "bajo_el_árbol",
     "city": "medellin"
   },
   "geometry": {

@@ -3,13 +3,15 @@
   "properties":
   {
     "venue": "Casa Teatro El Poblado",
-    "event": "Felisa. Geometría natural (lanzamiento)",
-    "date": "2015-11-12 T 20:00:00",
+    "event": "MCO Band. 
+Jazz Fusion
+Concierto",
+    "date": "2014-08-08 T 20:00:00",
     "capacity": "156",
-    "occupation": "111",
-    "event_genres": "",
-    "lineup": "felisa",
-    "headliner": "felisa",
+    "occupation": "32",
+    "event_genres": "jazz",
+    "lineup": "mco_band",
+    "headliner": "mco_band",
     "city": "medellin"
   },
   "geometry": {

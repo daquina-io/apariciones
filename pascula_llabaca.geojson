@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": "Casa Teatro El Poblado",
-    "event": "Felisa. Geometría natural (lanzamiento)",
-    "date": "2015-11-12 T 20:00:00",
+    "event": "Pascula llabaca",
+    "date": "2013-07-03 T 20:00:00",
     "capacity": "156",
-    "occupation": "111",
+    "occupation": "82",
     "event_genres": "",
-    "lineup": "felisa",
-    "headliner": "felisa",
+    "lineup": "pascula_llabaca",
+    "headliner": "Pascula llabaca",
     "city": "medellin"
   },
   "geometry": {

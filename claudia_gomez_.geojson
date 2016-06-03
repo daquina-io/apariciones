@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": "Casa Teatro El Poblado",
-    "event": "Felisa. Geometría natural (lanzamiento)",
-    "date": "2015-11-12 T 20:00:00",
+    "event": "Claudia Gómez.",
+    "date": "2013-09-27 T 20:00:00",
     "capacity": "156",
-    "occupation": "111",
-    "event_genres": "",
-    "lineup": "felisa",
-    "headliner": "felisa",
+    "occupation": "77",
+    "event_genres": "cantautor",
+    "lineup": "claudia_gomez",
+    "headliner": "Claudia Gómez.",
     "city": "medellin"
   },
   "geometry": {

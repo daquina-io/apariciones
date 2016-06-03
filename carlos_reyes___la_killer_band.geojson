@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": "Casa Teatro El Poblado",
-    "event": "Felisa. Geometría natural (lanzamiento)",
-    "date": "2015-11-12 T 20:00:00",
+    "event": "Carlos Reyes & La Killer Band",
+    "date": "2013-06-27 T 20:00:00",
     "capacity": "156",
-    "occupation": "111",
+    "occupation": "20",
     "event_genres": "",
-    "lineup": "felisa",
-    "headliner": "felisa",
+    "lineup": "carlos_reyes_&_la_killer_band",
+    "headliner": "Carlos Reyes & La Killer Band",
     "city": "medellin"
   },
   "geometry": {

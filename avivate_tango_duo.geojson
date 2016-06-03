@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": "Casa Teatro El Poblado",
-    "event": "Felisa. Geometría natural (lanzamiento)",
-    "date": "2015-11-12 T 20:00:00",
+    "event": "Avívate Tango Dúo (Argentina)",
+    "date": "2015-07-18 T 20:00:00",
     "capacity": "156",
-    "occupation": "111",
-    "event_genres": "",
-    "lineup": "felisa",
-    "headliner": "felisa",
+    "occupation": "45",
+    "event_genres": "tango",
+    "lineup": "avívate_tango_dúo",
+    "headliner": "avívate_tango_dúo",
     "city": "medellin"
   },
   "geometry": {

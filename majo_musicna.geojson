@@ -8,7 +8,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "venue": "Teatro Lido",
-        "event": "BISOÃÂANDO en Agenda Cultural",
+        "event": "BISOÑANDO en Agenda Cultural",
         "date": "2015-10-24",
         "capacity": 1100,
         "ocupation": 10,
@@ -40,7 +40,7 @@
         "headliner": "Majo Musicna",
         "city": "Medellin, Colombia",
         "added by": "johnbothia",
-        "event": "Concierto de lanzamiento BISOÃÂANDO - MajoMusicna!"
+        "event": "Concierto de lanzamiento BISOÑANDO - MajoMusicna!"
       },
       "geometry": {
         "type": "Point",
@@ -264,4 +264,5 @@
       }
     }
   ]
+>>>>>>> upstream/master
 }
