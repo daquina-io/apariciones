@@ -2,19 +2,19 @@
   "type": "Feature",
   "properties":
   {
-    "venue": Casa Teatro El Poblado,
-    "event": The Merenders jazz quartet. La navidad suena a
- jazz.,
-    "date": 2013-12-15 T 11:30:00,
-    "capacity": 156,
-    "occupation": 35,
-    "event_genres": jazz,
-    "lineup": the_merenders_jazz_quartet.,
-    "headliner": The Merenders jazz quartet,
-    "city": medellin
+    "venue": "Casa Teatro El Poblado",
+    "event": "The Merenders jazz quartet. La navidad suena a
+ jazz.",
+    "date": "2013-12-15 T 11:30:00",
+    "capacity": "156",
+    "occupation": "35",
+    "event_genres": "jazz",
+    "lineup": "the_merenders_jazz_quartet.",
+    "headliner": "The Merenders jazz quartet",
+    "city": "medellin"
   },
   "geometry": {
     "type": "Point",
-    "coordinates": -75.58072328567505, 6.18831537756351
+    "coordinates": "-75.58072328567505, 6.18831537756351"
   }
 }

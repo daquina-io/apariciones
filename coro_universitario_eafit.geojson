@@ -2,18 +2,18 @@
   "type": "Feature",
   "properties":
   {
-    "venue": Casa Teatro El Poblado,
-    "event": Concierto del Coro Universidad EAFIT.,
-    "date": 2014-04-30 T 19:30:00,
-    "capacity": 156,
-    "occupation": 58,
-    "event_genres": coral,
-    "lineup": coro_universitario_eafit,
-    "headliner": coro_universitario_eafit,
-    "city": medellin
+    "venue": "Casa Teatro El Poblado",
+    "event": "Concierto del Coro Universidad EAFIT.",
+    "date": "2014-04-30 T 19:30:00",
+    "capacity": "156",
+    "occupation": "58",
+    "event_genres": "coral",
+    "lineup": "coro_universitario_eafit",
+    "headliner": "coro_universitario_eafit",
+    "city": "medellin"
   },
   "geometry": {
     "type": "Point",
-    "coordinates": -75.58072328567505, 6.18831537756351
+    "coordinates": "-75.58072328567505, 6.18831537756351"
   }
 }

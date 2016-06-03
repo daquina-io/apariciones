@@ -2,18 +2,18 @@
   "type": "Feature",
   "properties":
   {
-    "venue": Casa Teatro El Poblado,
-    "event": Laura Restrepo. Lanzamiento CD,
-    "date": 2014-11-01 T 20:00:00,
-    "capacity": 156,
-    "occupation": 149,
-    "event_genres": ,
-    "lineup": laura_restrepo,
-    "headliner": laura_restrepo,
-    "city": medellin
+    "venue": "Casa Teatro El Poblado",
+    "event": "Laura Restrepo. Lanzamiento CD",
+    "date": "2014-11-01 T 20:00:00",
+    "capacity": "156",
+    "occupation": "149",
+    "event_genres": "",
+    "lineup": "laura_restrepo",
+    "headliner": "laura_restrepo",
+    "city": "medellin"
   },
   "geometry": {
     "type": "Point",
-    "coordinates": -75.58072328567505, 6.18831537756351
+    "coordinates": "-75.58072328567505, 6.18831537756351"
   }
 }

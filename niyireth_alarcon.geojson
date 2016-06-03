@@ -2,18 +2,18 @@
   "type": "Feature",
   "properties":
   {
-    "venue": Casa Teatro El Poblado,
-    "event": Niyireth Alarcón en concierto. Los viajes y los encuentros (presentación de su disco),
-    "date": 2014-02-28 T 20:00:00,
-    "capacity": 156,
-    "occupation": 90,
-    "event_genres": ,
-    "lineup": niyireth_alarcon,
-    "headliner": Niyireth Alarcón,
-    "city": medellin
+    "venue": "Casa Teatro El Poblado",
+    "event": "Niyireth Alarcón en concierto. Los viajes y los encuentros (presentación de su disco)",
+    "date": "2014-02-28 T 20:00:00",
+    "capacity": "156",
+    "occupation": "90",
+    "event_genres": "",
+    "lineup": "niyireth_alarcon",
+    "headliner": "Niyireth Alarcón",
+    "city": "medellin"
   },
   "geometry": {
     "type": "Point",
-    "coordinates": -75.58072328567505, 6.18831537756351
+    "coordinates": "-75.58072328567505, 6.18831537756351"
   }
 }

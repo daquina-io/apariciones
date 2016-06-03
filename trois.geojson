@@ -2,18 +2,18 @@
   "type": "Feature",
   "properties":
   {
-    "venue": Casa Teatro El Poblado,
-    "event": El Grilo. Ensamble coral. Trois.,
-    "date": 2014-05-23 T 20:00:00,
-    "capacity": 156,
-    "occupation": 93,
-    "event_genres": coral,
-    "lineup": trois,
-    "headliner": trois,
-    "city": medellin
+    "venue": "Casa Teatro El Poblado",
+    "event": "El Grilo. Ensamble coral. Trois.",
+    "date": "2014-05-23 T 20:00:00",
+    "capacity": "156",
+    "occupation": "93",
+    "event_genres": "coral",
+    "lineup": "trois",
+    "headliner": "trois",
+    "city": "medellin"
   },
   "geometry": {
     "type": "Point",
-    "coordinates": -75.58072328567505, 6.18831537756351
+    "coordinates": "-75.58072328567505, 6.18831537756351"
   }
 }

@@ -2,18 +2,18 @@
   "type": "Feature",
   "properties":
   {
-    "venue": Casa Teatro El Poblado,
-    "event": Besayuno. Mónica Zuluaga,
-    "date": 2015-10-23 T 20:00:00,
-    "capacity": 156,
-    "occupation": 85,
-    "event_genres": cantautor,
-    "lineup": mónica_zuluaga,
-    "headliner": mónica_zuluaga,
-    "city": medellin
+    "venue": "Casa Teatro El Poblado",
+    "event": "Besayuno. Mónica Zuluaga",
+    "date": "2015-10-23 T 20:00:00",
+    "capacity": "156",
+    "occupation": "85",
+    "event_genres": "cantautor",
+    "lineup": "mónica_zuluaga",
+    "headliner": "mónica_zuluaga",
+    "city": "medellin"
   },
   "geometry": {
     "type": "Point",
-    "coordinates": -75.58072328567505, 6.18831537756351
+    "coordinates": "-75.58072328567505, 6.18831537756351"
   }
 }

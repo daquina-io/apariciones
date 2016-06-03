@@ -2,18 +2,18 @@
   "type": "Feature",
   "properties":
   {
-    "venue": Casa Teatro El Poblado,
-    "event": Revoludos y Autor Anónimo. Concierto (Rock),
-    "date": 2013-12-06 T 19:30:00,
-    "capacity": 156,
-    "occupation": 63,
-    "event_genres": rock,
-    "lineup": autor_anonimo,
-    "headliner": Revoludos y Autor Anónimo,
-    "city": medellin
+    "venue": "Casa Teatro El Poblado",
+    "event": "Revoludos y Autor Anónimo. Concierto (Rock)",
+    "date": "2013-12-06 T 19:30:00",
+    "capacity": "156",
+    "occupation": "63",
+    "event_genres": "rock",
+    "lineup": "autor_anonimo",
+    "headliner": "Revoludos y Autor Anónimo",
+    "city": "medellin"
   },
   "geometry": {
     "type": "Point",
-    "coordinates": -75.58072328567505, 6.18831537756351
+    "coordinates": "-75.58072328567505, 6.18831537756351"
   }
 }

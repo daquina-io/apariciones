@@ -2,18 +2,18 @@
   "type": "Feature",
   "properties":
   {
-    "venue": Casa Teatro El Poblado,
-    "event": Chirimía 28 de diciembre,
-    "date": 2013-07-18 T 20:00:00,
-    "capacity": 156,
-    "occupation": 20,
-    "event_genres": chirimia,
-    "lineup": chirimia_28_de_diciembre,
-    "headliner": Chirimía 28 de diciembre,
-    "city": medellin
+    "venue": "Casa Teatro El Poblado",
+    "event": "Chirimía 28 de diciembre",
+    "date": "2013-07-18 T 20:00:00",
+    "capacity": "156",
+    "occupation": "20",
+    "event_genres": "chirimia",
+    "lineup": "chirimia_28_de_diciembre",
+    "headliner": "Chirimía 28 de diciembre",
+    "city": "medellin"
   },
   "geometry": {
     "type": "Point",
-    "coordinates": -75.58072328567505, 6.18831537756351
+    "coordinates": "-75.58072328567505, 6.18831537756351"
   }
 }

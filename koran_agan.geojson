@@ -2,18 +2,18 @@
   "type": "Feature",
   "properties":
   {
-    "venue": Casa Teatro El Poblado,
-    "event": Koran Agan jazz trío,
-    "date": 2015-12-17 T 20:00:00,
-    "capacity": 156,
-    "occupation": 52,
-    "event_genres": jazz,
-    "lineup": koran_agan,
-    "headliner": koran_agan,
-    "city": medellin
+    "venue": "Casa Teatro El Poblado",
+    "event": "Koran Agan jazz trío",
+    "date": "2015-12-17 T 20:00:00",
+    "capacity": "156",
+    "occupation": "52",
+    "event_genres": "jazz",
+    "lineup": "koran_agan",
+    "headliner": "koran_agan",
+    "city": "medellin"
   },
   "geometry": {
     "type": "Point",
-    "coordinates": -75.58072328567505, 6.18831537756351
+    "coordinates": "-75.58072328567505, 6.18831537756351"
   }
 }

@@ -2,18 +2,18 @@
   "type": "Feature",
   "properties":
   {
-    "venue": Casa Teatro El Poblado,
-    "event": Gómez Palacio,
-    "date": 2015-07-30 T 20:00:00,
-    "capacity": 156,
-    "occupation": 136,
-    "event_genres": ,
-    "lineup": gómez_palacio,
-    "headliner": gómez_palacio,
-    "city": medellin
+    "venue": "Casa Teatro El Poblado",
+    "event": "Gómez Palacio",
+    "date": "2015-07-30 T 20:00:00",
+    "capacity": "156",
+    "occupation": "136",
+    "event_genres": "",
+    "lineup": "gómez_palacio",
+    "headliner": "gómez_palacio",
+    "city": "medellin"
   },
   "geometry": {
     "type": "Point",
-    "coordinates": -75.58072328567505, 6.18831537756351
+    "coordinates": "-75.58072328567505, 6.18831537756351"
   }
 }

@@ -2,18 +2,18 @@
   "type": "Feature",
   "properties":
   {
-    "venue": Casa Teatro El Poblado,
-    "event": Cantata Membra Jesu Nostri,
-    "date": 2013-11-21 T 19:30:00,
-    "capacity": 156,
-    "occupation": 23,
-    "event_genres": ,
-    "lineup": cantata_membra_jesu_nostri,
-    "headliner": Cantata Membra Jesu Nostri,
-    "city": medellin
+    "venue": "Casa Teatro El Poblado",
+    "event": "Cantata Membra Jesu Nostri",
+    "date": "2013-11-21 T 19:30:00",
+    "capacity": "156",
+    "occupation": "23",
+    "event_genres": "",
+    "lineup": "cantata_membra_jesu_nostri",
+    "headliner": "Cantata Membra Jesu Nostri",
+    "city": "medellin"
   },
   "geometry": {
     "type": "Point",
-    "coordinates": -75.58072328567505, 6.18831537756351
+    "coordinates": "-75.58072328567505, 6.18831537756351"
   }
 }

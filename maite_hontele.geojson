@@ -2,18 +2,18 @@
   "type": "Feature",
   "properties":
   {
-    "venue": Casa Teatro El Poblado,
-    "event": Maite Hontelé. Te voy a querer. Lanzamiento,
-    "date": 2015-09-18 T 20:00:00,
-    "capacity": 156,
-    "occupation": 285,
-    "event_genres": latinjazz,
-    "lineup": maite_hontele,
-    "headliner": maite_hontele,
-    "city": medellin
+    "venue": "Casa Teatro El Poblado",
+    "event": "Maite Hontelé. Te voy a querer. Lanzamiento",
+    "date": "2015-09-18 T 20:00:00",
+    "capacity": "156",
+    "occupation": "285",
+    "event_genres": "latinjazz",
+    "lineup": "maite_hontele",
+    "headliner": "maite_hontele",
+    "city": "medellin"
   },
   "geometry": {
     "type": "Point",
-    "coordinates": -75.58072328567505, 6.18831537756351
+    "coordinates": "-75.58072328567505, 6.18831537756351"
   }
 }

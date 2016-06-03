@@ -2,18 +2,18 @@
   "type": "Feature",
   "properties":
   {
-    "venue": Casa Teatro El Poblado,
-    "event": Fabrizio Mocata y Marcelo Tommasi. Más que tango,
-    "date": 2015-09-12 T 20:00:00,
-    "capacity": 156,
-    "occupation": 37,
-    "event_genres": tango,
-    "lineup": marcelo_tommasi,
-    "headliner": marcelo_tommasi,
-    "city": medellin
+    "venue": "Casa Teatro El Poblado",
+    "event": "Fabrizio Mocata y Marcelo Tommasi. Más que tango",
+    "date": "2015-09-12 T 20:00:00",
+    "capacity": "156",
+    "occupation": "37",
+    "event_genres": "tango",
+    "lineup": "marcelo_tommasi",
+    "headliner": "marcelo_tommasi",
+    "city": "medellin"
   },
   "geometry": {
     "type": "Point",
-    "coordinates": -75.58072328567505, 6.18831537756351
+    "coordinates": "-75.58072328567505, 6.18831537756351"
   }
 }

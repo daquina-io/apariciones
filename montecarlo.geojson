@@ -2,18 +2,18 @@
   "type": "Feature",
   "properties":
   {
-    "venue": Casa Teatro El Poblado,
-    "event": Montecarlo. Montecarlo en privado. Conmemoración día de la mujer,
-    "date": 2014-03-07 T 20:00:00,
-    "capacity": 156,
-    "occupation": 156,
-    "event_genres": coral,
-    "lineup": montecarlo,
-    "headliner": Montecarlo,
-    "city": medellin
+    "venue": "Casa Teatro El Poblado",
+    "event": "Montecarlo. Montecarlo en privado. Conmemoración día de la mujer",
+    "date": "2014-03-07 T 20:00:00",
+    "capacity": "156",
+    "occupation": "156",
+    "event_genres": "coral",
+    "lineup": "montecarlo",
+    "headliner": "Montecarlo",
+    "city": "medellin"
   },
   "geometry": {
     "type": "Point",
-    "coordinates": -75.58072328567505, 6.18831537756351
+    "coordinates": "-75.58072328567505, 6.18831537756351"
   }
 }

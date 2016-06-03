@@ -2,18 +2,18 @@
   "type": "Feature",
   "properties":
   {
-    "venue": Casa Teatro El Poblado,
-    "event": Cantoalegre 30 años. Picnic. Concierto de fraternidad.,
-    "date": 2014-05-03 T 15:00:00,
-    "capacity": 156,
-    "occupation": 450,
-    "event_genres": infantil,
-    "lineup": duo_karma,
-    "headliner": duo_karma,
-    "city": medellin
+    "venue": "Casa Teatro El Poblado",
+    "event": "Cantoalegre 30 años. Picnic. Concierto de fraternidad.",
+    "date": "2014-05-03 T 15:00:00",
+    "capacity": "156",
+    "occupation": "450",
+    "event_genres": "infantil",
+    "lineup": "duo_karma",
+    "headliner": "duo_karma",
+    "city": "medellin"
   },
   "geometry": {
     "type": "Point",
-    "coordinates": -75.58072328567505, 6.18831537756351
+    "coordinates": "-75.58072328567505, 6.18831537756351"
   }
 }

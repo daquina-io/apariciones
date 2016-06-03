@@ -2,18 +2,18 @@
   "type": "Feature",
   "properties":
   {
-    "venue": Casa Teatro El Poblado,
-    "event": Volätil. Rock. Concierto.,
-    "date": 2014-08-15 T 21:00:00,
-    "capacity": 156,
-    "occupation": 171,
-    "event_genres": rock,
-    "lineup": volatil,
-    "headliner": volatil,
-    "city": medellin
+    "venue": "Casa Teatro El Poblado",
+    "event": "Volätil. Rock. Concierto.",
+    "date": "2014-08-15 T 21:00:00",
+    "capacity": "156",
+    "occupation": "171",
+    "event_genres": "rock",
+    "lineup": "volatil",
+    "headliner": "volatil",
+    "city": "medellin"
   },
   "geometry": {
     "type": "Point",
-    "coordinates": -75.58072328567505, 6.18831537756351
+    "coordinates": "-75.58072328567505, 6.18831537756351"
   }
 }
