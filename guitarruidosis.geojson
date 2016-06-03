@@ -1,0 +1,183 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Buckel Bar",
+        "event": "Guitarruidosis",
+        "date": "2010-05-15",
+        "capacity": "",
+        "occupation": "",
+        "lineup": "Milena, The_kurtis_band",
+        "event_genres": "Pop, electro_rock",
+        "link": "",
+        "added_by": "antropomorfa",
+        "founder": "",
+        "headliner": "Guitarruidosis",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56899666786194,
+          6.209519593386433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Eslabon prendido",
+        "event": "Guitarruidosis",
+        "date": "2004-06-12",
+        "capacity": 200,
+        "occupation": 100,
+        "lineup": "acid_purple,smoking_souls, deaklen",
+        "event_genres": "grunge",
+        "link": "",
+        "added_by": "antropomorfa",
+        "founder": "",
+        "headliner": "Guitarruidosis",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56132555007935,
+          6.249008567477176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Narcosis Bar",
+        "event": "Guitarruidosis",
+        "date": "1999-05-23",
+        "capacity": 60,
+        "occupation": 100,
+        "lineup": "Nemesis, blemish, caja_de_halloween, bombillos_peludos",
+        "event_genres": "grunge",
+        "link": "",
+        "added_by": "antropomorfa",
+        "founder": "",
+        "headliner": "Guitarruidosis",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57038068771362,
+          6.262510394172802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "El sotano bar",
+        "event": "Guitarruidosis",
+        "date": "2006-09-17",
+        "capacity": "",
+        "occupation": "",
+        "lineup": "sufer_rosa,smoking_souls",
+        "event_genres": "alternativo, folk_rock",
+        "link": "",
+        "added_by": "antropomorfa",
+        "founder": "",
+        "headliner": "Guitarruidosis",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.61183959245682,
+          6.172040991282458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "Guitarruidosis",
+        "date": "2010-06-12",
+        "capacity": "",
+        "occupation": "",
+        "lineup": "El_club_de_las_novias_suicidas, spastico, los_desconectados, the_smoking_soluls",
+        "event_genres": "grunge, alternativo, folk_rock",
+        "link": "",
+        "added_by": "antropomorfa",
+        "founder": "",
+        "headliner": "Guitarruidosis",
+        "address": "",
+        "start": "8:00 pm",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5685031414032,
+          6.263939477051557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "Guitarruidosis",
+        "date": "2008-11-08",
+        "capacity": "",
+        "occupation": "",
+        "lineup": "metropol,spastico",
+        "event_genres": "indie_rock, alternativo",
+        "link": "",
+        "added_by": "antropomorfa",
+        "founder": "",
+        "headliner": "Guitarruidosis",
+        "address": "",
+        "start": "7:00 pm",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56216239929199,
+          6.248923246768636
+        ]
+      }
+    }
+  ]
+}

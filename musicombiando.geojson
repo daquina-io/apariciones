@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "centro comercial san nicolas",
+        "event": "",
+        "date": "2016-01-11T15:00:00",
+        "capacity": 150,
+        "occupation": 90,
+        "event_genres": "Mestopop",
+        "lineup": "musicombiando",
+        "headliner": "musicombiando",
+        "city": "rionegro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3818428516388,
+          6.127732558669279
+        ]
+      }
+    }
+  ]
+}

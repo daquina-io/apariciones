@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "20 de julio",
+        "event": "",
+        "date": "2010-10-31",
+        "capacity": 300,
+        "occupation": 100,
+        "lineup": "Spastico, 50/50, Apariciones frecuentes",
+        "link": "",
+        "added_by": "antropomorfa",
+        "founder": "",
+        "headliner": "Tendencia Garage",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56747317314148,
+          6.250469682451379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Matacandelas",
+        "event": "",
+        "date": "2011-04-11",
+        "capacity": 250,
+        "occupation": 100,
+        "lineup": "Mr bleat, neoplatonics, killerfish",
+        "event_genre": "Indie_electronico, pop_oscuro, indie_rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56453347206114,
+          6.244507881117909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro_Matacandelas",
+        "event": "",
+        "date": "2009-11-13",
+        "capacity": 250,
+        "occupation": 100,
+        "lineup": "Aparicione_frecuentes, Deamond_tears, inmmodium, la_radio_flyer",
+        "event_genre": "Horror_punk, Rock, grunge, post_punk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56450128555298,
+          6.244507881117909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro el trueque",
+        "event": "Lanzamiento revista tendencia garage",
+        "date": "2010-08-21",
+        "capacity": 150,
+        "occupation": 100,
+        "event_genres": "electro_Punk, indie, indie_rock",
+        "lineup": "Resina_la_la, Boquitoquis, Le_Batlefinger",
+        "headliner": "",
+        "city": "Medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55986642837524,
+          6.246950201503629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Calle 9",
+        "event": "",
+        "date": "2011-11-18",
+        "capacity": 200,
+        "occupation": 50,
+        "event_genres": "Horror_punk, Electro_Punk, Rock_aternativo",
+        "lineup": "Apariciones_frecuentes, Dadanoys, spastico",
+        "headliner": "",
+        "city": "Medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57285368442534,
+          6.210591514245062
+        ]
+      }
+    }
+  ]
+}

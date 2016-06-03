@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Monterrey",
+        "event": "la_jornada_del_kaos",
+        "date": "1996-06-14",
+        "capacity": 300,
+        "occupation": 100,
+        "lineup": "mundo_depresivo,jhonny_walker,gp,ex_kombro,tosigo_social",
+        "event_genres": "punk,punk_rock",
+        "added_by": "antropomorfa",
+        "founder": "",
+        "headliner": "",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57748317718506,
+          6.214004581047317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "La cupula",
+        "event": "Desde New York Skelptarsis",
+        "date": "2015-11-06",
+        "capacity": 200,
+        "occupation": 100,
+        "lineup": "Mundo Depresivo, Stelptarsis, Grinding, Kolapso Social, Krujido",
+        "event_genres": "Grindcore, Death Metal, Trash, HC Punk, Hard Core",
+        "added_by": "antropomorfa",
+        "founder": "",
+        "headliner": "",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56266665458679,
+          6.252917307515289
+        ]
+      }
+    }
+  ]
+}

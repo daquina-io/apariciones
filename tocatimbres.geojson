@@ -4,12 +4,12 @@
     {
       "type": "Feature",
       "properties": {
-        "origen": "Grupo Musical Pasajeros"
+        "origen": "Grupo TocaTimbres"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.607874,6.231775
+          -75.572634,6.287572
         ]
       }
     }

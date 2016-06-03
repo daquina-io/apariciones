@@ -4,12 +4,12 @@
     {
       "type": "Feature",
       "properties": {
-        "origen": "Grupo TocaTimbres"
+        "origen": "Grupo Suramérica"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.572634,6.287572
+          -75.57970339,6.2424412
         ]
       }
     }

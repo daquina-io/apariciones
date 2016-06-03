@@ -56,12 +56,12 @@
         "marker-color": "",
         "marker-size": "",
         "venue": "Centro de Desarrollo Cultural de Moravia",
-        "event": "entrega becas al estímulo creativo",
-        "date": "2015-11-25",
+        "event": "entrega becas al estÃ­mulo creativo",
+        "date": "2015-11-06",
         "capacity": 370,
         "ocupation": 90,
         "price": 0,
-        "founder": "Gobernación de Antioquia",
+        "founder": "GobernaciÃ³n de Antioquia",
         "lineup": "NA",
         "headliner": "Jaibanakus",
         "city": "Medellin"
@@ -71,6 +71,27 @@
         "coordinates": [
           -75.564609,
           6.277757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Bombay Bar",
+        "event": "Festival Hertz 2016",
+        "date": "2016-02-20 20:00:00",
+        "capacity": 200,
+        "occupation": 0,
+        "event_genres": "rock, house",
+        "lineup": "jaibanakus, zatelite, rogs,el_juanda",
+        "headliner": "",
+        "city": "medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.582748,
+          6.215212
         ]
       }
     }

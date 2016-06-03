@@ -7,7 +7,7 @@
         "venue": "Eslavon Prendido",
         "city": "Medellin",
         "event": "Alarm en medellin ",
-        "date": "2015-07-05",
+        "date": "2015-12-19",
         "capacity": 200,
         "occupation": "",
         "price": "10000",
@@ -28,6 +28,90 @@
         "coordinates": [
           -75.56142747402191,
           6.2489712396689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": " Experimento mutante",
+        "date": "2016-02-20",
+        "capacity": 200,
+        "occupation": "50",
+        "price": "12000",
+        "lineup": "Renkore, Ojo Vermelho, Septicemia ",
+        "headliner": "Alarm",
+        "link": " ",
+        "added_by": "son0p  ",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.60581266880035,
+          6.17443831474062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": " Lanzamiento La razon del ruido el ocaso del silencio",
+        "date": "2013-12-06",
+        "capacity": 200,
+        "occupation": "",
+        "price": "",
+        "lineup": "Renkore, O.D.I.O, Krujido, Atrofia ",
+        "headliner": "Alarm",
+        "link": " ",
+        "added_by": "antropomorfa",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56041359901428,
+          6.336454944694215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "Escuela de odio en Medellin",
+        "date": "2015-09-18",
+        "capacity": 200,
+        "occupation": "",
+        "price": "",
+        "lineup": "Renkore, Escuela de Odio, the dyeless, vehemente ",
+        "headliner": "",
+        "link": " ",
+        "added_by": "antropomorfa",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56461930274963,
+          6.244550541833757
         ]
       }
     }

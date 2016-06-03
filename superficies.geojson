@@ -7,8 +7,15 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "venue": "Teatro Carantoña",
-        "date": "2012-04-27"
+        "venue": "Teatro CarantoÃ±a",
+        "event": "",
+        "date": "2012-04-27",
+        "capacity": 200,
+        "occupation": "",
+        "event_genres": "",
+        "lineup": "",
+        "headliner": "",
+        "city": ""
       },
       "geometry": {
         "type": "Point",
@@ -25,7 +32,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "venue": "Centro Cultural El Poblado",
-        "date": "2011-07-07"
+        "date": "2011-07-07",
+        "capacity": 200
       },
       "geometry": {
         "type": "Point",
@@ -41,8 +49,9 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "venue": "Corporación Subterrákeo",
-        "Date": "2011-07-08"
+        "venue": "CorporaciÃ³n SubterrÃ¡keo",
+        "date": "2011-07-08",
+        "capacity": 70
       },
       "geometry": {
         "type": "Point",
@@ -59,7 +68,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "venue": "Antigua Biblioteca Itagui",
-        "date": "2012-09-14"
+        "date": "2012-09-14",
+        "capacity": 100
       },
       "geometry": {
         "type": "Point",
@@ -75,8 +85,9 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "venue": "Escuela Débora Arango",
-        "date": "2013-05-03"
+        "venue": "Escuela DÃ©bora Arango",
+        "date": "2013-05-03",
+        "capacity": 100
       },
       "geometry": {
         "type": "Point",
@@ -93,7 +104,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "venue": "Casa Museo Otraparte",
-        "date": "2013-06-07"
+        "date": "2013-06-07",
+        "capacity": 100
       },
       "geometry": {
         "type": "Point",
@@ -109,8 +121,9 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "venue": "Parque Débora Arango",
-        "date": "2013-07-06"
+        "venue": "Parque DÃ©bora Arango",
+        "date": "2013-07-06",
+        "capacity": 1000
       },
       "geometry": {
         "type": "Point",
@@ -126,8 +139,9 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "venue": "Casa de Cultura Alcázares",
-        "date": "2014-09-23"
+        "venue": "Casa de Cultura AlcÃ¡zares",
+        "date": "2014-09-23",
+        "capacity": 200
       },
       "geometry": {
         "type": "Point",
@@ -144,7 +158,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "venue": "Parque Biblioteca San Javier",
-        "date": "2014-10-24"
+        "date": "2014-10-24",
+        "capacity": 200
       },
       "geometry": {
         "type": "Point",
