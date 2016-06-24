@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": "Casa Teatro El Poblado",
-    "event": "Felisa. Geometría natural (lanzamiento)",
-    "date": "2015-11-12 T 20:00:00",
+    "event": "Festival clarisax",
+    "date": "2014-03-20 T 20:00:00",
     "capacity": "156",
-    "occupation": "111",
-    "event_genres": "",
-    "lineup": "felisa",
-    "headliner": "felisa",
+    "occupation": "67",
+    "event_genres": "colombiana",
+    "lineup": "duo_violeta",
+    "headliner": "duo_violeta",
     "city": "medellin"
   },
   "geometry": {

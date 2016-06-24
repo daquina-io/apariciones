@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Casa Teatro El Poblado",
+    "event": "Teo Grajales Hip Bop Crew. Primera Session. Lanzamiento",
+    "date": "2014-04-04 T 20:00:00",
+    "capacity": "156",
+    "occupation": "26",
+    "event_genres": "jazz",
+    "lineup": "teo_grajales_hip_bop_crew",
+    "headliner": "teo_grajales_hip_bop_crew",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.58072328567505, 6.18831537756351]
+  }
+}

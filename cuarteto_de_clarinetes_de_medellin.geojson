@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Casa Teatro El Poblado",
+    "event": "Fundación Música de Cámara de Medellín. Cuarteto de clarinetes de Medellín",
+    "date": "2014-09-27 T 18:00:00",
+    "capacity": "156",
+    "occupation": "21",
+    "event_genres": "camara",
+    "lineup": "cuarteto_de_clarinetes_de_medellin",
+    "headliner": "cuarteto_de_clarinetes_de_medellin",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.58072328567505, 6.18831537756351]
+  }
+}

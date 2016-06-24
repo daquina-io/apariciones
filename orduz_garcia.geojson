@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Casa Teatro El Poblado",
+    "event": "Fundación música de cámara. Dúo Orduz-García. Piano y clarinete",
+    "date": "2015-04-10 T 20:00:00",
+    "capacity": "156",
+    "occupation": "58",
+    "event_genres": "camara",
+    "lineup": "orduz-garcia",
+    "headliner": "orduz-garcia",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.58072328567505, 6.18831537756351]
+  }
+}

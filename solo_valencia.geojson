@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": "Casa Teatro El Poblado",
-    "event": "Felisa. Geometría natural (lanzamiento)",
-    "date": "2015-11-12 T 20:00:00",
+    "event": "Concierto de celebración Dime tú. Solo Valencia",
+    "date": "2015-12-01 T 20:00:00",
     "capacity": "156",
-    "occupation": "111",
-    "event_genres": "",
-    "lineup": "felisa",
-    "headliner": "felisa",
+    "occupation": "80",
+    "event_genres": "jazz",
+    "lineup": "solo_valencia",
+    "headliner": "solo_valencia",
     "city": "medellin"
   },
   "geometry": {

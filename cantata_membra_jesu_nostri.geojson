@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": "Casa Teatro El Poblado",
-    "event": "Felisa. Geometría natural (lanzamiento)",
-    "date": "2015-11-12 T 20:00:00",
+    "event": "Cantata Membra Jesu Nostri",
+    "date": "2013-11-21 T 19:30:00",
     "capacity": "156",
-    "occupation": "111",
+    "occupation": "23",
     "event_genres": "",
-    "lineup": "felisa",
-    "headliner": "felisa",
+    "lineup": "cantata_membra_jesu_nostri",
+    "headliner": "Cantata Membra Jesu Nostri",
     "city": "medellin"
   },
   "geometry": {

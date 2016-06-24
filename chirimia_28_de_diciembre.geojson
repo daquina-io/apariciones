@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": "Casa Teatro El Poblado",
-    "event": "Felisa. Geometría natural (lanzamiento)",
-    "date": "2015-11-12 T 20:00:00",
+    "event": "Chirimía 28 de diciembre",
+    "date": "2013-07-18 T 20:00:00",
     "capacity": "156",
-    "occupation": "111",
-    "event_genres": "",
-    "lineup": "felisa",
-    "headliner": "felisa",
+    "occupation": "20",
+    "event_genres": "chirimia",
+    "lineup": "chirimia_28_de_diciembre",
+    "headliner": "Chirimía 28 de diciembre",
     "city": "medellin"
   },
   "geometry": {

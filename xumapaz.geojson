@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": "Casa Teatro El Poblado",
-    "event": "Felisa. Geometría natural (lanzamiento)",
-    "date": "2015-11-12 T 20:00:00",
+    "event": "Xumapaz (Bogotá)",
+    "date": "2014-10-09 T 20:00:00",
     "capacity": "156",
-    "occupation": "111",
+    "occupation": "36",
     "event_genres": "",
-    "lineup": "felisa",
-    "headliner": "felisa",
+    "lineup": "xumapaz",
+    "headliner": "xumapaz",
     "city": "medellin"
   },
   "geometry": {

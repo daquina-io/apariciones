@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Casa Teatro El Poblado",
+    "event": "Festival internacional de música de Medellín. Recital: Cuarteto de Cuerdas de Harvard.",
+    "date": "2013-09-05 T 20:00:00",
+    "capacity": "156",
+    "occupation": "115",
+    "event_genres": "sinfonico",
+    "lineup": "cuarteto_de_cuerdas_de_harvard",
+    "headliner": "Cuarteto de Cuerdas de Harvard",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.58072328567505, 6.18831537756351]
+  }
+}

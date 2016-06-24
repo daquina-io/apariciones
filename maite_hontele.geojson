@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": "Casa Teatro El Poblado",
-    "event": "Felisa. Geometría natural (lanzamiento)",
-    "date": "2015-11-12 T 20:00:00",
+    "event": "Maite Hontelé. Te voy a querer. Lanzamiento",
+    "date": "2015-09-18 T 20:00:00",
     "capacity": "156",
-    "occupation": "111",
-    "event_genres": "",
-    "lineup": "felisa",
-    "headliner": "felisa",
+    "occupation": "285",
+    "event_genres": "latinjazz",
+    "lineup": "maite_hontele",
+    "headliner": "maite_hontele",
     "city": "medellin"
   },
   "geometry": {

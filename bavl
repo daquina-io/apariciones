@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "headliner": "bavl",
+        "venue": "Platohedro",
+        "city": "Medellin",
+        "event": "Casa abierta ",
+        "capacity": "100",
+        "lineup": "bavl, algoritmos, radionoise",
+        "date": "2014-11-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55774211883545,
+          6.2441932582311255
+        ]
+      }
+    }
+  ]
+}

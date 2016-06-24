@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Casa Teatro El Poblado",
+    "event": "Obra: Retorno
+OBRA GANADORA BECA PARA LA CREACIÓN
+",
+    "date": "2013-11-16 T 19:00:00",
+    "capacity": "156",
+    "occupation": "45",
+    "event_genres": "urbano",
+    "lineup": "albenis_montoya_ochoa",
+    "headliner": "Albenis Montoya Ochoa",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.58072328567505, 6.18831537756351]
+  }
+}

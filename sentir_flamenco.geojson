@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Casa Teatro El Poblado",
+    "event": "Sentir flamenco. Un viaje musical desde la India hasta España",
+    "date": "2015-05-22 T 20:00:00",
+    "capacity": "156",
+    "occupation": "154",
+    "event_genres": "flamenco",
+    "lineup": "sentir_flamenco",
+    "headliner": "sentir_flamenco",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.58072328567505, 6.18831537756351]
+  }
+}

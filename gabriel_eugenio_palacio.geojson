@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": "Casa Teatro El Poblado",
-    "event": "Felisa. Geometría natural (lanzamiento)",
-    "date": "2015-11-12 T 20:00:00",
+    "event": "Gabriel Eugenio Palacio. Canciones Des-Generadas. Concierto",
+    "date": "2014-08-06 T 20:00:00",
     "capacity": "156",
-    "occupation": "111",
+    "occupation": "125",
     "event_genres": "",
-    "lineup": "felisa",
-    "headliner": "felisa",
+    "lineup": "gabriel_eugenio_palacio",
+    "headliner": "gabriel_eugenio_palacio",
     "city": "medellin"
   },
   "geometry": {

@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": "Casa Teatro El Poblado",
-    "event": "Felisa. Geometría natural (lanzamiento)",
-    "date": "2015-11-12 T 20:00:00",
+    "event": "Concierto del Coro Universidad EAFIT.",
+    "date": "2014-04-30 T 19:30:00",
     "capacity": "156",
-    "occupation": "111",
-    "event_genres": "",
-    "lineup": "felisa",
-    "headliner": "felisa",
+    "occupation": "58",
+    "event_genres": "coral",
+    "lineup": "coro_universitario_eafit",
+    "headliner": "coro_universitario_eafit",
     "city": "medellin"
   },
   "geometry": {

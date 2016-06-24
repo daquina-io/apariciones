@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": "Casa Teatro El Poblado",
-    "event": "Felisa. Geometría natural (lanzamiento)",
-    "date": "2015-11-12 T 20:00:00",
+    "event": "Recital marimba. Miguel García Moreno",
+    "date": "2015-11-24 T 20:00:00",
     "capacity": "156",
-    "occupation": "111",
-    "event_genres": "",
-    "lineup": "felisa",
-    "headliner": "felisa",
+    "occupation": "58",
+    "event_genres": "instrumental",
+    "lineup": "miguel_garcía_moreno",
+    "headliner": "miguel_garcía_moreno",
     "city": "medellin"
   },
   "geometry": {

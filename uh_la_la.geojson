@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": "Casa Teatro El Poblado",
-    "event": "Felisa. Geometría natural (lanzamiento)",
-    "date": "2015-11-12 T 20:00:00",
+    "event": "Música Corriente. Uh la lá",
+    "date": "2015-10-30 T 20:00:00",
     "capacity": "156",
-    "occupation": "111",
+    "occupation": "77",
     "event_genres": "",
-    "lineup": "felisa",
-    "headliner": "felisa",
+    "lineup": "uh_la_lá",
+    "headliner": "uh_la_lá",
     "city": "medellin"
   },
   "geometry": {

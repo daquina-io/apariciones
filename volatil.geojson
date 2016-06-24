@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": "Casa Teatro El Poblado",
-    "event": "Felisa. Geometría natural (lanzamiento)",
-    "date": "2015-11-12 T 20:00:00",
+    "event": "Volätil. Rock. Concierto.",
+    "date": "2014-08-15 T 21:00:00",
     "capacity": "156",
-    "occupation": "111",
-    "event_genres": "",
-    "lineup": "felisa",
-    "headliner": "felisa",
+    "occupation": "171",
+    "event_genres": "rock",
+    "lineup": "volatil",
+    "headliner": "volatil",
     "city": "medellin"
   },
   "geometry": {

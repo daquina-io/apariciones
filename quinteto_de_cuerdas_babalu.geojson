@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Casa Teatro El Poblado",
+    "event": "USM en Casa. Quinteto de cuerdas Babalú",
+    "date": "2016-02-25 T 20:00:00",
+    "capacity": "156",
+    "occupation": "",
+    "event_genres": "camara",
+    "lineup": "quinteto_de_cuerdas_babalú",
+    "headliner": "quinteto_de_cuerdas_babalú",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.58072328567505, 6.18831537756351]
+  }
+}

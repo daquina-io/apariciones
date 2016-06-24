@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "20 de julio",
+        "event": "",
+        "date": "2010-10-31",
+        "capacity": 300,
+        "occupation": 100,
+        "lineup": "Spastico, 50/50, Apariciones frecuentes",
+        "link": "",
+        "added_by": "antropomorfa",
+        "founder": "",
+        "headliner": "Tendencia Garage",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "twitter_followers": "",
+        "city": "Medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56747317314148,
+          6.250469682451379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Teatro Matacandelas",
+        "event": "",
+        "date": "2011-04-11",
+        "capacity": 250,
+        "occupation": 100,
+        "lineup": "Mr bleat, neoplatonics, killerfish",
+        "event_genre": "Indie_electronico, pop_oscuro, indie_rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56453347206114,
+          6.244507881117909
+        ]
+      }
+    }
+  ]
+}

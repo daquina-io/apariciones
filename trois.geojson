@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": "Casa Teatro El Poblado",
-    "event": "Felisa. Geometría natural (lanzamiento)",
-    "date": "2015-11-12 T 20:00:00",
+    "event": "El Grilo. Ensamble coral. Trois.",
+    "date": "2014-05-23 T 20:00:00",
     "capacity": "156",
-    "occupation": "111",
-    "event_genres": "",
-    "lineup": "felisa",
-    "headliner": "felisa",
+    "occupation": "93",
+    "event_genres": "coral",
+    "lineup": "trois",
+    "headliner": "trois",
     "city": "medellin"
   },
   "geometry": {

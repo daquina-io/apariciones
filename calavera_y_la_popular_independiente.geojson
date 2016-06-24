@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Casa Teatro El Poblado",
+    "event": "Calavera y la popular independiente",
+    "date": "2014-12-05 T 20:00:00",
+    "capacity": "156",
+    "occupation": "88",
+    "event_genres": "rock",
+    "lineup": "calavera_y_la_popular_independiente",
+    "headliner": "calavera_y_la_popular_independiente",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.58072328567505, 6.18831537756351]
+  }
+}

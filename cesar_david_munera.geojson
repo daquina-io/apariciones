@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Casa Teatro El Poblado",
+    "event": "Concierto de guitarra flamenca. César David Múnera (solista)",
+    "date": "2014-07-03 T 20:00:00",
+    "capacity": "156",
+    "occupation": "40",
+    "event_genres": "flamenco",
+    "lineup": "cesar_david_munera",
+    "headliner": "cesar_david_munera",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.58072328567505, 6.18831537756351]
+  }
+}

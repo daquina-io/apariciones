@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": "Casa Teatro El Poblado",
-    "event": "Felisa. Geometría natural (lanzamiento)",
-    "date": "2015-11-12 T 20:00:00",
+    "event": "Besayuno. Mónica Zuluaga",
+    "date": "2015-10-23 T 20:00:00",
     "capacity": "156",
-    "occupation": "111",
-    "event_genres": "",
-    "lineup": "felisa",
-    "headliner": "felisa",
+    "occupation": "85",
+    "event_genres": "cantautor",
+    "lineup": "mónica_zuluaga",
+    "headliner": "mónica_zuluaga",
     "city": "medellin"
   },
   "geometry": {

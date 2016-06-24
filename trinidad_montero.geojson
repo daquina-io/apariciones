@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Casa Teatro El Poblado",
+    "event": "Trinidad Montero “La Trini” Serrat Flamenco
+España",
+    "date": "2015-03-28 T 20:00:00",
+    "capacity": "156",
+    "occupation": "131",
+    "event_genres": "flamenco",
+    "lineup": "trinidad_montero",
+    "headliner": "trinidad_montero",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.58072328567505, 6.18831537756351]
+  }
+}

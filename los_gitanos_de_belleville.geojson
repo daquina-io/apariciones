@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Casa Teatro El Poblado",
+    "event": "Los Gitanos de Belleville. Música Francesa y Gypsy Jazz",
+    "date": "2014-07-25 T 20:00:00",
+    "capacity": "156",
+    "occupation": "96",
+    "event_genres": "world",
+    "lineup": "los_gitanos_de_belleville",
+    "headliner": "los_gitanos_de_belleville",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.58072328567505, 6.18831537756351]
+  }
+}

@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": "Casa Teatro El Poblado",
-    "event": "Felisa. Geometría natural (lanzamiento)",
-    "date": "2015-11-12 T 20:00:00",
+    "event": "Los gitanos de Beleville",
+    "date": "2015-07-11 T 20:00:00",
     "capacity": "156",
-    "occupation": "111",
+    "occupation": "83",
     "event_genres": "",
-    "lineup": "felisa",
-    "headliner": "felisa",
+    "lineup": "los_gitanos_de_beleville",
+    "headliner": "los_gitanos_de_beleville",
     "city": "medellin"
   },
   "geometry": {

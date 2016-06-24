@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Casa Teatro El Poblado",
+    "event": "Concierto de piano. Juan Ramón Silva (Barranquilla)",
+    "date": "2014-10-30 T 20:00:00",
+    "capacity": "156",
+    "occupation": "26",
+    "event_genres": "instrumental",
+    "lineup": "juan_ramon_silva",
+    "headliner": "juan_ramon_silva",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.58072328567505, 6.18831537756351]
+  }
+}

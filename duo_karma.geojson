@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": "Casa Teatro El Poblado",
-    "event": "Felisa. Geometría natural (lanzamiento)",
-    "date": "2015-11-12 T 20:00:00",
+    "event": "Cantoalegre 30 años. Picnic. Concierto de fraternidad.",
+    "date": "2014-05-03 T 15:00:00",
     "capacity": "156",
-    "occupation": "111",
-    "event_genres": "",
-    "lineup": "felisa",
-    "headliner": "felisa",
+    "occupation": "450",
+    "event_genres": "infantil",
+    "lineup": "duo_karma",
+    "headliner": "duo_karma",
     "city": "medellin"
   },
   "geometry": {

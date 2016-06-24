@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Casa Teatro El Poblado",
+    "event": "Academia musical Studio Ensamble (no incluir en la programación del teatro)",
+    "date": "2013-06-23 T 16:00:00",
+    "capacity": "156",
+    "occupation": "60",
+    "event_genres": "rock",
+    "lineup": "academia_musical_studio_ensamble",
+    "headliner": "academia_musical_studio_ensamble",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.58072328567505, 6.18831537756351]
+  }
+}

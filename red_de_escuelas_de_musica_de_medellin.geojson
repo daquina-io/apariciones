@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Casa Teatro El Poblado",
+    "event": "Red de Escuelas de Música de Medellín. Hacia el parque.",
+    "date": "2014-11-15 T 17:00:00",
+    "capacity": "156",
+    "occupation": "60",
+    "event_genres": "sinfonico",
+    "lineup": "red_de_escuelas_de_musica_de_medellin",
+    "headliner": "red_de_escuelas_de_musica_de_medellin",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.58072328567505, 6.18831537756351]
+  }
+}

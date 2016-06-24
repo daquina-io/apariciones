@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Casa Teatro El Poblado",
+    "event": "Marimba de Colombia, América Latina y Japón con Alejandro Ruiz Zuluaga",
+    "date": "2013-06-07 T 20:00:00",
+    "capacity": "156",
+    "occupation": "35",
+    "event_genres": "world",
+    "lineup": "alejandro_ruiz_zuluaga",
+    "headliner": "Alejandro Ruiz Zuluaga",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.58072328567505, 6.18831537756351]
+  }
+}

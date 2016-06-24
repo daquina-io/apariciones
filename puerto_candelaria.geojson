@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Casa Teatro El Poblado",
+    "event": "Puerto Candelaria Halloween. Pachanga de ultratumba",
+    "date": "2015-10-31 T 20:00:00",
+    "capacity": "156",
+    "occupation": "223",
+    "event_genres": "latinjazz",
+    "lineup": "puerto_candelaria",
+    "headliner": "puerto_candelaria",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.58072328567505, 6.18831537756351]
+  }
+}

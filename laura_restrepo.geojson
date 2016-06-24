@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": "Casa Teatro El Poblado",
-    "event": "Felisa. Geometría natural (lanzamiento)",
-    "date": "2015-11-12 T 20:00:00",
+    "event": "Laura Restrepo. Lanzamiento CD",
+    "date": "2014-11-01 T 20:00:00",
     "capacity": "156",
-    "occupation": "111",
+    "occupation": "149",
     "event_genres": "",
-    "lineup": "felisa",
-    "headliner": "felisa",
+    "lineup": "laura_restrepo",
+    "headliner": "laura_restrepo",
     "city": "medellin"
   },
   "geometry": {

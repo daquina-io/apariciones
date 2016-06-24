@@ -3,13 +3,13 @@
   "properties":
   {
     "venue": "Casa Teatro El Poblado",
-    "event": "Felisa. Geometría natural (lanzamiento)",
-    "date": "2015-11-12 T 20:00:00",
+    "event": "Bisoñando. Majo Musicna",
+    "date": "2015-07-25 T 20:00:00",
     "capacity": "156",
-    "occupation": "111",
-    "event_genres": "",
-    "lineup": "felisa",
-    "headliner": "felisa",
+    "occupation": "64",
+    "event_genres": "pop",
+    "lineup": "majo_musicna",
+    "headliner": "majo_musicna",
     "city": "medellin"
   },
   "geometry": {

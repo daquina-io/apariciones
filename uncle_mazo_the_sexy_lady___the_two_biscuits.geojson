@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Casa Teatro El Poblado",
+    "event": "Blues night, un tributo al blues. Uncle mazo, the sexy lady & the two biscuits.",
+    "date": "2016-01-29 T 20:00:00",
+    "capacity": "156",
+    "occupation": "155",
+    "event_genres": "blues",
+    "lineup": "uncle_mazo_the_sexy_lady_&_the_two_biscuits",
+    "headliner": "uncle_mazo_the_sexy_lady_&_the_two_biscuits",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.58072328567505, 6.18831537756351]
+  }
+}

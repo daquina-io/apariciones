@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Casa Teatro El Poblado",
+    "event": "Escuela de vientos San Antonio de Prado. Red de Escuelas de Música de Medellín.",
+    "date": "2013-08-17 T 17:00:00",
+    "capacity": "156",
+    "occupation": "90",
+    "event_genres": "banda",
+    "lineup": "escuela_de_vientos_san_antonio_de_prado",
+    "headliner": "Escuela de vientos San Antonio de Prado",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.58072328567505, 6.18831537756351]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Casa Teatro El Poblado",
+    "event": "Concierto Ensamble de percusión y Escuela ARZ marimba",
+    "date": "2014-05-30 T 18:00:00",
+    "capacity": "156",
+    "occupation": "19",
+    "event_genres": "instrumental",
+    "lineup": "alejandro_ruiz",
+    "headliner": "alejandro_ruiz",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.58072328567505, 6.18831537756351]
+  }
+}
