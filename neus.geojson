@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Palacio de los Eventos",
+        "event": "Naturaleza Cibernetica",
+        "date": "1996-08-30 00:22:00",
+        "capacity": "NA",
+        "occupation": "100",
+        "lineup": "Posguerra, Neus, ",
+        "event_genre ": "metal, industrial",
+        "headliner": "neus",
+        "city": "medellin",
+        "price": "NA",
+        "notes": "Carlos el cantante de NEUS abrió un extiguidor, los asistentes tuvierosn que salir del recinto por unos 30 minutos y regresar a seguir el concierto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57695209980011,
+          6.214105906129717
+        ]
+      }
+    }
+  ]
+}
