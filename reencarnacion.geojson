@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "NA",
+        "event": "NA",
+        "date": "1989-01-01 00:00:00",
+        "capacity": "NA",
+        "occupation": "NA",
+        "lineup": "reencarnacion",
+        "event_genre ": "ultra_metal",
+        "headliner": "reencarnacion",
+        "city": "medellin",
+        "price": "NA",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55576801300049,
+          6.294610490393277
+        ]
+      }
+    }
+  ]
+}
