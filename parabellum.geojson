@@ -26,15 +26,17 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "NA",
+        "venue": "Parqueadero Manrique",
         "event": "NA",
-        "date": "1985-01-01 00:00:00",
+        "date": "1984-12-22 00:15:00",
         "capacity": "NA",
         "occupation": "NA",
         "lineup": "Parabellum",
         "event_genre ": "ultra_metal",
         "headliner": "parabellum",
-        "city": "medellin"
+        "city": "medellin",
+        "price": "100",
+        "notes":"El concierto estaba programado para el 15 de diciembre, se ve aplazado para el 22 con un tachón a mano en la boleta"
       },
       "geometry": {
         "type": "Point",
