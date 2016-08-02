@@ -1,12 +1,11 @@
 {
   "type": "Feature",
-  "properties":
-  {
+  "properties": {
     "venue": "Casa Teatro El Poblado",
-    "event": "Animales Eléctricos",
+    "event": "Animales Electricos",
     "date": "2015-11-06 T 20:00:00",
-    "capacity": "156",
-    "occupation": "113",
+    "capacity": 156,
+    "occupation": 90,
     "event_genres": "rock, electronica",
     "lineup": "estebangira",
     "headliner": "estebangira",
@@ -14,6 +13,9 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-75.58072328567505, 6.18831537756351]
+    "coordinates": [
+      -75.58072328567505,
+      6.18831537756351
+    ]
   }
 }

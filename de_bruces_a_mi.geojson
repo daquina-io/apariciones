@@ -13,8 +13,10 @@
         "capacity": 10000,
         "occupation": 50,
         "price": 0,
-        "founder": "AlcaldÃÂ­a de Medellin",
-        "city": "Medellin"
+        "founder": "AlcaldÃÂÃÂ­a de Medellin",
+        "city": "Medellin",
+        "headliner": "",
+        "lineup": "De Bruces a Mi"
       },
       "geometry": {
         "type": "Point",
@@ -32,7 +34,10 @@
         "marker-symbol": "",
         "event": "Latin Reggae Showcase 2015",
         "date": "2015-07-10",
-        "city": ""
+        "city": "",
+        "capacity": 500,
+        "headliner": "",
+        "lineup": "De Bruces a Mi"
       },
       "geometry": {
         "type": "Point",
@@ -49,7 +54,10 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "event": "Victoria Ska Fest",
-        "date": "2015-07-04"
+        "date": "2015-07-04",
+        "capacity": 500,
+        "headliner": "",
+        "lineup": "De Bruces a Mi"
       },
       "geometry": {
         "type": "Point",
@@ -70,7 +78,9 @@
         "date": "2014-08-09",
         "capacity": 3800,
         "occupation": 90,
-        "city": "Medellin"
+        "city": "Medellin",
+        "headliner": "",
+        "lineup": "De Bruces a Mi"
       },
       "geometry": {
         "type": "Point",
@@ -93,7 +103,9 @@
         "price": "100000, 130000, 150000",
         "founder": "Casa Babylon",
         "capacity": 3000,
-        "city": "Medellin"
+        "city": "Medellin",
+        "headliner": "",
+        "lineup": "De Bruces a Mi"
       },
       "geometry": {
         "type": "Point",
@@ -116,9 +128,10 @@
         "occupation": "",
         "price": 60000,
         "founder": "",
-        "lineup": "Barrington Levy, Gondwana, De bruces a Mi, KiÃÂ±o",
+        "lineup": "Barrington Levy, Gondwana, De bruces a Mi, KiÃÂÃÂ±o",
         "link": "https://www.facebook.com/events/337203946371449/",
-        "city": "Medellin"
+        "city": "Medellin",
+        "headliner": ""
       },
       "geometry": {
         "type": "Point",
@@ -137,7 +150,7 @@
         "date": "2006-07-29",
         "occupation": 90,
         "price": 0,
-        "founder": "AlcaldÃÂ­a de Medellin",
+        "founder": "AlcaldÃÂÃÂ­a de Medellin",
         "lineup": "Magdalena, Tribu Omerta, Senores Usuarios, la Furruska, De Bruces a mi, patas arriba, santeria, Don Kristobal, Rasbarule, Tarmac, Burkina  ",
         "link": "http://blog.pucp.edu.pe/blog/franco/2006/07/28/29-de-julio-de-bruces-a-mi-en-antioquia/",
         "city": "Medellin"
@@ -186,8 +199,9 @@
         "capacity": 1000,
         "occupation": 100,
         "price": 0,
-        "founder": "AlcaldÃÂ­a de Riosucio",
-        "city": "Riosucio"
+        "founder": "AlcaldÃÂÃÂ­a de Riosucio",
+        "city": "Riosucio",
+        "lineup": "De Bruces a Mi"
       },
       "geometry": {
         "type": "Point",
@@ -209,8 +223,9 @@
         "capacity": 10000,
         "occupation": 80,
         "price": 0,
-        "founder": "AlcaldÃÂ­a de Bogota",
-        "city": "Bogota"
+        "founder": "AlcaldÃÂÃÂ­a de Bogota",
+        "city": "Bogota",
+        "lineup": "De Bruces a Mi"
       },
       "geometry": {
         "type": "Point",
@@ -233,7 +248,8 @@
         "occupation": 50,
         "price": "130000,150000",
         "founder": "Casa Babylon",
-        "city": "Bogota"
+        "city": "Bogota",
+        "lineup": "De Bruces a Mi"
       },
       "geometry": {
         "type": "Point",
@@ -302,8 +318,8 @@
         "capacity": 5000,
         "occupation": 80,
         "price": "80000, 100000",
-        "founder": "CorporaciÃ³n La Perla Cultural ",
-        "lineup": " Bazurto All Stars, Freaky Friday, MonosÃ³nico Champetuo, SinÃ³nimo de Cole, Mr Black,  De Bruces A MÃ­, Yage, Mitu, Martina La Peligrosa, Thonda de San AndrÃ©s Islas, Westisbest y los DJ Sets,  DJ Manedav, DJ Cronopio, DJ Loko y  DJ Julio Victoria, Systema Solar",
+        "founder": "CorporaciÃÂ³n La Perla Cultural ",
+        "lineup": " Bazurto All Stars, Freaky Friday, MonosÃÂ³nico Champetuo, SinÃÂ³nimo de Cole, Mr Black,  De Bruces A MÃÂ­, Yage, Mitu, Martina La Peligrosa, Thonda de San AndrÃÂ©s Islas, Westisbest y los DJ Sets,  DJ Manedav, DJ Cronopio, DJ Loko y  DJ Julio Victoria, Systema Solar",
         "headliner": "Alpha Blondy",
         "city": "Santa Marta"
       },
@@ -394,7 +410,7 @@
         "occupation": 70,
         "price": "NA",
         "founder": "Miche Rock",
-        "lineup": "Tr3S Gatos, La Margarita y Legión, , De bruces a mí, y Masacre, Sicotrópico, The Kuko's Band",
+        "lineup": "Tr3S Gatos, La Margarita y LegiÃ³n, , De bruces a mÃ­, y Masacre, SicotrÃ³pico, The Kuko's Band",
         "link": "",
         "headliner": "NA",
         "city": "Barranquilla"
