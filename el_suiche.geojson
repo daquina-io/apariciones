@@ -156,7 +156,7 @@
         "date": "2014-09-09",
         "capacity": 150,
         "occupation": 50,
-        "lineup": "Reaccion Cadena, Ruidocracia y FicciÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n",
+        "lineup": "Reaccion Cadena, Ruidocracia y FicciÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n",
         "headliner": ""
       },
       "geometry": {
@@ -330,7 +330,7 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "TransfusiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n Bar",
+        "venue": "TransfusiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n Bar",
         "city": "Medellin",
         "event": "El Suiche ",
         "date": "2015-09-23",
@@ -534,7 +534,7 @@
         "city": "Medellin",
         "event": "El Suiche",
         "date": "2006-08-09",
-        "capacity": "",
+        "capacity": 200,
         "occupation": "",
         "lineup": "Lucrecia"
       },
@@ -553,7 +553,7 @@
         "city": "Medellin",
         "event": "El Suiche",
         "date": "2009-09-13",
-        "capacity": "",
+        "capacity": 200,
         "occupation": "",
         "lineup": "Siete"
       },
