@@ -11,12 +11,13 @@
         "event": "Fiestas del ITM",
         "date": "2015-09-25",
         "capacity": 350,
-        "ocupation": 100,
         "price": 0,
         "founder": "ITM",
         "lineup": "NA",
         "headliner": "Providencia",
-        "city": "Medellin"
+        "city": "Medellin",
+        "event_genres": "reggae",
+        "occupation": "NA"
       },
       "geometry": {
         "type": "Point",
@@ -33,12 +34,13 @@
         "venue": "LLano Grande",
         "event": "Festival Super Fresh",
         "date": "2015-08-29",
-        "capacity": "NA",
-        "ocupation": "NA",
+        "capacity": 500,
         "price": "NA",
         "founder": "NA",
         "lineup": "NA",
-        "city": "Medellin"
+        "city": "Medellin",
+        "event_genres": "reggae",
+        "occupation": "NA"
       },
       "geometry": {
         "type": "Point",
@@ -57,11 +59,12 @@
         "capacity": 923,
         "occupation": "NA",
         "price": 25000,
-        "founder": "Teatro Pablo Tobon Uribe,  Providencia, TARMAC, Zafarrancho, ZATELITE, KÃÂÃÂ¤ina y Sabor Yembe Orquesta",
-        "lineup": " Providencia, TARMAC, Zafarrancho, ZATELITE, KÃÂÃÂ¤ina y Sabor Yembe Orquesta",
+        "founder": "Teatro Pablo Tobon Uribe,  Providencia, TARMAC, Zafarrancho, ZATELITE, KÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¤ina y Sabor Yembe Orquesta",
+        "lineup": " Providencia, TARMAC, Zafarrancho, ZATELITE, KÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¤ina y Sabor Yembe Orquesta",
         "link": "https://www.facebook.com/tarmac.reggae/photos/pb.61785954090.-2207520000.1444239002./10152577751124091/?type=3&theater",
         "marker-symbol": "",
-        "city": "Medellin"
+        "city": "Medellin",
+        "event_genres": "reggae"
       },
       "geometry": {
         "type": "Point",
@@ -78,14 +81,14 @@
         "event": "IX Festival Internacional del Tango medellin",
         "date": "2015-06-27",
         "capacity": 20000,
-        "ocupation": 100,
         "price": 0,
         "founder": "Municipio de Medellin",
         "lineup": "Providencia, La Toma",
         "occupation": 100,
         "link": "",
         "marker-size": "",
-        "city": "Medellin"
+        "city": "Medellin",
+        "event_genres": "reggae"
       },
       "geometry": {
         "type": "Point",
@@ -103,12 +106,12 @@
         "event": "Medellin summer bike",
         "date": "2015-07-12",
         "capacity": 3000,
-        "ocupation": "NA",
         "price": "NA",
         "founder": "NA",
         "lineup": "NA",
         "city": "Medellin",
-        "occupation": "NA"
+        "occupation": "NA",
+        "event_genres": "reggae"
       },
       "geometry": {
         "type": "Point",
@@ -130,7 +133,8 @@
         "added_by": "son0p",
         "founder": "grove festival",
         "headliner": "matiasyahu",
-        "city": "medellin"
+        "city": "medellin",
+        "event_genres": "reggae"
       },
       "geometry": {
         "type": "Point",
