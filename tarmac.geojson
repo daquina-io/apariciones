@@ -10,7 +10,7 @@
         "venue": "12 de Octubre",
         "event": "Feria de Flores",
         "date": "2015-08-03",
-        "capacity": "NA",
+        "capacity": 1000,
         "occupation": "NA",
         "price": 0,
         "founder": "Alcaldia de Medellin",
@@ -29,7 +29,7 @@
       "properties": {
         "price": "NA",
         "occupation": "NA",
-        "capacity": "NA",
+        "capacity": 500,
         "date": "2015-07-20",
         "event": "NA",
         "venue": "El reversadero (El Salado)",
@@ -48,7 +48,7 @@
     {
       "type": "Feature",
       "properties": {
-        "capacity": "NA",
+        "capacity": 2000,
         "date": "2015-01-24",
         "event": "Car Audio Reggae Fest",
         "venue": "Corferias",
@@ -78,8 +78,8 @@
         "capacity": 923,
         "occupation": "NA",
         "price": 25000,
-        "founder": "Teatro Pablo Tobon Uribe,  Providencia, TARMAC, Zafarrancho, ZATELITE, Käina y Sabor Yembe Orquesta",
-        "lineup": " Providencia, TARMAC, Zafarrancho, ZATELITE, Käina y Sabor Yembe Orquesta",
+        "founder": "Teatro Pablo Tobon Uribe,  Providencia, TARMAC, Zafarrancho, ZATELITE, KÃ¤ina y Sabor Yembe Orquesta",
+        "lineup": " Providencia, TARMAC, Zafarrancho, ZATELITE, KÃ¤ina y Sabor Yembe Orquesta",
         "link": "https://www.facebook.com/tarmac.reggae/photos/pb.61785954090.-2207520000.1444239002./10152577751124091/?type=3&theater",
         "marker-symbol": ""
       },
