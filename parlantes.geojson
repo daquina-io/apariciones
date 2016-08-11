@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Teatro Lido",
+    "event": "Lanzamiento Lengua Negra",
+    "date": "2009-03-28 T 20:00:00",
+    "capacity": "1400",
+    "occupation": "80",
+    "event_genres": "rock",
+    "lineup": "parlantes",
+    "headliner": "parlantes",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.5644530057907, 6.252229414046749]
+  }
+}
