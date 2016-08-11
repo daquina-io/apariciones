@@ -156,7 +156,7 @@
         "date": "2014-09-09",
         "capacity": 150,
         "occupation": 50,
-        "lineup": "Reaccion Cadena, Ruidocracia y FicciÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n",
+        "lineup": "Reaccion Cadena, Ruidocracia y Ficcion",
         "headliner": ""
       },
       "geometry": {
@@ -330,7 +330,7 @@
     {
       "type": "Feature",
       "properties": {
-        "venue": "TransfusiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n Bar",
+        "venue": "Transfusion Bar",
         "city": "Medellin",
         "event": "El Suiche ",
         "date": "2015-09-23",
