@@ -1,4 +1,6 @@
-venue, capacity, lat, long
-Teatro Pablo Tobon Uribe, 923,  -75.55927366018295, 6.2475474484229325
-Auditorio ITM (floresta), 300, -75.60211658477783,  6.257017987009706
-Teatro Lido, 1400, -75.5644530057907, 6.25222941404674
+venue, city,  capacity, lat, long
+Teatro Pablo Tobon Uribe,medellin, 923,  -75.55927366018295, 6.2475474484229325
+Auditorio ITM (floresta),medellin, 300, -75.60211658477783,  6.257017987009706
+Teatro Lido,medellin, 1400, -75.5644530057907, 6.25222941404674
+The Filmore,miami, 2462, -80.1333600282669, 25.792820304034187
+The House of Blues, orlando,1500 , -81.5217250585556, 28.37085577089754
