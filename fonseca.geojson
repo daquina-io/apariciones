@@ -1352,6 +1352,52 @@
         ]
       }
     },
+      {
+          "type": "Feature",
+          "properties": {
+              "venue": "The Filmore",
+              "event": "conexion tour",
+              "date": "2016-05-14 T 22:00:00",
+              "capacity": 2462,
+              "occupation": 100,
+              "lineup": "fonseca",
+              "event_genres": "pop, tropipop",
+              "city": "miami",
+              "headliner": "fonseca",
+              "marker-color": ""
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                      -80.1333600282669,
+                  25.792820304034187
+              ]
+          }
+      },
+
+      {
+          "type": "Feature",
+          "properties": {
+              "venue": "The House of Blues",
+              "event": "conexion tour",
+              "date": "2016-05-15 T 22:00:00",
+              "capacity": 1500,
+              "occupation": 100,
+              "lineup": "fonseca",
+              "event_genres": "pop, tropipop",
+              "city": "orlando",
+              "headliner": "fonseca",
+              "marker-color": ""
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                      -81.5217250585556,
+                  28.37085577089754
+              ]
+          }
+      },
+
     {
       "type": "Feature",
       "properties": {
