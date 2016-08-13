@@ -1418,6 +1418,90 @@
           47.61635
         ]
       }
-    }
+    },
+      {
+          "type": "Feature",
+          "properties": {
+              "venue": "Playstation Theatre",
+              "event": "conexion tour",
+              "date": "2013-04-21 T 22:00:00",
+              "capacity": 1200,
+              "occupation": 100,
+              "lineup": "fonseca",
+              "event_genres": "pop, tropipop",
+              "city": "New York",
+              "headliner": "fonseca"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                 -73.98650944232939,
+                  40.75776579899014
+              ]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "venue": "The Filmore",
+              "event": "conexion tour",
+              "date": "2013-04-21 T 22:00:00",
+              "capacity": 2000,
+              "occupation": 100,
+              "lineup": "fonseca",
+              "event_genres": "pop, tropipop",
+              "city": "Silver Spring",
+              "headliner": "fonseca"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  -80.1333600282669,
+                  25.792820304034187
+              ]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "venue": "Wonderland Ballroom",
+              "event": "conexion tour",
+              "date": "2013-04-23 T 22:00:00",
+              "capacity": 1300,
+              "occupation": 80,
+              "lineup": "fonseca",
+              "event_genres": "pop, tropipop",
+              "city": "Boston",
+              "headliner": "fonseca"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  -70.9920859336853,
+                  42.41421342557534
+              ]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "venue": "Queen Elizabeth Theater",
+              "event": "conexion tour",
+              "date": "2013-05-20 T 22:00:00",
+              "capacity": 1250,
+              "occupation": 80,
+              "lineup": "fonseca",
+              "event_genres": "pop, tropipop",
+              "city": "Toronto",
+              "headliner": "fonseca"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  -79.4211745262146,
+                  43.633027370687664
+              ]
+          }
+      }
   ]
 }
