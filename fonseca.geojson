@@ -1403,7 +1403,7 @@
       "properties": {
         "venue": "meydenbauer center",
         "event": "ilusion world tour",
-        "date": "2013-05-12 T 22:00:00",
+        "date": "2016-05-12 T 22:00:00",
         "capacity": 750,
         "occupation": 80,
         "lineup": "fonseca",
@@ -1424,7 +1424,7 @@
           "properties": {
               "venue": "Playstation Theatre",
               "event": "conexion tour",
-              "date": "2013-04-21 T 22:00:00",
+              "date": "2016-04-21 T 22:00:00",
               "capacity": 1200,
               "occupation": 100,
               "lineup": "fonseca",
@@ -1445,7 +1445,7 @@
           "properties": {
               "venue": "The Filmore",
               "event": "conexion tour",
-              "date": "2013-04-21 T 22:00:00",
+              "date": "2016-04-21 T 22:00:00",
               "capacity": 2000,
               "occupation": 100,
               "lineup": "fonseca",
@@ -1466,7 +1466,7 @@
           "properties": {
               "venue": "Wonderland Ballroom",
               "event": "conexion tour",
-              "date": "2013-04-23 T 22:00:00",
+              "date": "2016-04-23 T 22:00:00",
               "capacity": 1300,
               "occupation": 80,
               "lineup": "fonseca",
@@ -1487,7 +1487,7 @@
           "properties": {
               "venue": "Queen Elizabeth Theater",
               "event": "conexion tour",
-              "date": "2013-05-20 T 22:00:00",
+              "date": "2016-05-20 T 22:00:00",
               "capacity": 1250,
               "occupation": 80,
               "lineup": "fonseca",
@@ -1502,6 +1502,69 @@
                   43.633027370687664
               ]
           }
-      }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "venue": "House of Blues",
+              "event": "conexion tour",
+              "date": "2016-05-07 T 22:00:00",
+              "capacity": 1000,
+              "occupation": 100,
+              "lineup": "fonseca",
+              "event_genres": "pop, tropipop",
+              "city": "houston",
+              "headliner": "fonseca"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                      -95.36393523216248,
+                  29.75406688155101
+              ]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "venue": "House of Blues",
+              "event": "ilusion tour",
+              "date": "2013-04-11 T 22:00:00",
+              "capacity": 1000,
+              "occupation": 100,
+              "lineup": "fonseca",
+              "event_genres": "pop, tropipop",
+              "city": "houston",
+              "headliner": "fonseca"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                      -95.36393523216248,
+                  29.75406688155101
+              ]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "venue": "Flames central",
+              "event": "conexion tour",
+              "date": "2016-05-21 T 22:00:00",
+              "capacity": 800,
+              "occupation": 100,
+              "lineup": "fonseca",
+              "event_genres": "pop, tropipop",
+              "city": "calgary",
+              "headliner": "fonseca"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                      -114.06635373830794,
+                  51.04558794036408
+              ]
+          }
+      },
   ]
 }
