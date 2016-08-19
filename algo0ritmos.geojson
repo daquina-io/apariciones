@@ -119,8 +119,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "venue": "Planetario de Medellin",
-        "event": "Lanzamiento Medellin Vive La MÃºsica",
-        "capacity": 300,
+        "event": "Lanzamiento Medellin Vive La Musica",
+        "capacity": 200,
         "occupation": 30,
         "price": 0,
         "founder": "Medellin vive La MÃºsica",
@@ -142,7 +142,7 @@
         "founder": "",
         "price": 0,
         "capacity": 20,
-        "occupation": 18,
+        "occupation": 70,
         "event": "InvitaciÃ³n Viviana Ramirez",
         "lineup": ""
       },
@@ -153,6 +153,48 @@
           6.238156728282424
         ]
       }
-    }
+    },
+      {
+          "type": "Feature",
+          "properties": {
+              "venue": "Platohedro",
+              "date": "2015-12-12",
+              "founder": "",
+              "price": 0,
+              "capacity": 50,
+              "occupation": 100,
+              "event": "4tho encuentro de juventudes ruidistas",
+              "lineup": "diego_molina,  baul, rccc, kaziuz, damange, jose_milla, abracadaver, librepensante, capilla_records, la_jaquer_noise, bejaranoise, los_aparatos",
+              "headliner":"algo0ritmos"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                      -75.55658340454102,
+                  6.243644000874042
+              ]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "venue": "mamm (aula Taller)",
+              "date": "2015-12-12",
+              "founder": "",
+              "price": 0,
+              "capacity": 30,
+              "occupation": 100,
+              "event": "laboratorios experimentales",
+              "lineup": "",
+              "headliner":"algo0ritmos"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                      -75.57376027107237,
+                  6.223539719074986
+              ]
+          }
+      }
   ]
 }
