@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Parque El Poblado",
+    "event": "Hatogrande",
+    "date": "2008-06-12 T 20:00:00",
+    "capacity": "500",
+    "occupation": "100",
+    "event_genres": "punk, rock, grunge",
+    "lineup": "parlantes, los_sorners, atomos, hi_chico",
+    "headliner": "parlantes",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.57077765464781,
+          6.210468856744947]
+  }
+}
