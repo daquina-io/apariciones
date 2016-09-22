@@ -1,450 +1,469 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "venue": "Carrera 74",
-        "event": "Concierto de la Juventud",
-        "date": "2015-08-07",
-        "capacity": 10000,
-        "occupation": 50,
-        "price": 0,
-        "founder": "AlcaldÃÂÃÂ­a de Medellin",
-        "city": "Medellin",
-        "headliner": "",
-        "lineup": "De Bruces a Mi"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.59207439422607,
-          6.256620718427036
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "event": "Latin Reggae Showcase 2015",
-        "date": "2015-07-10",
-        "city": "",
-        "capacity": 500,
-        "headliner": "",
-        "lineup": "De Bruces a Mi"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.69993925094604,
-          49.14960834801919
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "event": "Victoria Ska Fest",
-        "date": "2015-07-04",
-        "capacity": 500,
-        "headliner": "",
-        "lineup": "De Bruces a Mi"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.3699417114258,
-          48.42291759174698
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "venue": "Teatro Carlos Vieco",
-        "event": "Concierto de la Juventud 2014",
-        "date": "2014-08-09",
-        "capacity": 3800,
-        "occupation": 90,
-        "city": "Medellin",
-        "headliner": "",
-        "lineup": "De Bruces a Mi"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.57941436767578,
-          6.237095528993374
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "venue": "Orquideorama",
-        "event": "Damian Marley",
-        "date": "2015-03-12",
-        "occupation": 100,
-        "price": "100000, 130000, 150000",
-        "founder": "Casa Babylon",
-        "capacity": 3000,
-        "city": "Medellin",
-        "headliner": "",
-        "lineup": "De Bruces a Mi"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.56420087814331,
-          6.270956857081849
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "venue": "Orquideorama",
-        "event": "Barrington Levy",
-        "date": "2012-10-12",
-        "capacity": 3000,
-        "occupation": "",
-        "price": 60000,
-        "founder": "",
-        "lineup": "Barrington Levy, Gondwana, De bruces a Mi, KiÃÂÃÂ±o",
-        "link": "https://www.facebook.com/events/337203946371449/",
-        "city": "Medellin",
-        "headliner": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.56410431861877,
-          6.270956857081849
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "capacity": 3800,
-        "venue": "Teatro Carlos Vieco",
-        "event": "Altavoz 2006",
-        "date": "2006-07-29",
-        "occupation": 90,
-        "price": 0,
-        "founder": "AlcaldÃÂÃÂ­a de Medellin",
-        "lineup": "Magdalena, Tribu Omerta, Senores Usuarios, la Furruska, De Bruces a mi, patas arriba, santeria, Don Kristobal, Rasbarule, Tarmac, Burkina  ",
-        "link": "http://blog.pucp.edu.pe/blog/franco/2006/07/28/29-de-julio-de-bruces-a-mi-en-antioquia/",
-        "city": "Medellin"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.5793821811676,
-          6.237087529995612
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "venue": "Plaza el Carmen",
-        "event": "XI Festival Internacional de Teatro",
-        "date": "2006-07-29",
-        "capacity": 1000,
-        "price": 0,
-        "founder": "",
-        "lineup": "Mixta Latina, De bruces a Mi",
-        "link": "http://blog.pucp.edu.pe/blog/franco/2006/07/28/29-de-julio-de-bruces-a-mi-en-antioquia/",
-        "city": "Carmen de vivoral"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.33506512641907,
-          6.083460453675269
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "venue": "Plaza de Riosucio",
-        "date": "2013-01-04",
-        "event": "Carnaval de Riosucio",
-        "capacity": 1000,
-        "occupation": 100,
-        "price": 0,
-        "founder": "AlcaldÃÂÃÂ­a de Riosucio",
-        "city": "Riosucio",
-        "lineup": "De Bruces a Mi"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.70335388183594,
-          5.420878552404836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "venue": "Parque Simon Bolivar",
-        "date": "2011-07-03",
-        "event": "Rock al Parque",
-        "capacity": 10000,
-        "occupation": 80,
-        "price": 0,
-        "founder": "AlcaldÃÂÃÂ­a de Bogota",
-        "city": "Bogota",
-        "lineup": "De Bruces a Mi"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.09075617790222,
-          4.658448022477691
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "venue": "Autopista Norte #222",
-        "date": "2013-06-02",
-        "event": "Jamming Festival",
-        "capacity": 10000,
-        "occupation": 50,
-        "price": "130000,150000",
-        "founder": "Casa Babylon",
-        "city": "Bogota",
-        "lineup": "De Bruces a Mi"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.0418004989624,
-          4.796229462104832
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "venue": "Palmahia",
-        "event": "Green Moon Festival",
-        "date": "2014-02-21",
-        "capacity": 2000,
-        "occupation": "NA",
-        "price": "NA",
-        "founder": "NA",
-        "lineup": "De Bruces A MiDon Cristobal,  the Warriors",
-        "link": "https://www.facebook.com/dbammedellin/photos/pb.280241628041.-2207520000.1445532871./10152013990708042/?type=3&theater",
-        "city": "Medellin"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.59099078178406,
-          6.1823795378284405
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "venue": "Bulevar Universidad Pontificia Bolivariana",
-        "event": "Parches Saludables",
-        "date": "2014-02-27",
-        "capacity": 200,
-        "occupation": 100,
-        "price": 0,
-        "founder": "Universidad Pontificia Bolivariana",
-        "lineup": "De Bruces A Mi",
-        "link": "https://www.facebook.com/dbammedellin/photos/pb.280241628041.-2207520000.1445532871./10152028836563042/?type=3&theater",
-        "city": "Medellin"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.58987498283385,
-          6.242518821382662
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "venue": "Playas de Pozos Colorados",
-        "event": "SierraMar Fest",
-        "date": "2014-04-19",
-        "capacity": 5000,
-        "occupation": 80,
-        "price": "80000, 100000",
-        "founder": "CorporaciÃÂ³n La Perla Cultural ",
-        "lineup": " Bazurto All Stars, Freaky Friday, MonosÃÂ³nico Champetuo, SinÃÂ³nimo de Cole, Mr Black,  De Bruces A MÃÂ­, Yage, Mitu, Martina La Peligrosa, Thonda de San AndrÃÂ©s Islas, Westisbest y los DJ Sets,  DJ Manedav, DJ Cronopio, DJ Loko y  DJ Julio Victoria, Systema Solar",
-        "headliner": "Alpha Blondy",
-        "city": "Santa Marta"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.22934055328369,
-          11.161139881509921
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "venue": " fundacion Circo Medellin",
-        "event": "Feria de lanzamiento del Elemento Sorpresa",
-        "date": "2012-03-12",
-        "capacity": 1000,
-        "occupation": "NA",
-        "price": "",
-        "founder": "De Bruces a Mi",
-        "lineup": "De Bruces a mi",
-        "link": "",
-        "headliner": "De Bruces a Mi",
-        "city": "Medellin"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.57804107666016,
-          6.23408789722764
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "venue": "Premium Plaza",
-        "event": "Bienvenida a las clases",
-        "date": "2014-01-25",
-        "capacity": 2500,
-        "occupation": 90,
-        "price": 0,
-        "founder": "CCial Premium plaza",
-        "lineup": "De Bruces a Mi",
-        "link": "",
-        "headliner": "De Bruces a Mi",
-        "city": "Medellin"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.57055234909058,
-          6.229821723299964
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "venue": "Teatro Pablo Tobon Uribe",
-        "event": "La cueva de las guacamayas",
-        "date": "2014-04-11",
-        "capacity": 923,
-        "occupation": "NA",
-        "price": 10000,
-        "founder": "De Bruces a Mi, Teatro Pablo Tobon Uribe",
-        "lineup": "De Bruces a Mi",
-        "link": "",
-        "headliner": "De Bruces a Mi",
-        "city": "Medellin"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.55920660495758,
-          6.247494122832851
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "venue": "Plaza de la paz",
-        "event": "Festival Miche Rock",
-        "date": "2012-10-23",
-        "capacity": 5000,
-        "occupation": 70,
-        "price": "NA",
-        "founder": "Miche Rock",
-        "lineup": "Tr3S Gatos, La Margarita y LegiÃ³n, , De bruces a mÃ­, y Masacre, SicotrÃ³pico, The Kuko's Band",
-        "link": "",
-        "headliner": "NA",
-        "city": "Barranquilla"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.789499,
-          10.988139
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "venue": "Parque Cultural Debora Arango",
-        "event": "Viernes con Debora",
-        "date": "2014-04-25",
-        "capacity": 2500,
-        "occupation": "NA",
-        "price": 0,
-        "founder": "confenalco",
-        "lineup": "Mary Hellen, de Bruces a Mi",
-        "link": "",
-        "headliner": "NA",
-        "city": "envigado"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.59053480625153,
-          6.171654325192581
-        ]
-      }
-    }
-  ]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "venue": "Carrera 74",
+                "event": "Concierto de la Juventud",
+                "date": "2015-08-07",
+                "capacity": 10000,
+                "occupation": 50,
+                "price": 0,
+                "founder": "AlcaldÃÂÃÂ­a de Medellin",
+                "city": "Medellin",
+                "headliner": "",
+                "lineup": "De Bruces a Mi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -75.59207439422607,
+                    6.256620718427036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "event": "Latin Reggae Showcase 2015",
+                "date": "2015-07-10",
+                "city": "",
+                "capacity": 500,
+                "headliner": "",
+                "lineup": "De Bruces a Mi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -123.69993925094604,
+                    49.14960834801919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "event": "Victoria Ska Fest",
+                "date": "2015-07-04",
+                "capacity": 500,
+                "headliner": "",
+                "lineup": "De Bruces a Mi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -123.3699417114258,
+                    48.42291759174698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "venue": "Teatro Carlos Vieco",
+                "event": "Concierto de la Juventud 2014",
+                "date": "2014-08-09",
+                "capacity": 3800,
+                "occupation": 90,
+                "city": "Medellin",
+                "headliner": "",
+                "lineup": "De Bruces a Mi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -75.57941436767578,
+                    6.237095528993374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "venue": "Orquideorama",
+                "event": "Damian Marley",
+                "date": "2015-03-12",
+                "occupation": 100,
+                "price": "100000, 130000, 150000",
+                "founder": "Casa Babylon",
+                "capacity": 3000,
+                "city": "Medellin",
+                "headliner": "",
+                "lineup": "De Bruces a Mi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -75.56420087814331,
+                    6.270956857081849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "venue": "Orquideorama",
+                "event": "Barrington Levy",
+                "date": "2012-10-12",
+                "capacity": 3000,
+                "occupation": "",
+                "price": 60000,
+                "founder": "",
+                "lineup": "Barrington Levy, Gondwana, De bruces a Mi, KiÃÂÃÂ±o",
+                "link": "https://www.facebook.com/events/337203946371449/",
+                "city": "Medellin",
+                "headliner": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -75.56410431861877,
+                    6.270956857081849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "capacity": 3800,
+                "venue": "Teatro Carlos Vieco",
+                "event": "Altavoz 2006",
+                "date": "2006-07-29",
+                "occupation": 90,
+                "price": 0,
+                "founder": "AlcaldÃÂÃÂ­a de Medellin",
+                "lineup": "Magdalena, Tribu Omerta, Senores Usuarios, la Furruska, De Bruces a mi, patas arriba, santeria, Don Kristobal, Rasbarule, Tarmac, Burkina  ",
+                "link": "http://blog.pucp.edu.pe/blog/franco/2006/07/28/29-de-julio-de-bruces-a-mi-en-antioquia/",
+                "city": "Medellin"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -75.5793821811676,
+                    6.237087529995612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "venue": "Plaza el Carmen",
+                "event": "XI Festival Internacional de Teatro",
+                "date": "2006-07-29",
+                "capacity": 1000,
+                "price": 0,
+                "founder": "",
+                "lineup": "Mixta Latina, De bruces a Mi",
+                "link": "http://blog.pucp.edu.pe/blog/franco/2006/07/28/29-de-julio-de-bruces-a-mi-en-antioquia/",
+                "city": "Carmen de vivoral"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -75.33506512641907,
+                    6.083460453675269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "venue": "Plaza de Riosucio",
+                "date": "2013-01-04",
+                "event": "Carnaval de Riosucio",
+                "capacity": 1000,
+                "occupation": 100,
+                "price": 0,
+                "founder": "AlcaldÃÂÃÂ­a de Riosucio",
+                "city": "Riosucio",
+                "lineup": "De Bruces a Mi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -75.70335388183594,
+                    5.420878552404836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "venue": "Parque Simon Bolivar",
+                "date": "2011-07-03",
+                "event": "Rock al Parque",
+                "capacity": 10000,
+                "occupation": 80,
+                "price": 0,
+                "founder": "AlcaldÃÂÃÂ­a de Bogota",
+                "city": "Bogota",
+                "lineup": "De Bruces a Mi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -74.09075617790222,
+                    4.658448022477691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "venue": "Autopista Norte #222",
+                "date": "2013-06-02",
+                "event": "Jamming Festival",
+                "capacity": 10000,
+                "occupation": 50,
+                "price": "130000,150000",
+                "founder": "Casa Babylon",
+                "city": "Bogota",
+                "lineup": "De Bruces a Mi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -74.0418004989624,
+                    4.796229462104832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "venue": "Palmahia",
+                "event": "Green Moon Festival",
+                "date": "2014-02-21",
+                "capacity": 2000,
+                "occupation": "NA",
+                "price": "NA",
+                "founder": "NA",
+                "lineup": "De Bruces A MiDon Cristobal,  the Warriors",
+                "link": "https://www.facebook.com/dbammedellin/photos/pb.280241628041.-2207520000.1445532871./10152013990708042/?type=3&theater",
+                "city": "Medellin"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -75.59099078178406,
+                    6.1823795378284405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "venue": "Bulevar Universidad Pontificia Bolivariana",
+                "event": "Parches Saludables",
+                "date": "2014-02-27",
+                "capacity": 200,
+                "occupation": 100,
+                "price": 0,
+                "founder": "Universidad Pontificia Bolivariana",
+                "lineup": "De Bruces A Mi",
+                "link": "https://www.facebook.com/dbammedellin/photos/pb.280241628041.-2207520000.1445532871./10152028836563042/?type=3&theater",
+                "city": "Medellin"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -75.58987498283385,
+                    6.242518821382662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "venue": "Playas de Pozos Colorados",
+                "event": "SierraMar Fest",
+                "date": "2014-04-19",
+                "capacity": 5000,
+                "occupation": 80,
+                "price": "80000, 100000",
+                "founder": "CorporaciÃÂ³n La Perla Cultural ",
+                "lineup": " Bazurto All Stars, Freaky Friday, MonosÃÂ³nico Champetuo, SinÃÂ³nimo de Cole, Mr Black,  De Bruces A MÃÂ­, Yage, Mitu, Martina La Peligrosa, Thonda de San AndrÃÂ©s Islas, Westisbest y los DJ Sets,  DJ Manedav, DJ Cronopio, DJ Loko y  DJ Julio Victoria, Systema Solar",
+                "headliner": "Alpha Blondy",
+                "city": "Santa Marta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -74.22934055328369,
+                    11.161139881509921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "venue": " fundacion Circo Medellin",
+                "event": "Feria de lanzamiento del Elemento Sorpresa",
+                "date": "2012-03-12",
+                "capacity": 1000,
+                "occupation": "NA",
+                "price": "",
+                "founder": "De Bruces a Mi",
+                "lineup": "De Bruces a mi",
+                "link": "",
+                "headliner": "De Bruces a Mi",
+                "city": "Medellin"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -75.57804107666016,
+                    6.23408789722764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "venue": "Premium Plaza",
+                "event": "Bienvenida a las clases",
+                "date": "2014-01-25",
+                "capacity": 2500,
+                "occupation": 90,
+                "price": 0,
+                "founder": "CCial Premium plaza",
+                "lineup": "De Bruces a Mi",
+                "link": "",
+                "headliner": "De Bruces a Mi",
+                "city": "Medellin"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -75.57055234909058,
+                    6.229821723299964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "venue": "Teatro Pablo Tobon Uribe",
+                "event": "La cueva de las guacamayas",
+                "date": "2014-04-11",
+                "capacity": 923,
+                "occupation": "NA",
+                "price": 10000,
+                "founder": "De Bruces a Mi, Teatro Pablo Tobon Uribe",
+                "lineup": "De Bruces a Mi",
+                "link": "",
+                "headliner": "De Bruces a Mi",
+                "city": "Medellin"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -75.55920660495758,
+                    6.247494122832851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "venue": "Plaza de la paz",
+                "event": "Festival Miche Rock",
+                "date": "2012-10-23",
+                "capacity": 5000,
+                "occupation": 70,
+                "price": "NA",
+                "founder": "Miche Rock",
+                "lineup": "Tr3S Gatos, La Margarita y Legion, , De bruces a mi, y Masacre, Sicotropico, The Kuko's Band",
+                "link": "",
+                "headliner": "NA",
+                "city": "Barranquilla"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -74.789499,
+                    10.988139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "venue": "Parque Cultural Debora Arango",
+                "event": "Viernes con Debora",
+                "date": "2014-04-25",
+                "capacity": 2500,
+                "occupation": "NA",
+                "price": 0,
+                "founder": "confenalco",
+                "lineup": "Mary Hellen, de Bruces a Mi",
+                "link": "",
+                "headliner": "NA",
+                "city": "envigado"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -75.59053480625153,
+                    6.171654325192581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "venue": "Telemedellin (Canal Parque)",
+                "event": "Parada Juvenil de la Lectura",
+                "date": "2016-08-11 T 18:00",
+                "capacity": "600",
+                "occupation": "100",
+                "event_genres": "rock, reggae, ska, latin",
+                "lineup": "agatha_I_,jaibanakus,asuntos_pendientes,de_bruces_a_mi,tucupra,vc4",
+                "headliner": "de_bruces_a_mi",
+                "city": "medellin"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-75.571496, 6.219550]
+            }
+        }
+    ]
 }
