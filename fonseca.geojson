@@ -1565,6 +1565,48 @@
                   51.04558794036408
               ]
           }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "venue": "Finca El Refugio",
+              "event": "privado",
+              "date": "2016-08-03 T 20:00:00",
+              "capacity": 500,
+              "occupation": 100,
+              "lineup": "fonseca",
+              "event_genres": "pop, tropipop",
+              "city": "bogota",
+              "headliner": "fonseca"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                      -74.0273916721344,
+                  4.925570747704209
+              ]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "venue": "Palacio de los deportes",
+              "event": "Nickelodeon Kids Choice Awards",
+              "date": "2016-08-10 T 19:00:00",
+              "capacity": 5000,
+              "occupation": 100,
+              "lineup": "fonseca",
+              "event_genres": "pop, tropipop, reggaeton",
+              "city": "bogota",
+              "headliner": "fonseca"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                      -74.08419013023376,
+                  4.655475252700296
+              ]
+          }
       }
   ]
 }
