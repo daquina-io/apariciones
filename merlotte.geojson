@@ -1,19 +1,96 @@
 {
-  "type": "Feature",
-  "properties":
-  {
-    "venue": "Casa Teatro El Poblado",
-    "event": "Merlotte y Grettel en concierto",
-    "date": "2015-03-21 T 19:30:00",
-    "capacity": "156",
-    "occupation": "156",
-    "event_genres": "rock, jrock",
-    "lineup": "merlotte",
-    "headliner": "merlotte",
-    "city": "medellin"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-75.58072328567505, 6.18831537756351]
-  }
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "venue": "Casa Teatro El Poblado",
+                "event": "Merlotte y Grettel en concierto",
+                "date": "2015-03-21 T 19:30:00",
+                "capacity": "156",
+                "occupation": "156",
+                "event_genres": "rock, jrock",
+                "lineup": "merlotte",
+                "headliner": "merlotte",
+                "city": "medellin"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-75.58072328567505, 6.18831537756351]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "venue": "Bar Bombay",
+                "event": "Coca Rolla Fiesta de lanzamiento",
+                "date": "2016-07-23 T 20:00",
+                "capacity": "300",
+                "occupation": "70",
+                "event_genres": "indie",
+                "lineup": "z_dey, merlotte",
+                "headliner": "merlotte",
+                "city": "medellin"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-75.582607, 6.215627]
+            }
+        },{
+            "type": "Feature",
+            "properties":
+            {
+                "venue": "Tres Cordilleras",
+                "event": "Merlotte y El Faro",
+                "date": "2015-11-14 T 20:00",
+                "capacity": "100",
+                "occupation": "74",
+                "event_genres": "indie",
+                "lineup": "el_faro, merlotte",
+                "headliner": "merlotte",
+                "city": "medellin"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-75.571955, 6.231136]
+            }
+        },{
+            "type": "Feature",
+            "properties":
+            {
+                "venue": "Teatro Acción Impro",
+                "event": "Merlotte y Aurora",
+                "date": "2015-06-28 T 19:30",
+                "capacity": "150",
+                "occupation": "90",
+                "event_genres": "indie",
+                "lineup": "merlotte, aurora",
+                "headliner": "merlotte",
+                "city": "medellin"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-75.572156, 6.210719]
+            }
+        },{
+            "type": "Feature",
+            "properties":
+            {
+                "venue": "Barnaby Jones",
+                "event": "Merlotte y Monkey Heads en vivo",
+                "date": "2015-05-01 T 20:00",
+                "capacity": "70",
+                "occupation": "90",
+                "event_genres": "indie",
+                "lineup": "merlotte,monkey_heads",
+                "headliner": "merlotte",
+                "city": "envigado"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-75.585879, 6.172264]
+            }
+        }]
 }
