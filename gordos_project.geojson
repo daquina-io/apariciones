@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "La Pascasia",
+    "event": "BINGO Bailable con Gordos Project",
+    "date": "2016-06-17 T 21:00",
+    "capacity": "100",
+    "occupation": "90",
+    "event_genres": "tropical_colombiano",
+    "lineup": "gordos_project",
+    "headliner": "gordos_project",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.563566, 6.243340]
+  }
+}]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Cafe teatro Pablo Tobon Uribe",
+    "event": "MCO Jazz Fussion",
+    "date": "2014-07-11 T 21:00",
+    "capacity": "60",
+    "occupation": "1",
+    "event_genres": "jazz",
+    "lineup": "mco_jazz_fussion",
+    "headliner": "mco_jazz_fussion",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.559465, 6.247804]
+  }
+}]
+}

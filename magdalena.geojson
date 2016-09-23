@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Calle 9+1",
+    "event": "Magdalena",
+    "date": "2015-09-22 T 22:00",
+    "capacity": "100",
+    "occupation": "90",
+    "event_genres": "electro",
+    "lineup": "magdalena,danielo",
+    "headliner": "magdalena",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.567941, 6.210154]
+  }
+}]
+}

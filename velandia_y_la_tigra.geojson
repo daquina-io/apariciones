@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "La Pascasia",
+    "event": "Velandia y la tigra vuelve a Medellín",
+    "date": "2016-07-29 T 21:00",
+    "capacity": "100",
+    "occupation": "360",
+    "event_genres": "rasqa",
+    "lineup": "velandia_y_la_tigra",
+    "headliner": "velandia_y_la_tigra",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.563566, 6.243340]
+  }
+}]
+}

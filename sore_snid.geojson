@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Centro de Desarrollo Cultural de Moravia",
+    "event": "Recital Literario y Musical",
+    "date": "2016-08-05 T 19:00",
+    "capacity": "370",
+    "occupation": "10",
+    "event_genres": "bossa_nova",
+    "lineup": "fumaranda, sore_snid",
+    "headliner": "sore_snid",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.564630, 6.276509]
+  }
+}]
+}

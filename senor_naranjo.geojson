@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "El Alambique",
+    "event": "Senor Naranjo",
+    "date": "2015-07-01 T 22:00",
+    "capacity": "150",
+    "occupation": "100",
+    "event_genres": "punk_psicodelico",
+    "lineup": "senor_naranjo",
+    "headliner": "senor_naranjo",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.568594, 6.211116]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "La Pascasia",
+    "event": "Senor Naranjo - Sonora Aguamala en vivo",
+    "date": "2016-06-24 T 22:00",
+    "capacity": "100",
+    "occupation": "30",
+    "event_genres": "punk_psicodelico",
+    "lineup": "senor_naranjo, sonora_aguamala",
+    "headliner": "senor_naranjo",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.563566, 6.243340]
+  }
+}]
+}

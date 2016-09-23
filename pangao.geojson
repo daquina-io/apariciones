@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Centro Plazarte",
+    "event": "PANGAO despertando-te / Concierto",
+    "date": "2014-11-15 T 19:00",
+    "capacity": "80",
+    "occupation": "11",
+    "event_genres": "colombiana",
+    "lineup": "pangao",
+    "headliner": "pangao",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.563184, 6.257220]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Unicentro",
+    "event": "Suena Pangao en EmprendeTec.",
+    "date": "2015-07-24 T 18:00",
+    "capacity": "70",
+    "occupation": "11",
+    "event_genres": "colombiana",
+    "lineup": "pangao",
+    "headliner": "pangao",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.587734, 6.241138]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "El Callejon reggae",
+    "event": "Ruta Pangao",
+    "date": "2014_11-06 T 21:00",
+    "capacity": "60",
+    "occupation": "60",
+    "event_genres": "colombiana",
+    "lineup": "pangao",
+    "headliner": "pangao",
+    "city": "envigado"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.588277, 6.168112]
+  }
+}]
+}

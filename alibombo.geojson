@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Bombay",
+    "event": "Alibombo, Raven y Sereno en concierto",
+    "date": "2016-24-03 T 22:00",
+    "capacity": "200",
+    "occupation": "47",
+    "event_genres": "electro",
+    "lineup": "alibombo,omar_raven,sereno",
+    "headliner": "alibombo",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.582650, 6.215606]
+  }
+}]
+}

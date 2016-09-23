@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Vértigo Wings Pub",
+    "event": "Tracy Island en Vértigo Wings Pub",
+    "date": "2014-05-31 T 21:00",
+    "capacity": "45",
+    "occupation": "100",
+    "event_genres": "rock",
+    "lineup": "tracy_island",
+    "headliner": "tracy_island",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.597953, 6.239124]
+  }
+}]
+}

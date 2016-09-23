@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Corpotriade",
+    "event": "all_groove",
+    "date": "2016-04-16 T 21:00",
+    "capacity": "50",
+    "occupation": "80",
+    "event_genres": "rock",
+    "lineup": "all_groove",
+    "headliner": "all_groove",
+    "city": "itagui"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.634557, 6.173115]
+  }
+}]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Barnaby Jones",
+    "event": "Apocalipsis",
+    "date": "2016-08-20 T 19:00",
+    "capacity": "70",
+    "occupation": "175",
+    "event_genres": "metal",
+    "lineup": "nightmare,revenge, hellrider, runner_hell, hell",
+    "headliner": "nightmare",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.585879, 6.172264]
+  }
+}]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "El Deck",
+    "event": "MOWA + Mary Hellen en vivo",
+    "date": "2016-02-11 T 21:00",
+    "capacity": "300",
+    "occupation": "40",
+    "event_genres": "rock",
+    "lineup": "mowa,mary_hellen",
+    "headliner": "mary_hellen",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.567813, 6.211219]
+  }
+}]
+}

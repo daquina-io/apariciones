@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Corpotriade",
+    "event": "GABO acustico",
+    "date": "2016-02-05  T 21:00",
+    "capacity": "50",
+    "occupation": "",
+    "event_genres": "rock",
+    "lineup": "gabo",
+    "headliner": "gabo",
+    "city": "itagui"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.634557, 6.173115]
+  }
+}]
+}

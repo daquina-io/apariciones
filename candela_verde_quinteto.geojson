@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Cafe teatro Pablo Tobon Uribe",
+    "event": "Candela Verde Quinteto",
+    "date": "2013-07-11 T 21:00",
+    "capacity": "60",
+    "occupation": "30",
+    "event_genres": "jazz",
+    "lineup": "candela_verde_quinteto",
+    "headliner": "candela_verde_quinteto",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.559465, 6.247804]
+  }
+}]
+}

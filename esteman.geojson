@@ -270,6 +270,43 @@
           4.6480646604263605
         ]
       }
-    }
+    },
+      {
+          "type": "Feature",
+          "properties":
+          {
+              "venue": "Auditorio U. Nacional Sede Palogrande",
+              "event": "Esteman en Manizales",
+              "date": "2016-07-01 T 20:00",
+              "capacity": "479",
+              "occupation": "50",
+              "event_genres": "pop",
+              "lineup": "esteman",
+              "headliner": "esteman",
+              "city": "manizales"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [-75.491434, 5.056100]
+          }
+      },{
+          "type": "Feature",
+          "properties":
+          {
+              "venue": "Teatro Matacandelas",
+              "event": "Esteman",
+              "date": "2016-05-28 T 13:00",
+              "capacity": "130",
+              "occupation": "100",
+              "event_genres": "pop",
+              "lineup": "esteman",
+              "headliner": "esteman",
+              "city": "medellin"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [-75.564684, 6.244785]
+          }
+      }
   ]
 }

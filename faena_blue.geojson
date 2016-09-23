@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Centro Plazarte",
+    "event": "Faena Blue en Concierto",
+    "date": "2016-08-20 T 20:00",
+    "capacity": "80",
+    "occupation": "41",
+    "event_genres": "",
+    "lineup": "faena_blue",
+    "headliner": "faena_blue",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.563184, 6.257220]
+  }
+}]
+}

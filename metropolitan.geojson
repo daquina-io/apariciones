@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Dopamina rock bar",
+    "event": "Metropolitan en Dopamina Bar",
+    "date": "2016-05-14 T 21:00",
+    "capacity": "35",
+    "occupation": "100",
+    "event_genres": "rock",
+    "lineup": "metropolitan",
+    "headliner": "metropolitan",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.597863, 6.258874]
+  }
+}]
+}

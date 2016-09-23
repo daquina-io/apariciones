@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "El Deck",
+    "event": "Radiocaliente en El Deck",
+    "date": "2013-03-22 T 21:00",
+    "capacity": "300",
+    "occupation": "60",
+    "event_genres": "urbano",
+    "lineup": "radiocaliente",
+    "headliner": "radiocaliente",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.567813, 6.211217]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "El Deck",
+    "event": "Lanzamiento te azaro",
+    "date": "2014-04-03 T 21:00",
+    "capacity": "300",
+    "occupation": "60",
+    "event_genres": "urbano",
+    "lineup": "radiocaliente",
+    "headliner": "radiocaliente",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.567813, 6.211218]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "El Deck",
+    "event": "Fiesta del Barrio al Ritmo de la calle",
+    "date": "2015-05-23 T 21:00",
+    "capacity": "300",
+    "occupation": "30",
+    "event_genres": "urbano",
+    "lineup": "radiocaliente",
+    "headliner": "radiocaliente",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.567813, 6.211219]
+  }
+}]
+}
