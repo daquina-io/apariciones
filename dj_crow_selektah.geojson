@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Ambar Violetazul",
+    "event": "Dj Crow Selektah",
+    "date": "2016-05-01 T 15:00",
+    "capacity": "70",
+    "occupation": "30",
+    "event_genres": "rap",
+    "lineup": "dj_crow_selektah",
+    "headliner": "dj_crow_selektah",
+    "city": "itagui"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.613594, 6.170420]
+  }
+}]
+}

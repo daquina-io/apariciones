@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Teatro Acción Impro",
+    "event": "Asuntos Pendientes Concierto lanzamiento Punto de Inflexión",
+    "date": "2016-08-17 T 16:00",
+    "capacity": "150",
+    "occupation": "100",
+    "event_genres": "rock",
+    "lineup": "asuntos_pendientes",
+    "headliner": "asuntos_pendientes",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.572156, 6.210719]
+  }
+}]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "El Deck",
+    "event": "Sonidocaimana",
+    "date": "2016-06-17 T 22:00",
+    "capacity": "300",
+    "occupation": "10",
+    "event_genres": "fusión bailable",
+    "lineup": "sonidocaimana,dj_terremoto",
+    "headliner": "sonidocaimana",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.567813, 6.211219]
+  }
+}]
+}

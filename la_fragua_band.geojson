@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Sinko Bar",
+    "event": "La Fragua en Sinko Bar",
+    "date": "2012-09-01 T 21:30",
+    "capacity": "100",
+    "occupation": "24",
+    "event_genres": "caribe",
+    "lineup": "la_fragua_band",
+    "headliner": "la_fragua_band",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.573311, 6.198818]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Centro de Desarrollo Cultural de Moravia",
+    "event": "La Fragua Band en concierto",
+    "date": "2016-05-06 T 19:00",
+    "capacity": "370",
+    "occupation": "8",
+    "event_genres": "caribe",
+    "lineup": "la_fragua_band",
+    "headliner": "la_fragua_band",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.564630, 6.276509]
+  }
+}]
+}

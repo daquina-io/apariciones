@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Centro Plazarte",
+    "event": "Afrokuisi, un viaje a nuestras raíces",
+    "date": "2016-06-03 T 22:00",
+    "capacity": "80",
+    "occupation": "99",
+    "event_genres": "colombiana",
+    "lineup": "afrokuisi",
+    "headliner": "afrokuisi",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.563184, 6.257220]
+  }
+}]
+}

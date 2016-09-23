@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Nuestro Bar",
+    "event": "Tender Beats en concierto",
+    "date": "2016-08-26 T 21:00",
+    "capacity": "50",
+    "occupation": "10",
+    "event_genres": "indie",
+    "lineup": "tender_beats",
+    "headliner": "tender_beats",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.580814, 6.233221]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Underground en vivo bar",
+    "event": "Beginning of Love",
+    "date": "2016-08-19 T 21:00",
+    "capacity": "50",
+    "occupation": "11",
+    "event_genres": "indie",
+    "lineup": "tender_beats",
+    "headliner": "tender_beats",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.600770, 6.238931]
+  }
+}]
+}

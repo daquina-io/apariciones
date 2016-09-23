@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Hamburgo Bar",
+    "event": "PolyHum en Hamburgo",
+    "date": "2016-02-20 T 21:00",
+    "capacity": "50",
+    "occupation": "50",
+    "event_genres": "rock",
+    "lineup": "polyhum",
+    "headliner": "polyhum",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.580814, 6.233221]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Barnaby Jones",
+    "event": "Halloween Con Polyhum Y La Bizcocha",
+    "date": "2015-10-23 T 23:00",
+    "capacity": "70",
+    "occupation": "25",
+    "event_genres": "rock",
+    "lineup": "polyhum, la_bizcocha",
+    "headliner": "polyhum",
+    "city": "envigado"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.585879, 6.172264]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Barnaby Jones",
+    "event": "Polyhum y Tracy Island",
+    "date": "2014-11-15 T 20:00",
+    "capacity": "70",
+    "occupation": "25",
+    "event_genres": "rock",
+    "lineup": "polyhum, tracy_island",
+    "headliner": "polyhum",
+    "city": "envigado"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.585879, 6.172264]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Nuestro Bar",
+    "event": "PolyHum en Nuestro Bar",
+    "date": "2014-11-01 T 20:00",
+    "capacity": "50",
+    "occupation": "10",
+    "event_genres": "rock",
+    "lineup": "polyhum",
+    "headliner": "polyhum",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.580814, 6.233221]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Barnaby Jones",
+    "event": "PolyHum en Concierto",
+    "date": "2014-09-20 T 20:00",
+    "capacity": "70",
+    "occupation": "1",
+    "event_genres": "rock",
+    "lineup": "polyhum",
+    "headliner": "polyhum",
+    "city": "envigado"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.585879, 6.172264]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Hamburgo Bar",
+    "event": "PolyHum en Concierto",
+    "date": "2014-09-13 T 20:00",
+    "capacity": "50",
+    "occupation": "48",
+    "event_genres": "rock",
+    "lineup": "polyhum",
+    "headliner": "polyhum",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.580814, 6.233221]
+  }
+}]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Tearo La Casa de Crisanto",
+    "event": "La Raya en Concierto",
+    "date": "2015-09-26 T 19:00",
+    "capacity": "350",
+    "occupation": "70",
+    "event_genres": "no_genero",
+    "lineup": "la_raya",
+    "headliner": "la_raya",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.579377, 6.238960]
+  }
+}]
+}

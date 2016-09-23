@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Yage Bar",
+    "event": "Fiesta Latina con Son Quimbao",
+    "date": "2016-05-20 T 22:00",
+    "capacity": "50",
+    "occupation": "50",
+    "event_genres": "son",
+    "lineup": "son_quimbao",
+    "headliner": "son_quimbao",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.572088, 6.291451]
+  }
+}]
+}

@@ -1,0 +1,94 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "El Deck",
+    "event": "El Freaky",
+    "date": "2016-06-11 T 20:00",
+    "capacity": "300",
+    "occupation": "60",
+    "event_genres": "dancehall",
+    "lineup": "el_freaky,el_dusty,mlkmn,dj_rat_race",
+    "headliner": "el_freaky",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.567813, 6.211219]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "El Deck",
+    "event": "Summer now en El Deck",
+    "date": "2015-07-11 T 20:00",
+    "capacity": "300",
+    "occupation": "90",
+    "event_genres": "dancehall",
+    "lineup": "el_freaky",
+    "headliner": "el_freaky",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.567813, 6.211219]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "El Deck",
+    "event": "Feria de Las Flores en El Deck",
+    "date": "2014-09-07 T 22:00",
+    "capacity": "300",
+    "occupation": "55",
+    "event_genres": "dancehall",
+    "lineup": "el_freaky",
+    "headliner": "el_freaky",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.567813, 6.211219]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "El Deck",
+    "event": "El Freaky en el DECK Feria de Flores",
+    "date": "2013-09-10 T 0:00",
+    "capacity": "300",
+    "occupation": "0",
+    "event_genres": "dancehall",
+    "lineup": "el_freaky",
+    "headliner": "el_freaky",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.567813, 6.211219]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "El Deck",
+    "event": "El Freaky recargado @ Medellin",
+    "date": "2012-07-27 T 20:00",
+    "capacity": "300",
+    "occupation": "45",
+    "event_genres": "dancehall",
+    "lineup": "el_freaky",
+    "headliner": "el_freaky",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.567813, 6.211219]
+  }
+}]
+}

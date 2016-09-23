@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Sindominio Art Bar",
+    "event": "Sereno Live Set",
+    "date": "2016-02-04  T 22:00",
+    "capacity": "60",
+    "occupation": "90",
+    "event_genres": "electro",
+    "lineup": "sereno_live_set,stb",
+    "headliner": "sereno_live_set",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.565423,6.206720]
+  }
+}]
+}

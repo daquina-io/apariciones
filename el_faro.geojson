@@ -1,0 +1,94 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Ambar Violetazul",
+    "event": "El Faro Rock",
+    "date": "2016-07-15 T 20:00",
+    "capacity": "70",
+    "occupation": "30",
+    "event_genres": "rock",
+    "lineup": "el_faro",
+    "headliner": "el_faro",
+    "city": "itagui"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.613594, 6.170420]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Underground en vivo bar",
+    "event": "El Faro en Vivo",
+    "date": "2016-07-31 T 21:00",
+    "capacity": "50",
+    "occupation": "90",
+    "event_genres": "rock",
+    "lineup": "el_faro",
+    "headliner": "el_faro",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.600770, 6.238931]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Barnaby Jones",
+    "event": "Diamante en Bruto y El Faro en concierto",
+    "date": "2014-08-22 T 20:00",
+    "capacity": "70",
+    "occupation": "50",
+    "event_genres": "rock",
+    "lineup": "diamante_en_bruto, el_faro",
+    "headliner": "el_faro",
+    "city": "envigado"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.585879, 6.172264]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Nuestro Bar",
+    "event": "Happy Rock Year",
+    "date": "2013-12-26 T 20:30",
+    "capacity": "50",
+    "occupation": "11",
+    "event_genres": "rock",
+    "lineup": "el_faro",
+    "headliner": "el_faro",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.584343, 6.239276]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Underground en vivo bar",
+    "event": "El faro at underground",
+    "date": "2013-09-27 T 23:00",
+    "capacity": "50",
+    "occupation": "0",
+    "event_genres": "rock",
+    "lineup": "el_faro",
+    "headliner": "el_faro",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.600770, 6.238931]
+  }
+}]
+}

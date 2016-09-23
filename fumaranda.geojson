@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Ambar Violetazul",
+    "event": "Fumaranda",
+    "date": "2016-07-03 T 17:00",
+    "capacity": "70",
+    "occupation": "100",
+    "event_genres": "bossa_nova",
+    "lineup": "fumaranda",
+    "headliner": "fumaranda",
+    "city": "itagui"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.613594, 6.170420]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Jaidukama",
+    "event": "Fumaranda en Jaidukama",
+    "date": "2016-05-20 T 20:00",
+    "capacity": "50",
+    "occupation": "65",
+    "event_genres": "bossa_nova",
+    "lineup": "fumaranda",
+    "headliner": "fumaranda",
+    "city": "copacabana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.506012, 6.347536]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Ciudad frecuencia",
+    "event": "Fumaranda y Dos Vagabundos en Vivo",
+    "date": "2016-05-13 T 19:00",
+    "capacity": "60",
+    "occupation": "100",
+    "event_genres": "bossa_nova",
+    "lineup": "fumaranda, dos_vagabundos",
+    "headliner": "fumaranda",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.571985, 6.291376]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "El Recetario bar- Noche",
+    "event": "FUMARANDA en El Recetario",
+    "date": "2016-02-21 T 19:30",
+    "capacity": "30",
+    "occupation": "100",
+    "event_genres": "bossa_nova",
+    "lineup": "fumaranda",
+    "headliner": "fumaranda",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.562398, 6.249633]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Teatro Oficina Central de los Sueños",
+    "event": "Fumaranda De Temporada",
+    "date": "2014-06-05 T 20:00",
+    "capacity": "80",
+    "occupation": "100",
+    "event_genres": "bossa_nova",
+    "lineup": "fumaranda",
+    "headliner": "fumaranda",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.562166, 6.248899]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Cafe Zorba",
+    "event": "El Regreso de Fumaranda Un Plom",
+    "date": "2011-11-02 T 20:00",
+    "capacity": "60",
+    "occupation": "25",
+    "event_genres": "bossa_nova",
+    "lineup": "fumaranda",
+    "headliner": "fumaranda",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.570456, 6.208563]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Cafe Zorba",
+    "event": "FUMARANDA ¡EN VIVO!",
+    "date": "2011-08-31 T 20:00",
+    "capacity": "60",
+    "occupation": "28",
+    "event_genres": "bossa_nova",
+    "lineup": "fumaranda",
+    "headliner": "fumaranda",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.570456, 6.208563]
+  }
+}]
+}

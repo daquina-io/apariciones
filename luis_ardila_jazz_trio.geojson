@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Cafe teatro Pablo Tobon Uribe",
+    "event": "Luis Ardila Jazz Trio",
+    "date": "2016-06-17 T 21:00",
+    "capacity": "60",
+    "occupation": "12",
+    "event_genres": "jazz",
+    "lineup": "luis_ardila_jazz_trio",
+    "headliner": "luis_ardila_jazz_trio",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.559465, 6.247804]
+  }
+}]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "La Pascasia",
+    "event": "Tucupra en La Pascasia",
+    "date": "2016-07-22 T 18:00",
+    "capacity": "100",
+    "occupation": "33",
+    "event_genres": "latin_groove",
+    "lineup": "tucupra",
+    "headliner": "tucupra",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.563566, 6.243340]
+  }
+}]
+}

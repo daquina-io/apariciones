@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Calle 9+1",
+    "event": "Cyborgs Return",
+    "date": "2016-07-02 T 22:00",
+    "capacity": "100",
+    "occupation": "27",
+    "event_genres": "electro",
+    "lineup": "gladkazuka,omar_raven,markovich",
+    "headliner": "markovich",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.567952, 6.210165]
+  }
+}]
+}
