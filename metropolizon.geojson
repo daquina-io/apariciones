@@ -1,19 +1,60 @@
 {
-  "type": "Feature",
-  "properties":
-  {
-    "venue": "Casa Teatro El Poblado",
-    "event": "Música corriente. Metropolizon",
-    "date": "2015-04-30 T 20:00:00",
-    "capacity": "156",
-    "occupation": "92",
-    "event_genres": "jazz",
-    "lineup": "metropolizon",
-    "headliner": "metropolizon",
-    "city": "medellin"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-75.58072328567505, 6.18831537756351]
-  }
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "properties":
+        {
+            "venue": "Centro de Desarrollo Cultural de Moravia",
+            "event": "Metropolizón en concierto",
+            "date": "2016-07-15 T 19:00",
+            "capacity": "370",
+            "occupation": "10",
+            "event_genres": "jazz",
+            "lineup": "metropolizon",
+            "headliner": "metropolizon",
+            "city": "medellin"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-75.564630, 6.276509]
+        }
+    },{
+        "type": "Feature",
+        "properties":
+        {
+            "venue": "La Pascasia",
+            "event": "Metropolizón lanza su primer disco",
+            "date": "2016-06-03 T 21:00",
+            "capacity": "100",
+            "occupation": "39",
+            "event_genres": "jazz",
+            "lineup": "metropolizon",
+            "headliner": "metropolizon",
+            "city": "medellin"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-75.563566, 6.243340]
+        }
+    },{
+        "type": "Feature",
+        "properties":
+        {
+            "venue": "Casa Teatro El Poblado",
+            "event": "Música corriente. Metropolizon",
+            "date": "2015-04-30 T 20:00:00",
+            "capacity": "156",
+            "occupation": "92",
+            "event_genres": "jazz",
+            "lineup": "metropolizon",
+            "headliner": "metropolizon",
+            "city": "medellin"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-75.58072328567505, 6.18831537756351]
+        }
+    }
+ ]
 }
+
