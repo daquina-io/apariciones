@@ -1,0 +1,1178 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Teatro Metropol",
+    "event": "Kraken",
+    "date": "2015-05-23 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "bogotá"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-74.069505, 4.609558
+
+
+
+]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Canterbury bar",
+    "event": "kraken",
+    "date": "2015-03-28 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "bogotá"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-74.137438, 4.619816]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Teatro Fundadores",
+    "event": "kraken",
+    "date": "2014-10-25 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "manizales"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.510392, 5.068096]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Orquideorama Jardín Botánico",
+    "event": "kraken",
+    "date": "2013-12-18 T 19:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.564144, 6.271152]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Teatro Metropolitan",
+    "event": "kraken",
+    "date": "2013-05-30 T 19:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "mexico d.f."
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-99.14691, 19.433422]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Teatro Matacandelas",
+    "event": "kraken",
+    "date": "2012-09-07 T 21:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.564684, 6.244785]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Teatro Jorge Isaacs",
+    "event": "kraken",
+    "date": "2012-08-18 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "cali"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-76.532416, 3.453238]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Route 66",
+    "event": "kraken",
+    "date": "2012-08-04 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "cali"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-76.539462, 3.397933]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Canterbury bar",
+    "event": "kraken",
+    "date": "2012-05-25 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "bogotá"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-74.137438, 4.619816]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Parque Metropolitano San Cristobal",
+    "event": "kraken",
+    "date": "2012-05-12 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "bogotá"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-74.085924, 4.573175]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Arte Vivo",
+    "event": "kraken",
+    "date": "2011-09-24 T 21:30",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.576203, 6.214644]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Ozzy Cafe Bar Rock",
+    "event": "kraken",
+    "date": "2016-03-17 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "bogotá"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-74.101680, 4.678406]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Ozzy Cafe Bar Rock",
+    "event": "kraken",
+    "date": "2016-03-18 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "bogotá"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-74.101680, 4.678407]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Teatro Royal Center",
+    "event": "kraken",
+    "date": "2015-01-02 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "bogotá"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-74.062738, 4.652947]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Polideportivo La Pola",
+    "event": "kraken",
+    "date": "2015-06-15 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "la cruz (narino)"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-76.973440, 1.605111]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Sala de Conciertos de San Ignacio",
+    "event": "kraken",
+    "date": "2014-12-17 T 19:30",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "tunja"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.362650, 5.531064]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Valhala",
+    "event": "kraken",
+    "date": "2014-11-14 T 19:30",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.601823, 6.235176]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Parque Belalcazar",
+    "event": "kraken",
+    "date": "2014-08-15 T 15:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "yumbo (valle)"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-76.495269, 3.583492]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Teatro Carlos Vieco Ortiz",
+    "event": "kraken",
+    "date": "2014-08-09 T 12:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.579424, 6.237102]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Coliseo La Estancia",
+    "event": "kraken",
+    "date": "2014-08-02T 19:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "popayan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-76.598235, 2.451175]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Cancha Privada De La ACJ",
+    "event": "kraken",
+    "date": "2015-03-07 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "quito (ecuador)"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-78.486052, -0.182203]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Route 66",
+    "event": "kraken",
+    "date": "2014-08-17 T 19:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "cali"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-76.539462, 3.397933]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Parque Principal Santa Rosa De Osos",
+    "event": "kraken",
+    "date": "2014-08-15 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "santa rosa de osos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.460733, 6.649001]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Teatro Jorge Eliecer Gaitan",
+    "event": "kraken",
+    "date": "2014-07-26 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "bogotá"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-74.070942, 4.608860]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Teatro Jorge Eliecer Gaitan",
+    "event": "kraken",
+    "date": "2014-07-25 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "bogotá"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-74.070942, 4.608861]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Teatro Corfescu",
+    "event": "kraken",
+    "date": "2014-05-28 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "Bucaramanga"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.117730, 7.122639]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Teatro Tolima",
+    "event": "kraken",
+    "date": "2014-04-26 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "ibague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.240871, 4.443704]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Foro Sol",
+    "event": "kraken",
+    "date": "2014-03-29 T 14:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "mexico d.f."
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-99.095666, 19.405050]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Palmahia",
+    "event": "kraken",
+    "date": "2014-03-15 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.583365, 6.191118]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Teatro Royal Center",
+    "event": "kraken",
+    "date": "2014-02-14 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "bogotá"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-74.062738, 4.652947]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Centro Cultural La Media Torta",
+    "event": "kraken",
+    "date": "2013-12-01 T 14:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "bogotá"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-74.065805, 4.599902]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Coliseo El Campin",
+    "event": "kraken",
+    "date": "2013-11-03 T 14:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "bogotá"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-74.077172, 4.649451]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Canterbury bar",
+    "event": "kraken",
+    "date": "2013-09-20 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "bogotá"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-74.137438, 4.619816]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Hall Universitas Jayabaya",
+    "event": "kraken",
+    "date": "2013-09-01 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "jakarta (indonesia)"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [106.876057, -6.180157]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Ozzy Cafe Bar Rock",
+    "event": "kraken",
+    "date": "2013-06-09 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "bogotá"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-74.101680, 4.678406]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Concha Acustica del Parque Auguazul",
+    "event": "kraken",
+    "date": "2013-06-01 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "guadalajara (mexico)"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-103.348921, 20.659601]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Ozzy Cafe Bar Rock",
+    "event": "kraken",
+    "date": "2013-03-28 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "bogotá"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-74.101680, 4.678406]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Parque Kjarkas",
+    "event": "kraken",
+    "date": "2013-03-09 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "cochabamba (bolivia)"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-66.157921, -17.365897]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Centro De Convenciones Amaime",
+    "event": "kraken",
+    "date": "2012-10-13 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "palmira (valle)"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-76.304794, 3.525682]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Coliseo Guillermo De Castellana",
+    "event": "kraken",
+    "date": "2012-10-12 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "pasto"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-77.277077, 1.208701]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Coliseo Cubierto Tunja",
+    "event": "kraken",
+    "date": "2012-09-01 T 13:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "tunja"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.354215, 5.543213]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Aeroparque Juan pablo II",
+    "event": "kraken",
+    "date": "2012-08-03 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.592054, 6.221418]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Plaza de Toros",
+    "event": "kraken",
+    "date": "2012-24-03 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "quito (ecuador)"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-78.484042, -0.163417]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Bakurus Pub",
+    "event": "kraken",
+    "date": "2011-12-18 T 17:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "cartago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.926582, 4.751096]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Mel Mac Bar",
+    "event": "kraken",
+    "date": "2011-12-17 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "pereira"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.688445, 4.811077]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Vivero Bar",
+    "event": "kraken",
+    "date": "2011-12-16 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "armenia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.658683, 4.543121]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Rockkeller",
+    "event": "kraken",
+    "date": "2011-12-16 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "manizales"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.488460, 5.060889]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Ozzy Cafe Bar Rock",
+    "event": "kraken",
+    "date": "2011-12-10 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "bogotá"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-74.101680, 4.678406]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Cancha Maracana",
+    "event": "kraken",
+    "date": "2011-12-03 T 13:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.576292, 6.292991]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Parque de Ferias San Jacinto",
+    "event": "kraken",
+    "date": "2011-11-26 T 15:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "maracay"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-67.564127, 10.239167]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Villa Charra",
+    "event": "kraken",
+    "date": "2011-10-22 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "aguascalientes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-102.306343, 21.871159]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Teatro Jorge Eliecer Gaitan",
+    "event": "kraken",
+    "date": "2011-10-05 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "bogotá"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-74.070942, 4.608860]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Plaza de Narino",
+    "event": "kraken",
+    "date": "2011-08-20 T 13:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "pasto"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-77.278352, 1.214727]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "El Faro, Pizza-Bar",
+    "event": "kraken",
+    "date": "2011-08-14 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "cali"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-76.539850, 3.397883]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "San Moyo Bar",
+    "event": "kraken",
+    "date": "2011-06-17 T 18:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "soacha"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-74.219491, 4.583117]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Lupe Cantina",
+    "event": "kraken",
+    "date": "2011-05-13 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "washington"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-77.041923, 38.906285]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "D'Antigua",
+    "event": "kraken",
+    "date": "2011-05-06 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "new york"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.883192, 40.755741]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "El Sitio",
+    "event": "kraken",
+    "date": "2011-05-04 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "miami"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-80.244150, 25.726662]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Ozzy Cafe Bar Rock",
+    "event": "kraken",
+    "date": "2011-04-09 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "bogotá"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-74.101680, 4.678406]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Aeroparque Juan pablo II",
+    "event": "kraken",
+    "date": "2010-08-06 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.592054, 6.221418]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Vaskerelvsmauet 7",
+    "event": "kraken",
+    "date": "2010-08-06 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "vergen"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.321847, 60.391402]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "The Face Bar",
+    "event": "kraken",
+    "date": "2009-10-30 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "reading"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-0.981908, 51.455587]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "D'Antigua",
+    "event": "kraken",
+    "date": "2008-05-02 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "new york"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.883192, 40.755741]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "D'Antigua",
+    "event": "kraken",
+    "date": "2008-05-01 T 20:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "new york"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.883192, 40.755741]
+  }
+},{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Aeroparque Juan pablo II",
+    "event": "kraken",
+    "date": "2007-12-14 T 18:00",
+    "capacity": "NA",
+    "occupation": "",
+    "event_genres": "",
+    "lineup": "NA",
+    "headliner": "kraken",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.592054, 6.221418]
+  }
+}]
+}
