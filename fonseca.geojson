@@ -1607,6 +1607,27 @@
                   4.655475252700296
               ]
           }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "venue": "Privado",
+              "event": "",
+              "date": "2016-09-03 T 19:00:00",
+              "capacity": 500,
+              "occupation": 100,
+              "lineup": "fonseca",
+              "event_genres": "pop, tropipop, reggaeton",
+              "city": "cajica",
+              "headliner": "fonseca"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  -74.01962,
+                  4.92564
+              ]
+          }
       }
   ]
 }
