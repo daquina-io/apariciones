@@ -7,11 +7,11 @@
     "venue": "Teatro Metropol",
     "event": "Kraken",
     "date": "2015-05-23 T 20:00",
-    "capacity": "NA",
+    "capacity": "2600",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "bogotá"
   },
   "geometry": {
@@ -27,13 +27,13 @@
   "properties":
   {
     "venue": "Canterbury bar",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2015-03-28 T 20:00",
-    "capacity": "NA",
+    "capacity": "100",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "bogotá"
   },
   "geometry": {
@@ -45,13 +45,13 @@
   "properties":
   {
     "venue": "Teatro Fundadores",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2014-10-25 T 20:00",
-    "capacity": "NA",
+    "capacity": "1900",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "manizales"
   },
   "geometry": {
@@ -63,13 +63,13 @@
   "properties":
   {
     "venue": "Orquideorama Jardín Botánico",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2013-12-18 T 19:00",
-    "capacity": "NA",
+    "capacity": "3000",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "medellin"
   },
   "geometry": {
@@ -81,13 +81,13 @@
   "properties":
   {
     "venue": "Teatro Metropolitan",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2013-05-30 T 19:00",
-    "capacity": "NA",
+    "capacity": "3100",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "mexico d.f."
   },
   "geometry": {
@@ -99,13 +99,13 @@
   "properties":
   {
     "venue": "Teatro Matacandelas",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2012-09-07 T 21:00",
-    "capacity": "NA",
+    "capacity": "100",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "medellin"
   },
   "geometry": {
@@ -117,13 +117,13 @@
   "properties":
   {
     "venue": "Teatro Jorge Isaacs",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2012-08-18 T 20:00",
-    "capacity": "NA",
+    "capacity": "1189",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "cali"
   },
   "geometry": {
@@ -135,13 +135,13 @@
   "properties":
   {
     "venue": "Route 66",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2012-08-04 T 20:00",
-    "capacity": "NA",
+    "capacity": "380",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "cali"
   },
   "geometry": {
@@ -153,13 +153,13 @@
   "properties":
   {
     "venue": "Canterbury bar",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2012-05-25 T 20:00",
-    "capacity": "NA",
+    "capacity": "100",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "bogotá"
   },
   "geometry": {
@@ -171,13 +171,13 @@
   "properties":
   {
     "venue": "Parque Metropolitano San Cristobal",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2012-05-12 T 20:00",
-    "capacity": "NA",
+    "capacity": "1000",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "bogotá"
   },
   "geometry": {
@@ -189,13 +189,13 @@
   "properties":
   {
     "venue": "Arte Vivo",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2011-09-24 T 21:30",
-    "capacity": "NA",
+    "capacity": "80",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "medellin"
   },
   "geometry": {
@@ -207,13 +207,13 @@
   "properties":
   {
     "venue": "Ozzy Cafe Bar Rock",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2016-03-17 T 20:00",
-    "capacity": "NA",
+    "capacity": "170",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "bogotá"
   },
   "geometry": {
@@ -225,13 +225,13 @@
   "properties":
   {
     "venue": "Ozzy Cafe Bar Rock",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2016-03-18 T 20:00",
-    "capacity": "NA",
+    "capacity": "170",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "bogotá"
   },
   "geometry": {
@@ -243,13 +243,13 @@
   "properties":
   {
     "venue": "Teatro Royal Center",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2015-01-02 T 20:00",
-    "capacity": "NA",
+    "capacity": "4500",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "bogotá"
   },
   "geometry": {
@@ -261,13 +261,13 @@
   "properties":
   {
     "venue": "Polideportivo La Pola",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2015-06-15 T 20:00",
-    "capacity": "NA",
+    "capacity": "1000",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "la cruz (narino)"
   },
   "geometry": {
@@ -279,13 +279,13 @@
   "properties":
   {
     "venue": "Sala de Conciertos de San Ignacio",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2014-12-17 T 19:30",
-    "capacity": "NA",
+    "capacity": "500",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "tunja"
   },
   "geometry": {
@@ -297,13 +297,13 @@
   "properties":
   {
     "venue": "Valhala",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2014-11-14 T 19:30",
-    "capacity": "NA",
+    "capacity": "100",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "medellin"
   },
   "geometry": {
@@ -315,13 +315,13 @@
   "properties":
   {
     "venue": "Parque Belalcazar",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2014-08-15 T 15:00",
-    "capacity": "NA",
+    "capacity": "2000",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "yumbo (valle)"
   },
   "geometry": {
@@ -333,13 +333,13 @@
   "properties":
   {
     "venue": "Teatro Carlos Vieco Ortiz",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2014-08-09 T 12:00",
-    "capacity": "NA",
+    "capacity": "3800",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "medellin"
   },
   "geometry": {
@@ -351,13 +351,13 @@
   "properties":
   {
     "venue": "Coliseo La Estancia",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2014-08-02T 19:00",
-    "capacity": "NA",
+    "capacity": "2000",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "popayan"
   },
   "geometry": {
@@ -369,13 +369,13 @@
   "properties":
   {
     "venue": "Cancha Privada De La ACJ",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2015-03-07 T 20:00",
-    "capacity": "NA",
+    "capacity": "2000",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "quito (ecuador)"
   },
   "geometry": {
@@ -387,13 +387,13 @@
   "properties":
   {
     "venue": "Route 66",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2014-08-17 T 19:00",
-    "capacity": "NA",
+    "capacity": "380",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "cali"
   },
   "geometry": {
@@ -405,13 +405,13 @@
   "properties":
   {
     "venue": "Parque Principal Santa Rosa De Osos",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2014-08-15 T 20:00",
-    "capacity": "NA",
+    "capacity": "1000",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "santa rosa de osos"
   },
   "geometry": {
@@ -423,13 +423,13 @@
   "properties":
   {
     "venue": "Teatro Jorge Eliecer Gaitan",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2014-07-26 T 20:00",
-    "capacity": "NA",
+    "capacity": "1685",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "bogotá"
   },
   "geometry": {
@@ -441,13 +441,13 @@
   "properties":
   {
     "venue": "Teatro Jorge Eliecer Gaitan",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2014-07-25 T 20:00",
-    "capacity": "NA",
+    "capacity": "1685",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "bogotá"
   },
   "geometry": {
@@ -459,13 +459,13 @@
   "properties":
   {
     "venue": "Teatro Corfescu",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2014-05-28 T 20:00",
-    "capacity": "NA",
+    "capacity": "700",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "Bucaramanga"
   },
   "geometry": {
@@ -477,13 +477,13 @@
   "properties":
   {
     "venue": "Teatro Tolima",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2014-04-26 T 20:00",
-    "capacity": "NA",
+    "capacity": "1000",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "ibague"
   },
   "geometry": {
@@ -495,13 +495,13 @@
   "properties":
   {
     "venue": "Foro Sol",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2014-03-29 T 14:00",
-    "capacity": "NA",
+    "capacity": "2000",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "mexico d.f."
   },
   "geometry": {
@@ -513,13 +513,13 @@
   "properties":
   {
     "venue": "Palmahia",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2014-03-15 T 20:00",
-    "capacity": "NA",
+    "capacity": "3600",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "medellin"
   },
   "geometry": {
@@ -531,13 +531,13 @@
   "properties":
   {
     "venue": "Teatro Royal Center",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2014-02-14 T 20:00",
-    "capacity": "NA",
+    "capacity": "4500",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "bogotá"
   },
   "geometry": {
@@ -549,13 +549,13 @@
   "properties":
   {
     "venue": "Centro Cultural La Media Torta",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2013-12-01 T 14:00",
-    "capacity": "NA",
+    "capacity": "7000",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "bogotá"
   },
   "geometry": {
@@ -567,13 +567,13 @@
   "properties":
   {
     "venue": "Coliseo El Campin",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2013-11-03 T 14:00",
-    "capacity": "NA",
+    "capacity": "10000",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "bogotá"
   },
   "geometry": {
@@ -585,13 +585,13 @@
   "properties":
   {
     "venue": "Canterbury bar",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2013-09-20 T 20:00",
-    "capacity": "NA",
+    "capacity": "100",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "bogotá"
   },
   "geometry": {
@@ -603,13 +603,13 @@
   "properties":
   {
     "venue": "Hall Universitas Jayabaya",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2013-09-01 T 20:00",
-    "capacity": "NA",
+    "capacity": "200",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "jakarta (indonesia)"
   },
   "geometry": {
@@ -621,13 +621,13 @@
   "properties":
   {
     "venue": "Ozzy Cafe Bar Rock",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2013-06-09 T 20:00",
-    "capacity": "NA",
+    "capacity": "170",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "bogotá"
   },
   "geometry": {
@@ -639,13 +639,13 @@
   "properties":
   {
     "venue": "Concha Acustica del Parque Auguazul",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2013-06-01 T 20:00",
-    "capacity": "NA",
+    "capacity": "3000",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "guadalajara (mexico)"
   },
   "geometry": {
@@ -657,13 +657,13 @@
   "properties":
   {
     "venue": "Ozzy Cafe Bar Rock",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2013-03-28 T 20:00",
-    "capacity": "NA",
+    "capacity": "170",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "bogotá"
   },
   "geometry": {
@@ -675,13 +675,13 @@
   "properties":
   {
     "venue": "Parque Kjarkas",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2013-03-09 T 20:00",
-    "capacity": "NA",
+    "capacity": "2000",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "cochabamba (bolivia)"
   },
   "geometry": {
@@ -693,13 +693,13 @@
   "properties":
   {
     "venue": "Centro De Convenciones Amaime",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2012-10-13 T 20:00",
-    "capacity": "NA",
+    "capacity": "2000",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "palmira (valle)"
   },
   "geometry": {
@@ -711,13 +711,13 @@
   "properties":
   {
     "venue": "Coliseo Guillermo De Castellana",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2012-10-12 T 20:00",
-    "capacity": "NA",
+    "capacity": "2000",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "pasto"
   },
   "geometry": {
@@ -729,13 +729,13 @@
   "properties":
   {
     "venue": "Coliseo Cubierto Tunja",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2012-09-01 T 13:00",
-    "capacity": "NA",
+    "capacity": "2000",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "tunja"
   },
   "geometry": {
@@ -747,13 +747,13 @@
   "properties":
   {
     "venue": "Aeroparque Juan pablo II",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2012-08-03 T 20:00",
-    "capacity": "NA",
+    "capacity": "2000",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "medellin"
   },
   "geometry": {
@@ -765,13 +765,13 @@
   "properties":
   {
     "venue": "Plaza de Toros",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2012-24-03 T 20:00",
-    "capacity": "NA",
+    "capacity": "2000",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "quito (ecuador)"
   },
   "geometry": {
@@ -783,13 +783,13 @@
   "properties":
   {
     "venue": "Bakurus Pub",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2011-12-18 T 17:00",
-    "capacity": "NA",
+    "capacity": "200",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "cartago"
   },
   "geometry": {
@@ -801,13 +801,13 @@
   "properties":
   {
     "venue": "Mel Mac Bar",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2011-12-17 T 20:00",
-    "capacity": "NA",
+    "capacity": "200",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "pereira"
   },
   "geometry": {
@@ -819,13 +819,13 @@
   "properties":
   {
     "venue": "Vivero Bar",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2011-12-16 T 20:00",
-    "capacity": "NA",
+    "capacity": "200",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "armenia"
   },
   "geometry": {
@@ -837,13 +837,13 @@
   "properties":
   {
     "venue": "Rockkeller",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2011-12-16 T 20:00",
-    "capacity": "NA",
+    "capacity": "200",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "manizales"
   },
   "geometry": {
@@ -855,13 +855,13 @@
   "properties":
   {
     "venue": "Ozzy Cafe Bar Rock",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2011-12-10 T 20:00",
-    "capacity": "NA",
+    "capacity": "170",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "bogotá"
   },
   "geometry": {
@@ -873,13 +873,13 @@
   "properties":
   {
     "venue": "Cancha Maracana",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2011-12-03 T 13:00",
-    "capacity": "NA",
+    "capacity": "2000",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "medellin"
   },
   "geometry": {
@@ -891,13 +891,13 @@
   "properties":
   {
     "venue": "Parque de Ferias San Jacinto",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2011-11-26 T 15:00",
-    "capacity": "NA",
+    "capacity": "2000",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "maracay"
   },
   "geometry": {
@@ -909,13 +909,13 @@
   "properties":
   {
     "venue": "Villa Charra",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2011-10-22 T 20:00",
-    "capacity": "NA",
+    "capacity": "500",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "aguascalientes"
   },
   "geometry": {
@@ -927,13 +927,13 @@
   "properties":
   {
     "venue": "Teatro Jorge Eliecer Gaitan",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2011-10-05 T 20:00",
-    "capacity": "NA",
+    "capacity": "1685",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "bogotá"
   },
   "geometry": {
@@ -945,13 +945,13 @@
   "properties":
   {
     "venue": "Plaza de Narino",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2011-08-20 T 13:00",
-    "capacity": "NA",
+    "capacity": "2000",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "pasto"
   },
   "geometry": {
@@ -963,13 +963,13 @@
   "properties":
   {
     "venue": "El Faro, Pizza-Bar",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2011-08-14 T 20:00",
-    "capacity": "NA",
+    "capacity": "100",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "cali"
   },
   "geometry": {
@@ -981,13 +981,13 @@
   "properties":
   {
     "venue": "San Moyo Bar",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2011-06-17 T 18:00",
-    "capacity": "NA",
+    "capacity": "100",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "soacha"
   },
   "geometry": {
@@ -999,13 +999,13 @@
   "properties":
   {
     "venue": "Lupe Cantina",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2011-05-13 T 20:00",
-    "capacity": "NA",
+    "capacity": "200",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "washington"
   },
   "geometry": {
@@ -1017,13 +1017,13 @@
   "properties":
   {
     "venue": "D'Antigua",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2011-05-06 T 20:00",
-    "capacity": "NA",
+    "capacity": "200",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "new york"
   },
   "geometry": {
@@ -1035,13 +1035,13 @@
   "properties":
   {
     "venue": "El Sitio",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2011-05-04 T 20:00",
-    "capacity": "NA",
+    "capacity": "300",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "miami"
   },
   "geometry": {
@@ -1053,13 +1053,13 @@
   "properties":
   {
     "venue": "Ozzy Cafe Bar Rock",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2011-04-09 T 20:00",
-    "capacity": "NA",
+    "capacity": "170",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "bogotá"
   },
   "geometry": {
@@ -1071,13 +1071,13 @@
   "properties":
   {
     "venue": "Aeroparque Juan pablo II",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2010-08-06 T 20:00",
-    "capacity": "NA",
+    "capacity": "2000",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "medellin"
   },
   "geometry": {
@@ -1089,13 +1089,13 @@
   "properties":
   {
     "venue": "Vaskerelvsmauet 7",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2010-08-06 T 20:00",
-    "capacity": "NA",
+    "capacity": "2000",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "vergen"
   },
   "geometry": {
@@ -1107,13 +1107,13 @@
   "properties":
   {
     "venue": "The Face Bar",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2009-10-30 T 20:00",
-    "capacity": "NA",
+    "capacity": "200",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "reading"
   },
   "geometry": {
@@ -1125,13 +1125,13 @@
   "properties":
   {
     "venue": "D'Antigua",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2008-05-02 T 20:00",
-    "capacity": "NA",
+    "capacity": "200",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "new york"
   },
   "geometry": {
@@ -1143,13 +1143,13 @@
   "properties":
   {
     "venue": "D'Antigua",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2008-05-01 T 20:00",
-    "capacity": "NA",
+    "capacity": "200",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "new york"
   },
   "geometry": {
@@ -1161,13 +1161,13 @@
   "properties":
   {
     "venue": "Aeroparque Juan pablo II",
-    "event": "kraken",
+    "event": "Kraken",
     "date": "2007-12-14 T 18:00",
-    "capacity": "NA",
+    "capacity": "2000",
     "occupation": "",
     "event_genres": "",
     "lineup": "NA",
-    "headliner": "kraken",
+    "headliner": "Kraken",
     "city": "medellin"
   },
   "geometry": {
