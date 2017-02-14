@@ -6,7 +6,7 @@
   {
     "venue": "Teatro Metropol",
     "event": "kraken",
-    "date": "2015-05-23 T 20:00",
+    "date": "2015-05-23 T 20:00:00",
     "capacity": 2600,
     "occupation": "",
     "event_genres": "",
@@ -46,7 +46,7 @@
   {
     "venue": "Teatro Fundadores",
     "event": "kraken",
-    "date": "2014-10-25 T 20:00",
+    "date": "2014-10-25 T 20:00:00",
     "capacity": 1900,
     "occupation": "",
     "event_genres": "",
@@ -64,7 +64,7 @@
   {
     "venue": "Orquideorama Jardín Botánico",
     "event": "kraken",
-    "date": "2013-12-18 T 19:00",
+    "date": "2013-12-18 T 19:00:00",
     "capacity": 3000,
     "occupation": "",
     "event_genres": "",
@@ -82,7 +82,7 @@
   {
     "venue": "Teatro Metropolitan",
     "event": "kraken",
-    "date": "2013-05-30 T 19:00",
+    "date": "2013-05-30 T 19:00:00",
     "capacity": 3100,
     "occupation": "",
     "event_genres": "",
@@ -100,7 +100,7 @@
   {
     "venue": "Teatro Matacandelas",
     "event": "kraken",
-    "date": "2012-09-07 T 21:00",
+    "date": "2012-09-07 T 21:00:00",
     "capacity": 100,
     "occupation": "",
     "event_genres": "",
@@ -118,7 +118,7 @@
   {
     "venue": "Teatro Jorge Isaacs",
     "event": "kraken",
-    "date": "2012-08-18 T 20:00",
+    "date": "2012-08-18 T 20:00:00",
     "capacity": 1189,
     "occupation": "",
     "event_genres": "",
@@ -136,7 +136,7 @@
   {
     "venue": "Route 66",
     "event": "kraken",
-    "date": "2012-08-04 T 20:00",
+    "date": "2012-08-04 T 20:00:00",
     "capacity": 380,
     "occupation": "",
     "event_genres": "",
@@ -154,7 +154,7 @@
   {
     "venue": "Canterbury bar",
     "event": "kraken",
-    "date": "2012-05-25 T 20:00",
+    "date": "2012-05-25 T 20:00:00",
     "capacity": 100,
     "occupation": "",
     "event_genres": "",
@@ -172,7 +172,7 @@
   {
     "venue": "Parque Metropolitano San Cristobal",
     "event": "kraken",
-    "date": "2012-05-12 T 20:00",
+    "date": "2012-05-12 T 20:00:00",
     "capacity": 1000,
     "occupation": "",
     "event_genres": "",
@@ -208,7 +208,7 @@
   {
     "venue": "Ozzy Cafe Bar Rock",
     "event": "kraken",
-    "date": "2016-03-17 T 20:00",
+    "date": "2016-03-17 T 20:00:00",
     "capacity": 170,
     "occupation": "",
     "event_genres": "",
@@ -226,7 +226,7 @@
   {
     "venue": "Ozzy Cafe Bar Rock",
     "event": "kraken",
-    "date": "2016-03-18 T 20:00",
+    "date": "2016-03-18 T 20:00:00",
     "capacity": 170,
     "occupation": "",
     "event_genres": "",
@@ -244,7 +244,7 @@
   {
     "venue": "Teatro Royal Center",
     "event": "kraken",
-    "date": "2015-01-02 T 20:00",
+    "date": "2015-01-02 T 20:00:00",
     "capacity": 4500,
     "occupation": "",
     "event_genres": "",
@@ -262,7 +262,7 @@
   {
     "venue": "Polideportivo La Pola",
     "event": "kraken",
-    "date": "2015-06-15 T 20:00",
+    "date": "2015-06-15 T 20:00:00",
     "capacity": 1000,
     "occupation": "",
     "event_genres": "",
@@ -316,7 +316,7 @@
   {
     "venue": "Parque Belalcazar",
     "event": "kraken",
-    "date": "2014-08-15 T 15:00",
+    "date": "2014-08-15 T 15:00:00",
     "capacity": 2000,
     "occupation": "",
     "event_genres": "",
@@ -334,7 +334,7 @@
   {
     "venue": "Teatro Carlos Vieco Ortiz",
     "event": "kraken",
-    "date": "2014-08-09 T 12:00",
+    "date": "2014-08-09 T 12:00:00",
     "capacity": 3800,
     "occupation": "",
     "event_genres": "",
@@ -352,7 +352,7 @@
   {
     "venue": "Coliseo La Estancia",
     "event": "kraken",
-    "date": "2014-08-02T 19:00",
+    "date": "2014-08-02T 19:00:00",
     "capacity": 2000,
     "occupation": "",
     "event_genres": "",
@@ -370,7 +370,7 @@
   {
     "venue": "Cancha Privada De La ACJ",
     "event": "kraken",
-    "date": "2015-03-07 T 20:00",
+    "date": "2015-03-07 T 20:00:00",
     "capacity": 2000,
     "occupation": "",
     "event_genres": "",
@@ -388,7 +388,7 @@
   {
     "venue": "Route 66",
     "event": "kraken",
-    "date": "2014-08-17 T 19:00",
+    "date": "2014-08-17 T 19:00:00",
     "capacity": 380,
     "occupation": "",
     "event_genres": "",
@@ -406,7 +406,7 @@
   {
     "venue": "Parque Principal Santa Rosa De Osos",
     "event": "kraken",
-    "date": "2014-08-15 T 20:00",
+    "date": "2014-08-15 T 20:00:00",
     "capacity": 1000,
     "occupation": "",
     "event_genres": "",
@@ -424,7 +424,7 @@
   {
     "venue": "Teatro Jorge Eliecer Gaitan",
     "event": "kraken",
-    "date": "2014-07-26 T 20:00",
+    "date": "2014-07-26 T 20:00:00",
     "capacity": 1685,
     "occupation": "",
     "event_genres": "",
@@ -442,7 +442,7 @@
   {
     "venue": "Teatro Jorge Eliecer Gaitan",
     "event": "kraken",
-    "date": "2014-07-25 T 20:00",
+    "date": "2014-07-25 T 20:00:00",
     "capacity": 1685,
     "occupation": "",
     "event_genres": "",
@@ -460,7 +460,7 @@
   {
     "venue": "Teatro Corfescu",
     "event": "kraken",
-    "date": "2014-05-28 T 20:00",
+    "date": "2014-05-28 T 20:00:00",
     "capacity": 700,
     "occupation": "",
     "event_genres": "",
@@ -478,7 +478,7 @@
   {
     "venue": "Teatro Tolima",
     "event": "kraken",
-    "date": "2014-04-26 T 20:00",
+    "date": "2014-04-26 T 20:00:00",
     "capacity": 1000,
     "occupation": "",
     "event_genres": "",
@@ -496,7 +496,7 @@
   {
     "venue": "Foro Sol",
     "event": "kraken",
-    "date": "2014-03-29 T 14:00",
+    "date": "2014-03-29 T 14:00:00",
     "capacity": 2000,
     "occupation": "",
     "event_genres": "",
@@ -514,7 +514,7 @@
   {
     "venue": "Palmahia",
     "event": "kraken",
-    "date": "2014-03-15 T 20:00",
+    "date": "2014-03-15 T 20:00:00",
     "capacity": 3600,
     "occupation": "",
     "event_genres": "",
@@ -532,7 +532,7 @@
   {
     "venue": "Teatro Royal Center",
     "event": "kraken",
-    "date": "2014-02-14 T 20:00",
+    "date": "2014-02-14 T 20:00:00",
     "capacity": 4500,
     "occupation": "",
     "event_genres": "",
@@ -550,7 +550,7 @@
   {
     "venue": "Centro Cultural La Media Torta",
     "event": "kraken",
-    "date": "2013-12-01 T 14:00",
+    "date": "2013-12-01 T 14:00:00",
     "capacity": 7000,
     "occupation": "",
     "event_genres": "",
@@ -568,7 +568,7 @@
   {
     "venue": "Coliseo El Campin",
     "event": "kraken",
-    "date": "2013-11-03 T 14:00",
+    "date": "2013-11-03 T 14:00:00",
     "capacity": 10000,
     "occupation": "",
     "event_genres": "",
@@ -586,7 +586,7 @@
   {
     "venue": "Canterbury bar",
     "event": "kraken",
-    "date": "2013-09-20 T 20:00",
+    "date": "2013-09-20 T 20:00:00",
     "capacity": 100,
     "occupation": "",
     "event_genres": "",
@@ -604,7 +604,7 @@
   {
     "venue": "Hall Universitas Jayabaya",
     "event": "kraken",
-    "date": "2013-09-01 T 20:00",
+    "date": "2013-09-01 T 20:00:00",
     "capacity": 200,
     "occupation": "",
     "event_genres": "",
@@ -622,7 +622,7 @@
   {
     "venue": "Ozzy Cafe Bar Rock",
     "event": "kraken",
-    "date": "2013-06-09 T 20:00",
+    "date": "2013-06-09 T 20:00:00",
     "capacity": 170,
     "occupation": "",
     "event_genres": "",
@@ -640,7 +640,7 @@
   {
     "venue": "Concha Acustica del Parque Auguazul",
     "event": "kraken",
-    "date": "2013-06-01 T 20:00",
+    "date": "2013-06-01 T 20:00:00",
     "capacity": 3000,
     "occupation": "",
     "event_genres": "",
@@ -658,7 +658,7 @@
   {
     "venue": "Ozzy Cafe Bar Rock",
     "event": "kraken",
-    "date": "2013-03-28 T 20:00",
+    "date": "2013-03-28 T 20:00:00",
     "capacity": 170,
     "occupation": "",
     "event_genres": "",
@@ -676,7 +676,7 @@
   {
     "venue": "Parque Kjarkas",
     "event": "kraken",
-    "date": "2013-03-09 T 20:00",
+    "date": "2013-03-09 T 20:00:00",
     "capacity": 2000,
     "occupation": "",
     "event_genres": "",
@@ -694,7 +694,7 @@
   {
     "venue": "Centro De Convenciones Amaime",
     "event": "kraken",
-    "date": "2012-10-13 T 20:00",
+    "date": "2012-10-13 T 20:00:00",
     "capacity": 2000,
     "occupation": "",
     "event_genres": "",
@@ -712,7 +712,7 @@
   {
     "venue": "Coliseo Guillermo De Castellana",
     "event": "kraken",
-    "date": "2012-10-12 T 20:00",
+    "date": "2012-10-12 T 20:00:00",
     "capacity": 2000,
     "occupation": "",
     "event_genres": "",
@@ -730,7 +730,7 @@
   {
     "venue": "Coliseo Cubierto Tunja",
     "event": "kraken",
-    "date": "2012-09-01 T 13:00",
+    "date": "2012-09-01 T 13:00:00",
     "capacity": 2000,
     "occupation": "",
     "event_genres": "",
@@ -748,7 +748,7 @@
   {
     "venue": "Aeroparque Juan pablo II",
     "event": "kraken",
-    "date": "2012-08-03 T 20:00",
+    "date": "2012-08-03 T 20:00:00",
     "capacity": 2000,
     "occupation": "",
     "event_genres": "",
@@ -766,7 +766,7 @@
   {
     "venue": "Plaza de Toros",
     "event": "kraken",
-    "date": "2012-24-03 T 20:00",
+    "date": "2012-24-03 T 20:00:00",
     "capacity": 2000,
     "occupation": "",
     "event_genres": "",
@@ -784,7 +784,7 @@
   {
     "venue": "Bakurus Pub",
     "event": "kraken",
-    "date": "2011-12-18 T 17:00",
+    "date": "2011-12-18 T 17:00:00",
     "capacity": 200,
     "occupation": "",
     "event_genres": "",
@@ -802,7 +802,7 @@
   {
     "venue": "Mel Mac Bar",
     "event": "kraken",
-    "date": "2011-12-17 T 20:00",
+    "date": "2011-12-17 T 20:00:00",
     "capacity": 200,
     "occupation": "",
     "event_genres": "",
@@ -820,7 +820,7 @@
   {
     "venue": "Vivero Bar",
     "event": "kraken",
-    "date": "2011-12-16 T 20:00",
+    "date": "2011-12-16 T 20:00:00",
     "capacity": 200,
     "occupation": "",
     "event_genres": "",
@@ -838,7 +838,7 @@
   {
     "venue": "Rockkeller",
     "event": "kraken",
-    "date": "2011-12-16 T 20:00",
+    "date": "2011-12-16 T 20:00:00",
     "capacity": 200,
     "occupation": "",
     "event_genres": "",
@@ -856,7 +856,7 @@
   {
     "venue": "Ozzy Cafe Bar Rock",
     "event": "kraken",
-    "date": "2011-12-10 T 20:00",
+    "date": "2011-12-10 T 20:00:00",
     "capacity": 170,
     "occupation": "",
     "event_genres": "",
@@ -874,7 +874,7 @@
   {
     "venue": "Cancha Maracana",
     "event": "kraken",
-    "date": "2011-12-03 T 13:00",
+    "date": "2011-12-03 T 13:00:00",
     "capacity": 2000,
     "occupation": "",
     "event_genres": "",
@@ -892,7 +892,7 @@
   {
     "venue": "Parque de Ferias San Jacinto",
     "event": "kraken",
-    "date": "2011-11-26 T 15:00",
+    "date": "2011-11-26 T 15:00:00",
     "capacity": 2000,
     "occupation": "",
     "event_genres": "",
@@ -910,7 +910,7 @@
   {
     "venue": "Villa Charra",
     "event": "kraken",
-    "date": "2011-10-22 T 20:00",
+    "date": "2011-10-22 T 20:00:00",
     "capacity": 500,
     "occupation": "",
     "event_genres": "",
@@ -928,7 +928,7 @@
   {
     "venue": "Teatro Jorge Eliecer Gaitan",
     "event": "kraken",
-    "date": "2011-10-05 T 20:00",
+    "date": "2011-10-05 T 20:00:00",
     "capacity": 1685,
     "occupation": "",
     "event_genres": "",
@@ -946,7 +946,7 @@
   {
     "venue": "Plaza de Narino",
     "event": "kraken",
-    "date": "2011-08-20 T 13:00",
+    "date": "2011-08-20 T 13:00:00",
     "capacity": 2000,
     "occupation": "",
     "event_genres": "",
@@ -964,7 +964,7 @@
   {
     "venue": "El Faro, Pizza-Bar",
     "event": "kraken",
-    "date": "2011-08-14 T 20:00",
+    "date": "2011-08-14 T 20:00:00",
     "capacity": 100,
     "occupation": "",
     "event_genres": "",
@@ -982,7 +982,7 @@
   {
     "venue": "San Moyo Bar",
     "event": "kraken",
-    "date": "2011-06-17 T 18:00",
+    "date": "2011-06-17 T 18:00:00",
     "capacity": 100,
     "occupation": "",
     "event_genres": "",
@@ -1000,7 +1000,7 @@
   {
     "venue": "Lupe Cantina",
     "event": "kraken",
-    "date": "2011-05-13 T 20:00",
+    "date": "2011-05-13 T 20:00:00",
     "capacity": 200,
     "occupation": "",
     "event_genres": "",
@@ -1018,7 +1018,7 @@
   {
     "venue": "D'Antigua",
     "event": "kraken",
-    "date": "2011-05-06 T 20:00",
+    "date": "2011-05-06 T 20:00:00",
     "capacity": 200,
     "occupation": "",
     "event_genres": "",
@@ -1036,7 +1036,7 @@
   {
     "venue": "El Sitio",
     "event": "kraken",
-    "date": "2011-05-04 T 20:00",
+    "date": "2011-05-04 T 20:00:00",
     "capacity": 300,
     "occupation": "",
     "event_genres": "",
@@ -1054,7 +1054,7 @@
   {
     "venue": "Ozzy Cafe Bar Rock",
     "event": "kraken",
-    "date": "2011-04-09 T 20:00",
+    "date": "2011-04-09 T 20:00:00",
     "capacity": 170,
     "occupation": "",
     "event_genres": "",
@@ -1072,7 +1072,7 @@
   {
     "venue": "Aeroparque Juan pablo II",
     "event": "kraken",
-    "date": "2010-08-06 T 20:00",
+    "date": "2010-08-06 T 20:00:00",
     "capacity": 2000,
     "occupation": "",
     "event_genres": "",
@@ -1090,7 +1090,7 @@
   {
     "venue": "Vaskerelvsmauet 7",
     "event": "kraken",
-    "date": "2010-08-06 T 20:00",
+    "date": "2010-08-06 T 20:00:00",
     "capacity": 2000,
     "occupation": "",
     "event_genres": "",
@@ -1108,7 +1108,7 @@
   {
     "venue": "The Face Bar",
     "event": "kraken",
-    "date": "2009-10-30 T 20:00",
+    "date": "2009-10-30 T 20:00:00",
     "capacity": 200,
     "occupation": "",
     "event_genres": "",
@@ -1126,7 +1126,7 @@
   {
     "venue": "D'Antigua",
     "event": "kraken",
-    "date": "2008-05-02 T 20:00",
+    "date": "2008-05-02 T 20:00:00",
     "capacity": 200,
     "occupation": "",
     "event_genres": "",
@@ -1144,7 +1144,7 @@
   {
     "venue": "D'Antigua",
     "event": "kraken",
-    "date": "2008-05-01 T 20:00",
+    "date": "2008-05-01 T 20:00:00",
     "capacity": 200,
     "occupation": "",
     "event_genres": "",
@@ -1162,7 +1162,7 @@
   {
     "venue": "Aeroparque Juan pablo II",
     "event": "kraken",
-    "date": "2007-12-14 T 18:00",
+    "date": "2007-12-14 T 18:00:00",
     "capacity": 2000,
     "occupation": "",
     "event_genres": "",
