@@ -28,7 +28,7 @@
   {
     "venue": "Canterbury bar",
     "event": "kraken",
-    "date": "2015-03-28 T 20:00",
+    "date": "2015-03-28 T 20:00:00",
     "capacity": 100,
     "occupation": "",
     "event_genres": "",
