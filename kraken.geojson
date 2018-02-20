@@ -298,7 +298,7 @@
   {
     "venue": "Valhala",
     "event": "kraken",
-    "date": "2014-11-14 T 19:30",
+    "date": "2014-11-14 T 19:30:00",
     "capacity": 100,
     "occupation": "",
     "event_genres": "",
